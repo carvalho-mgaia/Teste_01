@@ -22,24 +22,24 @@
     <qtDefaultName>1</qtDefaultName>
     <rnwkDefaultName>1</rnwkDefaultName>
     <swcDefaultName>1</swcDefaultName>
-    <flashFileName>Emotigum.swf</flashFileName>
-    <projectorWinFileName>Emotigum.exe</projectorWinFileName>
-    <projectorMacFileName>Emotigum.app</projectorMacFileName>
-    <htmlFileName>Emotigum.html</htmlFileName>
-    <gifFileName>Emotigum.gif</gifFileName>
-    <jpegFileName>Emotigum.jpg</jpegFileName>
-    <pngFileName>Emotigum.png</pngFileName>
-    <qtFileName>Emotigum.mov</qtFileName>
-    <rnwkFileName>Emotigum.smil</rnwkFileName>
-    <swcFileName>Emotigum.swc</swcFileName>
+    <flashFileName>emotigum.swf</flashFileName>
+    <projectorWinFileName>emotigum.exe</projectorWinFileName>
+    <projectorMacFileName>emotigum.app</projectorMacFileName>
+    <htmlFileName>emotigum.html</htmlFileName>
+    <gifFileName>emotigum.gif</gifFileName>
+    <jpegFileName>emotigum.jpg</jpegFileName>
+    <pngFileName>emotigum.png</pngFileName>
+    <qtFileName>emotigum.mov</qtFileName>
+    <rnwkFileName>emotigum.smil</rnwkFileName>
+    <swcFileName>emotigum.swc</swcFileName>
   </PublishFormatProperties>
   <PublishHtmlProperties enabled="true">
     <VersionDetectionIfAvailable>0</VersionDetectionIfAvailable>
     <VersionInfo>12,0,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
     <UsingDefaultContentFilename>1</UsingDefaultContentFilename>
     <UsingDefaultAlternateFilename>1</UsingDefaultAlternateFilename>
-    <ContentFilename>Emotigum_content.html</ContentFilename>
-    <AlternateFilename>Emotigum_alternate.html</AlternateFilename>
+    <ContentFilename>emotigum.xfl_content.html</ContentFilename>
+    <AlternateFilename>emotigum.xfl_alternate.html</AlternateFilename>
     <UsingOwnAlternateFile>0</UsingOwnAlternateFile>
     <OwnAlternateFilename></OwnAlternateFilename>
     <Width>760</Width>
