@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Maos/mao33" itemID="4fe3866d-00000743" lastModified="1340311149">
+  <timeline>
+    <DOMTimeline name="mao33">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-73.8" ty="-124.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1431 2402|1453 2567!1453 2567|1469 2576!1469 2576[1488 2583 1501 2567!1501 2567|1522 2401!1522 2401|1431 2402"/>
+                    <Edge cubics="!1431 2402(;1431,2402 1453,2567 1453,2567q1431 2402p1453 2567);"/>
+                    <Edge cubics="!1453 2567(;1453,2567 1480,2592 1501,2567q1453 2567Q1453 2567q1469 2576Q1488 2583q1501 2567);"/>
+                    <Edge cubics="!1501 2567(;1501,2567 1522,2401 1522,2401q1501 2567 1522 2401);"/>
+                    <Edge cubics="!1522 2401(;1522,2401 1431,2402 1431,2402q1522 2401 1431 2402);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

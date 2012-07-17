@@ -1,0 +1,176 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Landing Page/Botao Carregando" itemID="4fe08357-000001ef" lastModified="1341432440" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="Botao Carregando">
+      <layers>
+        <DOMLayer name="Texto" color="#808080" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Txt" selected="true" fontRenderingMode="standard" left="68.9" width="194" height="28.65" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-165.9" ty="11.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0%</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="24" bitmapSize="480" face="DimboRegular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mascara" color="#FF800A" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Landing Page/Fundo2" name="Mascara" centerPoint3DX="-3.8" centerPoint3DY="25.75">
+                  <matrix>
+                    <Matrix tx="-3.75" ty="25.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Barra" color="#9933CC" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Landing Page/Barra" name="Barra" centerPoint3DX="-104.3" centerPoint3DY="25.5">
+                  <matrix>
+                    <Matrix a="0.0099945068359375" tx="-105.3" ty="25.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Fundo2" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Landing Page/Fundo2" name="Fundo2" selected="true" centerPoint3DX="-3.8" centerPoint3DY="25.75">
+                  <matrix>
+                    <Matrix tx="-3.75" ty="25.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Fundo" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#0073FF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!2170 541[2174 368 2165 217!2165 217|2042 119!2042 119|-1927 403!-1927 403|-2183 905!-2183 905|-2086.5 969!-2086.5 969|-2086 969!-2086 969|-2086 969.5!-2086 969.5|-2071.5 979!-2071.5 979|2165.5 979!2165.5 979|2174 772!2174 772[2177 708
+ 2174 618!2174 618|2170 541"/>
+                        <Edge cubics="!2170 541(;2174,368 2165,217 2165,217q2170 541Q2174 368q2165 217);"/>
+                        <Edge cubics="!2165 217(2165,217;2165,217 2042,119 2042,119q2165 217 2042 119);"/>
+                        <Edge cubics="!2042 119(2042,119;2042,119 -1927,403 -1927,403q2042 119 -1927 403);"/>
+                        <Edge cubics="!-1927 403(-1927,403;-1927,403 -2183,905 -2183,905q-1927 403 -2183 905);"/>
+                        <Edge cubics="!-2029 1007(-2029,1007;-1861,989 -154,994 -154,994q-2029 1007Q-1924 996q-1028 994Q-581 993q-154 994);"/>
+                        <Edge cubics="!-154 994(;-154,994 2165,989 2165,989q-154 994 2165 989);"/>
+                        <Edge cubics="!2174 772(;2179,670 2170,541 2170,541q2174 772Q2177 708q2174 618Q2170 541q2170 541);"/>
+                        <Edge cubics="!-2086 969(;-2086,969 -2086,970 -2086,970q-2086 969 -2086 970);"/>
+                        <Edge cubics="!-2183 905(;-2183,905 -2086,969 -2086,969q-2183 905 -2086 969)-2086,969;"/>
+                        <Edge cubics="!2165 989(;2165,989 2166,979 2166,979q2165 989 2166 979)2166,979;"/>
+                        <Edge cubics="!2166 979(2166,979;2166,979 2174,772 2174,772q2166 979 2174 772);"/>
+                        <Edge cubics="!-2086 970(;-2086,970 -2071,979 -2071,979q-2086 970 -2071 979);"/>
+                        <Edge cubics="!-2071 979(;-2071,979 -2029,1007 -2029,1007q-2071 979 -2029 1007);"/>
+                        <Edge cubics="!-2071 979(-2071,979;-2071,979 2166,979 2166,979q-2071 979 2166 979);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#00D4FF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!2042 381[2051 221 2042 128!2042 128[1164 124 472 119!472 119|-2179 124!-2179 124|-2190 217!-2190 217[-2201 315 -2201 337!-2201 337|-2192 892!-2192 892|-2173 902!-2173 902[-2138 911 -2055 905!-2055 905|-547 900!-547 900[1623 909 1790
+ 896!1790 896|2029 887!2029 887[2029 776 2037 674!2037 674[2040 649 2038 565!2038 565[2037 469 2042 381"/>
+                        <Edge cubics="!2042 128(;2042,128 1164,124 472,119q2042 128Q1164 124q472 119);"/>
+                        <Edge cubics="!472 119(472,119;472,119 -2179,124 -2179,124q472 119 -2179 124);"/>
+                        <Edge cubics="!-2179 124(-2179,124;-2179,124 -2201,301 -2201,337q-2179 124Q-2179 124q-2190 217Q-2201 315q-2201 337);"/>
+                        <Edge cubics="!-2201 337(;-2201,372 -2192,892 -2192,892q-2201 337 -2192 892);"/>
+                        <Edge cubics="!-2192 892(;-2192,892 -2188,914 -2055,905q-2192 892Q-2192 892q-2173 902Q-2138 911q-2055 905);"/>
+                        <Edge cubics="!-2055 905(-2055,905;-2055,905 -565,900 -547,900q-2055 905 -547 900);"/>
+                        <Edge cubics="!-547 900(-547,900;-529,900 1623,909 1790,896q-547 900Q1623 909q1790 896);"/>
+                        <Edge cubics="!1790 896(1790,896;1790,896 2029,887 2029,887q1790 896 2029 887);"/>
+                        <Edge cubics="!2029 887(2029,887;2029,887 2029,776 2037,674q2029 887Q2029 776q2037 674);"/>
+                        <Edge cubics="!2037 674(2037,674;2043,614 2033,541 2042,381q2037 674Q2040 649q2038 565Q2037 469q2042 381);"/>
+                        <Edge cubics="!2042 381(2042,381;2051,221 2042,128 2042,128q2042 381Q2051 221q2042 128);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#AAF1FF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!2004 876|469 892!469 892|2032 910!2032 910|2026 143!2026 143|2004 876"/>
+                        <Edge cubics="!2026 143(;2026,143 2004,876 2004,876q2026 143 2004 876)2004,876;"/>
+                        <Edge cubics="!2004 876(;2004,876 469,887 469,887q2004 876 469 892);"/>
+                        <Edge cubics="!469 896(;469,896 2032,910 2032,910q469 892 2032 910);"/>
+                        <Edge cubics="!2032 910(;2032,910 2026,143 2026,143q2032 910 2026 143)2026,143;"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Brilho" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Landing Page/Brilho" name="Brilho" centerPoint3DY="27.8">
+                  <matrix>
+                    <Matrix ty="27.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

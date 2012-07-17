@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis copy/olho/olho13" itemID="4fe375a5-0000049b" lastModified="1340306853">
+  <timeline>
+    <DOMTimeline name="olho13">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-8.45" ty="-10.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!223 173[223 154 208 139!208 139[193 125 173 125!173 125[152 125 138 139!138 139[123 153 123 173!123 173[123 193 138 207!138 207[153 221 173 221!173 221[194 221 209 207!209 207[223 193 223 173"/>
+                    <Edge fillStyle0="1" edges="!235 146[207 120 169 120!169 120[130 120 102 146!102 146[75 173 75 209!75 209[76 246 103 272!103 272[131 298 170 298!170 298[210 298 236 272!236 272[263 247 263 209!263 209[263 172 235 146"/>
+                    <Edge cubics="!169 120(;143,120 120,129 102,146q169 120Q130 120q102 146);"/>
+                    <Edge cubics="!102 146(;85,163 75,185 75,209q102 146Q75 173q75 209);"/>
+                    <Edge cubics="!75 209(;76,258 118,298 170,298q75 209Q76 246q103 272Q131 298q170 298);"/>
+                    <Edge cubics="!170 298(;195,298 219,289 236,272q170 298Q210 298q236 272);"/>
+                    <Edge cubics="!236 272(;254,255 263,233 263,209q236 272Q263 247q263 209);"/>
+                    <Edge cubics="!263 209(;263,160 220,120 169,120q263 209Q263 172q235 146Q207 120q169 120);"/>
+                    <Edge cubics="!173 125(;145,125 123,147 123,173q173 125Q152 125q138 139Q123 153q123 173);"/>
+                    <Edge cubics="!123 173(;123,199 146,221 173,221q123 173Q123 193q138 207Q153 221q173 221);"/>
+                    <Edge cubics="!173 221(;201,221 223,200 223,173q173 221Q194 221q209 207Q223 193q223 173);"/>
+                    <Edge cubics="!223 173(;223,147 200,125 173,125q223 173Q223 154q208 139Q193 125q173 125);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/acessorios/Ac5" itemID="4fe1ea5c-000005bf" lastModified="1340205660">
+  <timeline>
+    <DOMTimeline name="Ac5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!-274 -269S2[111 -383 569 -237!569 -237[509 -76 419 73!419 73[238 371 86 310!86 310[-211 190 -437 244!-437 244[-518 268 -538 268!-538 268[-566 268 -566 214!-566 214[-566 -26 -568 -127!-568 -127[-467 -213 -274 -269"/>
+                        <Edge cubics="!569 -237(;569,-237 329,408 86,310q569 -237Q509 -76q419 73Q238 371q86 310);"/>
+                        <Edge cubics="!86 310(;-440,98 -565,377 -566,214q86 310Q-211 190q-437 244Q-518 268q-538 268Q-566 268q-566 214);"/>
+                        <Edge cubics="!-566 214(;-566,-26 -568,-127 -568,-127q-566 214Q-566 -26q-568 -127);"/>
+                        <Edge cubics="!-568 -127(;-568,-127 -164,-470 569,-237q-568 -127Q-467 -213q-274 -269Q111 -383q569 -237);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Boneco_Borda" itemID="4feb7153-00000408" lastModified="1340830035">
+  <timeline>
+    <DOMTimeline name="Boneco_Borda">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="79.05" y="150.05"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape selected="true">
+                      <transformationPoint>
+                        <Point x="79.05" y="150.05"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!2995 189S1[3081 284 3081 415!3081 415|3081 5584!3081 5584[3081 5687 3026 5770!3026 5770[2970 5851 2884 5882!2884 5882|264 5882!264 5882[175 5851 122 5770!122 5770[67 5687 67 5584!67 5584|67 415!67 415[67 284 150 189!150 189[237 97 356
+ 97!356 97|2789 97!2789 97[2912 97 2995 189!0 0|0 6004!0 6004|3162 6004!3162 6004|3162 0!3162 0|0 0"/>
+                        <Edge cubics="!0 6004(;0,6004 3162,6004 3162,6004q0 6004 3162 6004);"/>
+                        <Edge cubics="!3162 6004(3162,6004;3162,6004 3162,0 3162,0q3162 6004 3162 0)3162,0;"/>
+                        <Edge cubics="!0 0(;0,0 0,6004 0,6004q0 0 0 6004)0,6004;"/>
+                        <Edge cubics="!3162 0(;3162,0 0,0 0,0q3162 0 0 0);"/>
+                        <Edge cubics="!3081 415(;3081,415 3081,5584 3081,5584q3081 415 3081 5584);"/>
+                        <Edge cubics="!3081 5584(3081,5584;3081,5723 2998,5840 2884,5882q3081 5584Q3081 5687q3026 5770Q2970 5851q2884 5882);"/>
+                        <Edge cubics="!2884 5882(;2884,5882 264,5882 264,5882q2884 5882 264 5882)264,5882;"/>
+                        <Edge cubics="!264 5882(;148,5840 67,5723 67,5584q264 5882Q175 5851q122 5770Q67 5687q67 5584)67,5584;"/>
+                        <Edge cubics="!67 5584(;67,5584 67,415 67,415q67 5584 67 415);"/>
+                        <Edge cubics="!67 415(;67,239 195,97 356,97q67 415Q67 284q150 189Q237 97q356 97)356,97;"/>
+                        <Edge cubics="!356 97(;356,97 2789,97 2789,97q356 97 2789 97)2789,97;"/>
+                        <Edge cubics="!2789 97(2789,97;2951,97 3081,239 3081,415q2789 97Q2912 97q2995 189Q3081 284q3081 415);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Caixa Desenho/BotaoEsp1" itemID="4fe35247-0000014a" symbolType="button" lastModified="1340299957">
+  <timeline>
+    <DOMTimeline name="BotaoEsp1">
+      <layers>
+        <DOMLayer name="espessura_traços.ai" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-2" ty="2"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!288 160[264 160 248 177!248 177[231 194 231 218!231 218[231 241 248 258!248 258[264 275 288 275!288 275[312 275 329 258!329 258[346 241 346 218!346 218[346 194 329 177!329 177[312 160 288 160"/>
+                            <Edge cubics="!288 160(;256,160 231,186 231,218q288 160Q264 160q248 177Q231 194q231 218);"/>
+                            <Edge cubics="!231 218(;231,249 256,275 288,275q231 218Q231 241q248 258Q264 275q288 275);"/>
+                            <Edge cubics="!288 275(288,275;320,275 346,249 346,218q288 275Q312 275q329 258Q346 241q346 218);"/>
+                            <Edge cubics="!346 218(;346,186 320,160 288,160q346 218Q346 194q329 177Q312 160q288 160);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Caixa Desenho/container" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.75" y="12.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

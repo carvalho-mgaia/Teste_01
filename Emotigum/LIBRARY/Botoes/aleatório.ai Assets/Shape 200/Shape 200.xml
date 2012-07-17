@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Botoes/aleatório.ai Assets/Shape 200/Shape 200" itemID="4fe1d23c-0000026a" lastModified="1340199484">
+  <timeline>
+    <DOMTimeline name="Shape 200">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#5A3F99"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!2914 368|2904 61!2904 61[2892 10 2837 2!2837 2|2784 4!2784 4[2037 64 1006 42!1006 42[491 31 125 8!125 8[50 6 18 41!18 41[1 58 0 76!0 76[0 320 10 388!10 388[16 430 59 449!59 449[81 459 101 460!101 460[320 499 905 509!905 509[1197 515
+ 1445 512!1445 512[1763 510 2325 485!2325 485[2606 472 2823 460!2823 460[2883 451 2905 408!2905 408[2915 387 2914 368"/>
+                            <Edge cubics="!2914 368(;2914,368 2904,61 2904,61q2914 368 2904 61);"/>
+                            <Edge cubics="!2904 61(;2885,-20 2784,4 2784,4q2904 61Q2892 10q2837 2Q2784 4q2784 4);"/>
+                            <Edge cubics="!2784 4(;1589,100 125,8 125,8q2784 4Q2037 64q1006 42Q491 31q125 8);"/>
+                            <Edge cubics="!125 8(;5,4 0,76 0,76q125 8Q50 6q18 41Q1 58q0 76);"/>
+                            <Edge cubics="!0 76(;0,76 0,320 10,388q0 76Q0 320q10 388);"/>
+                            <Edge cubics="!10 388(;20,455 101,460 101,460q10 388Q16 430q59 449Q81 459q101 460);"/>
+                            <Edge cubics="!101 460(;452,522 1445,512 1445,512q101 460Q320 499q905 509Q1197 515q1445 512);"/>
+                            <Edge cubics="!1445 512(;1954,508 2823,460 2823,460q1445 512Q1763 510q2325 485Q2606 472q2823 460);"/>
+                            <Edge cubics="!2823 460(;2919,445 2914,368 2914,368q2823 460Q2883 451q2905 408Q2915 387q2914 368);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

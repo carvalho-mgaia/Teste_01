@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Acessorios/Icones/Cabelo6" itemID="4fd75a5f-000001b7" linkageExportForAS="true" linkageBaseClass="BoxAcessorios.DragableItem" linkageClassName="Cabelo6" lastModified="1342017675" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Cabelo6">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Composto" name="box" centerPoint3DX="26" centerPoint3DY="11.25">
+                  <matrix>
+                    <Matrix a="0.164505004882813" d="0.198196411132813" tx="-13.15" ty="-19.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="238" y="155.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="1.96615600585938" d="1.96615600585938" tx="-161.9" ty="-93.2"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1813 864|1992 1043!1992 1043[2001 1052 2000 1066!2000 1066[1998 1080 1987 1091!1987 1091|1864 1214!1864 1214|1639 986!1639 986|1765 869!1765 869[1775 858 1790 856!1790 856[1804 855 1813 864"/>
+                        <Edge cubics="!1813 864(;1813,864 1992,1043 1992,1043q1813 864 1992 1043);"/>
+                        <Edge cubics="!1992 1043(;2004,1055 2002,1076 1987,1091q1992 1043Q2001 1052q2000 1066Q1998 1080q1987 1091);"/>
+                        <Edge cubics="!1987 1091(;1987,1091 1864,1214 1864,1214q1987 1091 1864 1214);"/>
+                        <Edge cubics="!1864 1214(;1864,1214 1639,986 1639,986q1864 1214 1639 986);"/>
+                        <Edge cubics="!1639 986(;1639,986 1765,869 1765,869q1639 986 1765 869);"/>
+                        <Edge cubics="!1765 869(;1779,854 1801,852 1813,864q1765 869Q1775 858q1790 856Q1804 855q1813 864);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="1.96615600585938" d="1.96615600585938" tx="-161.9" ty="-93.2"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!1907 1228|1615 937!1615 937[1611 932 1603 932!1603 932[1596 932 1591 937!1591 937[1587 942 1587 949!1587 949[1587 956 1591 961!1591 961|1883 1252!1883 1252[1888 1257 1895 1257!1895 1257[1902 1257 1907 1252!1907 1252[1917 1240 1907 1228"/>
+                        <Edge cubics="!1591 937(;1585,943 1585,954 1591,961q1591 937Q1587 942q1587 949Q1587 956q1591 961);"/>
+                        <Edge cubics="!1591 961(;1591,961 1883,1252 1883,1252q1591 961 1883 1252);"/>
+                        <Edge cubics="!1883 1252(;1889,1259 1900,1259 1907,1252q1883 1252Q1888 1257q1895 1257Q1902 1257q1907 1252);"/>
+                        <Edge cubics="!1907 1252(;1913,1245 1913,1235 1907,1228q1907 1252Q1917 1240q1907 1228);"/>
+                        <Edge cubics="!1907 1228(;1907,1228 1615,937 1615,937q1907 1228 1615 937);"/>
+                        <Edge cubics="!1615 937(;1609,930 1598,930 1591,937q1615 937Q1611 932q1603 932Q1596 932q1591 937);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

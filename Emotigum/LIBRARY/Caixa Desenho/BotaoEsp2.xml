@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Caixa Desenho/BotaoEsp2" itemID="4fe3527d-00000150" symbolType="button" lastModified="1340300007">
+  <timeline>
+    <DOMTimeline name="BotaoEsp2">
+      <layers>
+        <DOMLayer name="espessura_traços.ai" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Caixa Desenho/container" symbolType="button">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-39.5" ty="1.35"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!1039 113[993 113 961 145!961 145[929 177 929 223!929 223[929 269 961 301!961 301[993 333 1039 333!1039 333[1085 333 1117 301!1117 301[1149 269 1149 223!1149 223[1149 177 1117 145!1117 145[1085 113 1039 113"/>
+                            <Edge cubics="!1039 113(1039,113;978,113 929,162 929,223q1039 113Q993 113q961 145Q929 177q929 223)929,223;"/>
+                            <Edge cubics="!929 223(929,223;929,284 978,333 1039,333q929 223Q929 269q961 301Q993 333q1039 333);"/>
+                            <Edge cubics="!1039 333(1039,333;1100,333 1149,284 1149,223q1039 333Q1085 333q1117 301Q1149 269q1149 223);"/>
+                            <Edge cubics="!1149 223(1149,223;1149,162 1100,113 1039,113q1149 223Q1149 177q1117 145Q1085 113q1039 113)1039,113;"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Bocas/boca8" itemID="4fe38c79-00000bb1" lastModified="1340312697">
+  <timeline>
+    <DOMTimeline name="boca8">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-73.85" ty="-102.25"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1611 1886|1607 2036!1607 2036[1596 2188 1560 2200!1560 2200[1502 2219 1453 2212!1453 2212[1386 2204 1367 2146!1367 2146[1349 2092 1344 1979!1344 1979|1343 1876!1343 1876|1611 1886"/>
+                    <Edge cubics="!1611 1886(;1611,1886 1617,2181 1560,2200q1611 1886Q1611 1886q1607 2036Q1596 2188q1560 2200);"/>
+                    <Edge cubics="!1560 2200(;1504,2218 1395,2233 1367,2146q1560 2200Q1502 2219q1453 2212Q1386 2204q1367 2146);"/>
+                    <Edge cubics="!1367 2146(;1338,2060 1343,1876 1343,1876q1367 2146Q1349 2092q1344 1979Q1343 1876q1343 1876);"/>
+                    <Edge cubics="!1343 1876(;1343,1876 1611,1886 1611,1886q1343 1876 1611 1886);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

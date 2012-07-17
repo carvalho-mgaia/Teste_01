@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Botoes/ok!.ai Assets/Shape 201" itemID="4fe1d1eb-0000024e" lastModified="1340199403">
+  <timeline>
+    <DOMTimeline name="Shape 201">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#76E47D"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!1286 604[887 788 422 729!422 729[177 697 2 620!2 620[421 817 910 745!910 745[1155 709 1315 633!1315 633|1319 0!1319 0|1286 604"/>
+                            <Edge cubics="!1286 604(;652,896 45,639 2,620q1286 604Q887 788q422 729Q177 697q2 620);"/>
+                            <Edge cubics="!2 620(;673,935 1315,633 1315,633q2 620Q421 817q910 745Q1155 709q1315 633);"/>
+                            <Edge cubics="!1315 633(;1315,633 1319,0 1319,0q1315 633 1319 0);"/>
+                            <Edge cubics="!1319 0(;1319,0 1286,604 1286,604q1319 0 1286 604);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

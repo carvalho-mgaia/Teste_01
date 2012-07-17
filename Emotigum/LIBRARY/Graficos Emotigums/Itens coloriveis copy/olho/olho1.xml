@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis copy/olho/olho1" itemID="4fe37a6c-000006a0" lastModified="1340205458">
+  <timeline>
+    <DOMTimeline name="olho1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!217 55[225 55 230 47!230 47[236 38 236 27!236 27[236 16 230 8!230 8[225 0 217 0!217 0[209 0 203 8!203 8[198 16 198 27!198 27[198 38 203 47!203 47[209 55 217 55"/>
+                    <Edge fillStyle1="1" edges="!32 47[27 55 19 55!19 55[11 55 5 47!5 47[0 38 0 27!0 27[0 16 5 8!5 8[11 0 19 0!19 0[27 0 32 8!32 8[38 16 38 27!38 27[38 38 32 47"/>
+                    <Edge cubics="!38 27(;38,42 29,55 19,55q38 27Q38 38q32 47Q27 55q19 55);"/>
+                    <Edge cubics="!19 55(;8,55 0,42 0,27q19 55Q11 55q5 47Q0 38q0 27);"/>
+                    <Edge cubics="!0 27(;0,12 8,0 19,0q0 27Q0 16q5 8Q11 0q19 0);"/>
+                    <Edge cubics="!19 0(;29,0 38,12 38,27q19 0Q27 0q32 8Q38 16q38 27);"/>
+                    <Edge cubics="!198 27(;198,42 206,55 217,55q198 27Q198 38q203 47Q209 55q217 55);"/>
+                    <Edge cubics="!217 55(;227,55 236,42 236,27q217 55Q225 55q230 47Q236 38q236 27);"/>
+                    <Edge cubics="!236 27(;236,12 227,0 217,0q236 27Q236 16q230 8Q225 0q217 0);"/>
+                    <Edge cubics="!217 0(;206,0 198,12 198,27q217 0Q209 0q203 8Q198 16q198 27);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/Barra de amigos AI/Moldura.ai Assets/Layer 1/&lt;Clip Group 0&gt;_2_0" itemID="4fcf956d-000000e5" lastModified="1339004269">
+  <timeline>
+    <DOMTimeline name="&lt;Clip Group 0&gt;_2_0">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!312 3197|302 3499!302 3499|343 3530!343 3530[390 3559 417 3547!417 3547[448 3533 535 3427!535 3427[621 3323 628 3293!628 3293[634 3269 654 3158!654 3158|672 3053!672 3053|427 2928!427 2928|364 3036!364 3036[303 3152 312 3197"/>
+                    <Edge cubics="!312 3197(;312,3197 302,3499 302,3499q312 3197 302 3499);"/>
+                    <Edge cubics="!302 3499(;302,3499 374,3566 417,3547q302 3499Q302 3499q343 3530Q390 3559q417 3547);"/>
+                    <Edge cubics="!417 3547(;460,3528 619,3331 628,3293q417 3547Q448 3533q535 3427Q621 3323q628 3293);"/>
+                    <Edge cubics="!628 3293(;638,3254 672,3053 672,3053q628 3293Q634 3269q654 3158Q672 3053q672 3053);"/>
+                    <Edge cubics="!672 3053(;672,3053 427,2928 427,2928q672 3053 427 2928);"/>
+                    <Edge cubics="!427 2928(;427,2928 297,3125 312,3197q427 2928Q427 2928q364 3036Q303 3152q312 3197);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Vetores/Barra de amigos AI/Moldura.ai Assets/Layer 1/&lt;Clip Group 0&gt;_9">
+                  <transformationPoint>
+                    <Point x="389.85" y="117.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

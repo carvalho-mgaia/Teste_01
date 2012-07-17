@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Cabelos/cabelo45" itemID="4fe36fff-000003b9" lastModified="1340305408">
+  <timeline>
+    <DOMTimeline name="cabelo45">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-45.3" ty="-21.7"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!2043 1291|2043 434!2043 434|906 434!906 434|906 728!906 728|911 728!911 728|911 1355!911 1355[1605 1417 1812 1146!1812 1146[1915 1011 1880 863!1880 863|1951 992!1951 992[2024 1156 2033 1328!2033 1328[2033 1280 2043 1291"/>
+                        <Edge cubics="!906 434(;906,434 906,728 906,728q906 434 906 728);"/>
+                        <Edge cubics="!906 728(;906,728 911,728 911,728q906 728 911 728);"/>
+                        <Edge cubics="!911 728(;911,728 911,1355 911,1355q911 728 911 1355);"/>
+                        <Edge cubics="!911 1355(;2021,1454 1880,863 1880,863q911 1355Q1605 1417q1812 1146Q1915 1011q1880 863);"/>
+                        <Edge cubics="!1880 863(;1880,863 2019,1053 2033,1328q1880 863Q1880 863q1951 992Q2024 1156q2033 1328);"/>
+                        <Edge cubics="!2033 1328(;2033,1309 2034,1281 2043,1291q2033 1328Q2033 1280q2043 1291);"/>
+                        <Edge cubics="!2043 434(;2043,434 906,434 906,434q2043 434 906 434);"/>
+                        <Edge cubics="!2043 1291(;2043,1291 2043,434 2043,434q2043 1291 2043 434);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

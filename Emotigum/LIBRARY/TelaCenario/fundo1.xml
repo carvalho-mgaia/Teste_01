@@ -1,0 +1,17 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TelaCenario/fundo1" itemID="4fdb49a7-00000104" lastModified="1340825892">
+  <timeline>
+    <DOMTimeline name="fundo1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="TelaCenario/praia.jpg"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

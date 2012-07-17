@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/acessorios/Ac4" itemID="4fe1ea4a-00000572" lastModified="1340205642">
+  <timeline>
+    <DOMTimeline name="Ac4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!-567 -369|-570 369!-570 369[-562 361 -568 369!-568 369|566 364!566 364|570 -369!570 -369|-567 -369!302 267|-100 267!-100 267[-100 184 -41 125!-41 125[18 67 101 67!101 67[184 67 243 125!243 125[302 184 302 267"/>
+                        <Edge cubics="!-100 267(;-100,156 -10,67 101,67q-100 267Q-100 184q-41 125Q18 67q101 67);"/>
+                        <Edge cubics="!101 67(;212,67 302,156 302,267q101 67Q184 67q243 125Q302 184q302 267);"/>
+                        <Edge cubics="!302 267(;302,267 -100,267 -100,267q302 267 -100 267);"/>
+                        <Edge cubics="!570 -369(;570,-369 -567,-369 -567,-369q570 -369 -567 -369);"/>
+                        <Edge cubics="!-567 -369(;-567,-369 -570,369 -570,369q-567 -369 -570 369);"/>
+                        <Edge cubics="!-570 369(;-564,363 -565,365 -568,369q-570 369Q-562 361q-568 369);"/>
+                        <Edge cubics="!-568 369(;-568,369 566,364 566,364q-568 369 566 364);"/>
+                        <Edge cubics="!566 364(;566,364 570,-369 570,-369q566 364 570 -369);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

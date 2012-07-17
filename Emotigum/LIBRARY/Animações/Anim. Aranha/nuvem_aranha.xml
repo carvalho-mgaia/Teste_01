@@ -1,0 +1,169 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animações/Anim. Aranha/nuvem_aranha" itemID="4fd760b8-000002b2" lastModified="1339516660" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="nuvem_aranha">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="140" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-29.15" ty="-31.25"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1220 255[1172 185 1105 167!1105 167[1069 158 1041 159!1041 159[1010 161 979 177!979 177[952 191 935 216!935 216[926 229 911 265!911 265[852 162 849 156!849 156[810 97 764 63!764 63[666 -11 543 2!543 2[490 8 445 35!445 35[400 63 371 106
+!371 106[341 151 335 215!335 215[334 229 335 329!335 329[294 303 272 293!272 293[237 275 200 273!200 273[155 271 108 291!108 291[58 313 36 350!36 350[-19 444 13 581!13 581[22 621 47 657!47 657[74 697 108 711!108 711[107 719 111 724!111
+ 724[116 731 124 730!124 730[288 720 608 710!608 710[733 706 860 713!860 713[880 714 920 717!920 717[955 719 980 718!980 718[996 718 1053 716!1053 716|1059 719!1059 719[1179 760 1239 626!1239 626[1288 515 1272 393!1272 393[1262 318 1220
+ 255"/>
+                    <Edge cubics="!1272 393(;1260,302 1201,192 1105,167q1272 393Q1262 318q1220 255Q1172 185q1105 167);"/>
+                    <Edge cubics="!1105 167(;1059,155 1022,155 979,177q1105 167Q1069 158q1041 159Q1010 161q979 177);"/>
+                    <Edge cubics="!979 177(;938,198 926,230 911,265q979 177Q952 191q935 216Q926 229q911 265);"/>
+                    <Edge cubics="!911 265(;869,191 836,116 764,63q911 265Q852 162q849 156Q810 97q764 63);"/>
+                    <Edge cubics="!764 63(;697,12 625,-7 543,2q764 63Q666 -11q543 2);"/>
+                    <Edge cubics="!543 2(;473,10 410,48 371,106q543 2Q490 8q445 35Q400 63q371 106);"/>
+                    <Edge cubics="!371 106(;324,176 334,251 335,329q371 106Q341 151q335 215Q334 229q335 329);"/>
+                    <Edge cubics="!335 329(;291,304 257,276 200,273q335 329Q294 303q272 293Q237 275q200 273);"/>
+                    <Edge cubics="!200 273(;143,270 66,299 36,350q200 273Q155 271q108 291Q58 313q36 350);"/>
+                    <Edge cubics="!36 350(;-7,423 -6,501 13,581q36 350Q-19 444q13 581);"/>
+                    <Edge cubics="!13 581(;24,629 60,691 108,711q13 581Q22 621q47 657Q74 697q108 711);"/>
+                    <Edge cubics="!108 711(;107,720 112,731 124,730q108 711Q107 719q111 724Q116 731q124 730);"/>
+                    <Edge cubics="!124 730(;286,720 446,715 608,710q124 730Q288 720q608 710);"/>
+                    <Edge cubics="!608 710(;692,707 775,708 860,713q608 710Q733 706q860 713);"/>
+                    <Edge cubics="!860 713(;900,715 940,719 980,718q860 713Q880 714q920 717Q955 719q980 718);"/>
+                    <Edge cubics="!980 718(;996,718 1027,715 1053,716q980 718Q996 718q1053 716);"/>
+                    <Edge cubics="!1053 716(;1054,717 1056,718 1059,719q1053 716 1059 719);"/>
+                    <Edge cubics="!1059 719(;1238,781 1288,517 1272,393q1059 719Q1179 760q1239 626Q1288 515q1272 393);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" outline="true" useOutlineView="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="140" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#009900"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!791 2315|-769 2315!-769 2315|-769 -605!-769 -605|791 -605!791 -605|791 2315"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" parentLayerIndex="1">
+          <frames>
+            <DOMFrame index="0" duration="33" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-50">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Aranha/aranha">
+                  <matrix>
+                    <Matrix tx="0.1" ty="-9.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="40" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Aranha/aranha" selected="true">
+                  <matrix>
+                    <Matrix tx="0.1" ty="23.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Aranha/aranha">
+                  <matrix>
+                    <Matrix tx="0.1" ty="28.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Aranha/aranha" selected="true">
+                  <matrix>
+                    <Matrix tx="0.1" ty="-2.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="87" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Aranha/aranha" selected="true" centerPoint3DX="0.1" centerPoint3DY="-38.9">
+                  <matrix>
+                    <Matrix tx="0.1" ty="-5.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="102" duration="17" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Aranha/aranha" centerPoint3DX="0.1" centerPoint3DY="-38.1">
+                  <matrix>
+                    <Matrix tx="0.1" ty="-4.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="119" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Aranha/aranha" centerPoint3DX="0.1" centerPoint3DY="-35.3">
+                  <matrix>
+                    <Matrix tx="0.1" ty="-1.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="139" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Aranha/aranha" selected="true" centerPoint3DX="0.1" centerPoint3DY="-37.3">
+                  <matrix>
+                    <Matrix tx="0.1" ty="-3.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

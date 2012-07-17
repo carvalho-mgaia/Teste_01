@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Caixa Cores/Box Cores" itemID="4fd74a30-000000f0" lastModified="1340991361">
+  <timeline>
+    <DOMTimeline name="Box Cores">
+      <layers>
+        <DOMLayer name="caixa de cores.ai" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Caixa Cores/caixa de cores.ai Assets/Shape 198 copy 3" blendMode="layer">
+                  <matrix>
+                    <Matrix tx="0.4" ty="2.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.2" y="36.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Caixa Cores/caixa de cores.ai Assets/Shape 197 copy 3" blendMode="layer" centerPoint3DX="73.45" centerPoint3DY="35.3">
+                  <transformationPoint>
+                    <Point x="73.45" y="35.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Maos/mao25_2" itemID="4fe38331-0000070f" lastModified="1340310321">
+  <timeline>
+    <DOMTimeline name="mao25_2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-73.75" ty="-120.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1176 2460|1120 2460!1120 2460|1120 2363!1120 2363|1176 2363!1176 2363|1176 2460"/>
+                    <Edge cubics="!1176 2460(;1176,2460 1120,2460 1120,2460q1176 2460 1120 2460);"/>
+                    <Edge cubics="!1120 2460(;1120,2460 1120,2363 1120,2363q1120 2460 1120 2363);"/>
+                    <Edge cubics="!1120 2363(;1120,2363 1176,2363 1176,2363q1120 2363 1176 2363);"/>
+                    <Edge cubics="!1176 2363(;1176,2363 1176,2460 1176,2460q1176 2363 1176 2460);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-73.75" ty="-120.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1774 2460|1830 2460!1830 2460|1830 2363!1830 2363|1774 2363!1774 2363|1774 2460"/>
+                    <Edge cubics="!1774 2460(;1774,2460 1830,2460 1830,2460q1774 2460 1830 2460);"/>
+                    <Edge cubics="!1830 2460(;1830,2460 1830,2363 1830,2363q1830 2460 1830 2363);"/>
+                    <Edge cubics="!1830 2363(;1830,2363 1774,2363 1774,2363q1830 2363 1774 2363);"/>
+                    <Edge cubics="!1774 2363(;1774,2363 1774,2460 1774,2460q1774 2363 1774 2460);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

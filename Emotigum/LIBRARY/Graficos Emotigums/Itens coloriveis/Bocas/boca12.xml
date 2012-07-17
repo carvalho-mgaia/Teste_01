@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Bocas/boca12" itemID="4fe38f7b-00000c1f" lastModified="1340313467">
+  <timeline>
+    <DOMTimeline name="boca12">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-89.25" ty="-98.1"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1733 1946|1733 1849!1733 1849|1837 1849!1837 1849|1837 1946!1837 1946|1733 1946"/>
+                        <Edge cubics="!1733 1946(;1733,1946 1733,1849 1733,1849q1733 1946p1733 1849);"/>
+                        <Edge cubics="!1733 1849(;1733,1849 1837,1849 1837,1849q1733 1849p1837 1849);"/>
+                        <Edge cubics="!1837 1849(;1837,1849 1837,1946 1837,1946q1837 1849p1837 1946);"/>
+                        <Edge cubics="!1837 1946(;1837,1946 1733,1946 1733,1946q1837 1946 1733 1946);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-89.25" ty="-98.1"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1811 1892|1847 2045!1847 2045|1847 2075!1847 2075|1724 2075!1724 2075|1724 2045!1724 2045|1759 1892!1759 1892|1811 1892"/>
+                        <Edge cubics="!1724 2045(;1724,2045 1759,1892 1759,1892q1724 2045p1759 1892);"/>
+                        <Edge cubics="!1759 1892(;1759,1892 1811,1892 1811,1892q1759 1892p1811 1892);"/>
+                        <Edge cubics="!1811 1892(;1811,1892 1847,2045 1847,2045q1811 1892p1847 2045);"/>
+                        <Edge cubics="!1847 2045(;1847,2045 1847,2075 1847,2075q1847 2045p1847 2075);"/>
+                        <Edge cubics="!1847 2075(;1847,2075 1724,2075 1724,2075q1847 2075p1724 2075);"/>
+                        <Edge cubics="!1724 2075(;1724,2075 1724,2045 1724,2045q1724 2075p1724 2045);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-89.25" ty="-98.1"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1800 1951|1770 1951!1770 1951|1770 1873!1770 1873|1800 1873!1800 1873|1800 1951"/>
+                        <Edge cubics="!1800 1951(;1800,1951 1770,1951 1770,1951q1800 1951p1770 1951);"/>
+                        <Edge cubics="!1770 1951(;1770,1951 1770,1873 1770,1873q1770 1951p1770 1873);"/>
+                        <Edge cubics="!1770 1873(;1770,1873 1800,1873 1800,1873q1770 1873p1800 1873);"/>
+                        <Edge cubics="!1800 1873(;1800,1873 1800,1951 1800,1951q1800 1873p1800 1951);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

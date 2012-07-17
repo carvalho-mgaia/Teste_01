@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Cabelos/cabelo77" itemID="4fe3712a-0000043c" lastModified="1340305706">
+  <timeline>
+    <DOMTimeline name="cabelo77">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-45.3" ty="-21.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!2043 1395|2043 434!2043 434|906 434!906 434|906 1395!906 1395[920 1376 987 1230!987 1230[1032 1129 1074 1133!1074 1133[1103 1136 1135 1186!1135 1186[1154 1215 1193 1283!1193 1283[1274 1407 1391 1339!1391 1339[1442 1310 1553 1384!1553
+ 1384[1658 1454 1702 1409!1702 1409[1798 1312 1886 1347!1886 1347[1911 1357 1959 1382!1959 1382[2004 1401 2043 1395"/>
+                    <Edge cubics="!2043 434(;2043,434 906,434 906,434q2043 434 906 434);"/>
+                    <Edge cubics="!906 1395(;968,1310 1003,1126 1074,1133q906 1395Q920 1376q987 1230Q1032 1129q1074 1133);"/>
+                    <Edge cubics="!1074 1133(;1168,1143 1191,1455 1391,1339q1074 1133Q1103 1136q1135 1186Q1154 1215q1193 1283Q1274 1407q1391 1339);"/>
+                    <Edge cubics="!1391 1339(;1495,1279 1616,1496 1702,1409q1391 1339Q1442 1310q1553 1384Q1658 1454q1702 1409);"/>
+                    <Edge cubics="!1702 1409(;1865,1244 1916,1414 2043,1395q1702 1409Q1798 1312q1886 1347Q1911 1357q1959 1382Q2004 1401q2043 1395);"/>
+                    <Edge cubics="!2043 1395(;2043,1395 2043,434 2043,434q2043 1395 2043 434);"/>
+                    <Edge cubics="!906 434(;906,434 906,1395 906,1395q906 434 906 1395);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

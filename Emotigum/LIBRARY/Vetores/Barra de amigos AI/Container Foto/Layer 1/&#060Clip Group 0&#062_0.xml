@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/Barra de amigos AI/Container Foto/Layer 1/&lt;Clip Group 0&gt;_0" itemID="4fcf936c-00000094" lastModified="1339003756">
+  <timeline>
+    <DOMTimeline name="&lt;Clip Group 0&gt;_0">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 3225|2088 3225!2088 3225|2088 0!2088 0|0 0!0 0|0 3225"/>
+                    <Edge cubics="!0 3225(;0,3225 2088,3225 2088,3225q0 3225 2088 3225);"/>
+                    <Edge cubics="!2088 3225(;2088,3225 2088,0 2088,0q2088 3225 2088 0);"/>
+                    <Edge cubics="!2088 0(;2088,0 0,0 0,0q2088 0 0 0);"/>
+                    <Edge cubics="!0 0(;0,0 0,3225 0,3225q0 0 0 3225);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Vetores/Barra de amigos AI/Container Foto/Layer 1/&lt;Image&gt;_0">
+                  <matrix>
+                    <Matrix a="0.719985961914063" d="0.719985961914063"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

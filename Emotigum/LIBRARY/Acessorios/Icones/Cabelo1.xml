@@ -1,0 +1,83 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Acessorios/Icones/Cabelo1" itemID="4fd7546b-0000010c" linkageExportForAS="true" linkageBaseClass="BoxAcessorios.DragableItem" linkageClassName="Cabelo1" lastModified="1342017556" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Cabelo1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Composto" name="box" centerPoint3DX="26" centerPoint3DY="11.25">
+                  <matrix>
+                    <Matrix a="0.164505004882813" d="0.198196411132813" tx="-13.15" ty="-19.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="238" y="155.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="25.5" y="7.4"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="4.10214233398438" d="4.10214233398438" tx="-196.8" ty="-189.15"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!990 970[981 979 982 991!982 991[983 1003 993 1010!993 1010[1003 1018 1016 1017!1016 1017[1030 1016 1039 1006!1039 1006|1125 916!1125 916[1134 907 1133 895!1133 895[1133 883 1123 875!1123 875[1112 867 1099 869!1099 869[1085 870 1077 880
+!1077 880|990 970"/>
+                        <Edge cubics="!993 1010(;1006,1020 1027,1019 1039,1006q993 1010Q1003 1018q1016 1017Q1030 1016q1039 1006);"/>
+                        <Edge cubics="!1039 1006(;1039,1006 1125,916 1125,916q1039 1006 1125 916);"/>
+                        <Edge cubics="!1125 916(;1137,904 1136,886 1123,875q1125 916Q1134 907q1133 895Q1133 883q1123 875);"/>
+                        <Edge cubics="!1123 875(;1109,865 1088,867 1077,880q1123 875Q1112 867q1099 869Q1085 870q1077 880);"/>
+                        <Edge cubics="!1077 880(;1077,880 990,970 990,970q1077 880 990 970);"/>
+                        <Edge cubics="!990 970(;978,982 979,1000 993,1010q990 970Q981 979q982 991Q983 1003q993 1010);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="4.10214233398438" d="4.10214233398438" tx="-196.8" ty="-189.15"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1145 929|1058 1019!1058 1019[1049 1029 1050 1041!1050 1041[1051 1052 1061 1060!1061 1060[1071 1068 1084 1066!1084 1066[1098 1065 1107 1056!1107 1056|1193 966!1193 966[1202 956 1201 944!1201 944[1201 933 1191 925!1191 925[1181 918 1167
+ 919!1167 919[1154 920 1145 929"/>
+                        <Edge cubics="!1061 1060(;1074,1070 1095,1068 1107,1056q1061 1060Q1071 1068q1084 1066Q1098 1065q1107 1056);"/>
+                        <Edge cubics="!1107 1056(;1107,1056 1193,966 1193,966q1107 1056 1193 966);"/>
+                        <Edge cubics="!1193 966(;1205,953 1204,935 1191,925q1193 966Q1202 956q1201 944Q1201 933q1191 925);"/>
+                        <Edge cubics="!1191 925(;1177,915 1157,917 1145,929q1191 925Q1181 918q1167 919Q1154 920q1145 929);"/>
+                        <Edge cubics="!1145 929(;1145,929 1058,1019 1058,1019q1145 929 1058 1019);"/>
+                        <Edge cubics="!1058 1019(;1046,1032 1048,1050 1061,1060q1058 1019Q1049 1029q1050 1041Q1051 1052q1061 1060);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

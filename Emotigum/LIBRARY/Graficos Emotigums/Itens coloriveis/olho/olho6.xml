@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/olho/olho6" itemID="4fc7bb7a-000000e4" lastModified="1338489722">
+  <timeline>
+    <DOMTimeline name="olho6">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-66.95" ty="-77.4"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1376 1575[1376 1586 1371 1594!1371 1594[1365 1602 1357 1602!1357 1602[1350 1602 1344 1594!1344 1594[1339 1586 1339 1575!1339 1575[1339 1564 1344 1556!1344 1556[1350 1548 1357 1548!1357 1548[1365 1548 1371 1556!1371 1556[1376 1564 1376
+ 1575"/>
+                    <Edge cubics="!1376 1575(;1376,1590 1368,1602 1357,1602q1376 1575Q1376 1586q1371 1594Q1365 1602q1357 1602);"/>
+                    <Edge cubics="!1357 1602(;1347,1602 1339,1590 1339,1575q1357 1602Q1350 1602q1344 1594Q1339 1586q1339 1575);"/>
+                    <Edge cubics="!1339 1575(;1339,1560 1347,1548 1357,1548q1339 1575Q1339 1564q1344 1556Q1350 1548q1357 1548);"/>
+                    <Edge cubics="!1357 1548(;1368,1548 1376,1560 1376,1575q1357 1548Q1365 1548q1371 1556Q1376 1564q1376 1575);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Botao Container" itemID="4fd8a2a3-0000018b" lastModified="1339599606" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Botao Container">
+      <layers>
+        <DOMLayer name="caixa de acessórios_cima.ai" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Vetores/caixa de acessórios_cima.ai Assets/Shape 198 copy/Shape 198 copy" blendMode="layer">
+                  <matrix>
+                    <Matrix tx="125.4" ty="3.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.7" y="20.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Vetores/caixa de acessórios_cima.ai Assets/Shape 197 copy/Shape 197 copy" blendMode="layer" centerPoint3DX="83.05" centerPoint3DY="22.55">
+                  <transformationPoint>
+                    <Point x="83.05" y="22.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Vetores/caixa de acessórios_cima.ai Assets/Shape 199 + Group 2 copy 3/Shape 199 + Group 2 copy 3" blendMode="layer" centerPoint3DX="83.05" centerPoint3DY="22.7">
+                  <matrix>
+                    <Matrix tx="4.05" ty="3.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="78.85" y="19.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

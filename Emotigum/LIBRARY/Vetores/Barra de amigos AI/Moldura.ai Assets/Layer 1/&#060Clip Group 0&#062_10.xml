@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/Barra de amigos AI/Moldura.ai Assets/Layer 1/&lt;Clip Group 0&gt;_10" itemID="4fcf956d-000000ee" lastModified="1339004269">
+  <timeline>
+    <DOMTimeline name="&lt;Clip Group 0&gt;_10">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!15595 0|0 0!0 0|0 4694!0 4694|15595 4694!15595 4694|15595 0"/>
+                    <Edge cubics="!0 4694(;0,4694 15595,4694 15595,4694q0 4694 15595 4694);"/>
+                    <Edge cubics="!15595 4694(;15595,4694 15595,0 15595,0q15595 4694 15595 0);"/>
+                    <Edge cubics="!15595 0(;15595,0 0,0 0,0q15595 0 0 0);"/>
+                    <Edge cubics="!0 0(;0,0 0,4694 0,4694q0 0 0 4694);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Vetores/Barra de amigos AI/Moldura.ai Assets/Layer 1/&lt;Image&gt;_5">
+                  <matrix>
+                    <Matrix a="0.719985961914063" d="0.719985961914063"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

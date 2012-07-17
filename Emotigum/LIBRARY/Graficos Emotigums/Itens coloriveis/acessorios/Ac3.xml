@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/acessorios/Ac3" itemID="4fe1ea24-00000524" lastModified="1340205604">
+  <timeline>
+    <DOMTimeline name="Ac3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!-234 -93S1[-349 -15 -447 86!-447 86[-533 174 -566 235!-566 235[-456 158 -309 88!-309 88[-14 -51 175 -12!175 -12[364 26 464 141!464 141[515 199 527 249!527 249[570 159 565 54!565 54[556 -156 321 -228!321 -228[74 -303 -234 -93"/>
+                        <Edge cubics="!-566 235(;-566,235 -128,-74 175,-12q-566 235Q-456 158q-309 88Q-14 -51q175 -12);"/>
+                        <Edge cubics="!175 -12(;477,49 527,249 527,249q175 -12Q364 26q464 141Q515 199q527 249);"/>
+                        <Edge cubics="!527 249(;527,249 697,-113 321,-228q527 249Q570 159q565 54Q556 -156q321 -228);"/>
+                        <Edge cubics="!321 -228(;-55,-342 -488,91 -566,235q321 -228Q74 -303q-234 -93Q-349 -15q-447 86Q-533 174q-566 235);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

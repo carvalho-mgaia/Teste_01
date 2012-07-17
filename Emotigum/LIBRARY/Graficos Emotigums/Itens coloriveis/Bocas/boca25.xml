@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Bocas/boca25" itemID="4fe38edc-00000c0b" lastModified="1340313308">
+  <timeline>
+    <DOMTimeline name="boca25">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-76.2" ty="-98.75"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1236 1962[1222 1981 1222 2009!1222 2009|1320 2009!1320 2009[1320 1981 1306 1962!1306 1962[1291 1942 1271 1942!1271 1942[1251 1942 1236 1962"/>
+                    <Edge cubics="!1320 2009(;1320,1972 1298,1942 1271,1942q1320 2009Q1320 1981q1306 1962Q1291 1942q1271 1942);"/>
+                    <Edge cubics="!1271 1942(;1244,1942 1222,1972 1222,2009q1271 1942Q1251 1942q1236 1962Q1222 1981q1222 2009);"/>
+                    <Edge cubics="!1222 2009(;1222,2009 1320,2009 1320,2009q1222 2009 1320 2009);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-76.2" ty="-98.75"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1438 1962[1424 1981 1424 2009!1424 2009|1522 2009!1522 2009[1522 1981 1508 1962!1508 1962[1493 1942 1473 1942!1473 1942[1453 1942 1438 1962"/>
+                    <Edge cubics="!1522 2009(;1522,1972 1500,1942 1473,1942q1522 2009Q1522 1981q1508 1962Q1493 1942q1473 1942);"/>
+                    <Edge cubics="!1473 1942(;1446,1942 1424,1972 1424,2009q1473 1942Q1453 1942q1438 1962Q1424 1981q1424 2009);"/>
+                    <Edge cubics="!1424 2009(;1424,2009 1522,2009 1522,2009q1424 2009 1522 2009);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-76.2" ty="-98.75"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1628 1962[1613 1981 1613 2009!1613 2009|1712 2009!1712 2009[1712 1981 1698 1962!1698 1962[1683 1942 1663 1942!1663 1942[1642 1942 1628 1962"/>
+                    <Edge cubics="!1712 2009(;1712,1972 1690,1942 1663,1942q1712 2009Q1712 1981q1698 1962Q1683 1942q1663 1942);"/>
+                    <Edge cubics="!1663 1942(;1635,1942 1613,1972 1613,2009q1663 1942Q1642 1942q1628 1962Q1613 1981q1613 2009);"/>
+                    <Edge cubics="!1613 2009(;1613,2009 1712,2009 1712,2009q1613 2009 1712 2009);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-76.2" ty="-98.75"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1741 1962[1727 1981 1727 2009!1727 2009|1826 2009!1826 2009[1826 1981 1811 1962!1811 1962[1796 1942 1776 1942!1776 1942[1756 1942 1741 1962"/>
+                    <Edge cubics="!1826 2009(;1826,1972 1803,1942 1776,1942q1826 2009Q1826 1981q1811 1962Q1796 1942q1776 1942);"/>
+                    <Edge cubics="!1776 1942(;1749,1942 1727,1972 1727,2009q1776 1942Q1756 1942q1741 1962Q1727 1981q1727 2009);"/>
+                    <Edge cubics="!1727 2009(;1727,2009 1826,2009 1826,2009q1727 2009 1826 2009);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

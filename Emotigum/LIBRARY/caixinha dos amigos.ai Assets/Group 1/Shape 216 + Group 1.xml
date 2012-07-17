@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="caixinha dos amigos.ai Assets/Group 1/Shape 216 + Group 1" itemID="4fee0637-0000027a" lastModified="1340999223">
+  <timeline>
+    <DOMTimeline name="Shape 216 + Group 1">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members/>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FF0000"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!29 29|29 2686!29 2686|1801 2686!1801 2686|1801 29!1801 29|29 29"/>
+                        <Edge cubics="!29 29(29,29;29,29 29,2686 29,2686q29 29 29 2686);"/>
+                        <Edge cubics="!29 2686(;29,2686 1801,2686 1801,2686q29 2686 1801 2686);"/>
+                        <Edge cubics="!1801 2686(;1801,2686 1801,29 1801,29q1801 2686 1801 29);"/>
+                        <Edge cubics="!1801 29(;1801,29 29,29 29,29q1801 29 29 29);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="caixinha dos amigos.ai Assets/Group 1/Shape 216 + Group 1 Image">
+                  <matrix>
+                    <Matrix a="0.719985961914063" d="0.719985961914063"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members/>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

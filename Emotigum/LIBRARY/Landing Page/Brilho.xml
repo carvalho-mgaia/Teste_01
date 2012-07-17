@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Landing Page/Brilho" itemID="4fe0854c-00000218" lastModified="1340114252">
+  <timeline>
+    <DOMTimeline name="Brilho">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Landing Page/botao crie seu emotigum.ai/brilhos Image">
+                  <matrix>
+                    <Matrix a="0.719985961914063" d="0.719985961914063" tx="-126" ty="-32.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TV (carrega foto)/mascara" itemID="4fd8f71e-000002d8" lastModified="1339620882">
+  <timeline>
+    <DOMTimeline name="mascara">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TV (carrega foto)/Mascara_interno" name="Interno" selected="true" centerPoint3DX="51.25" centerPoint3DY="34.2">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

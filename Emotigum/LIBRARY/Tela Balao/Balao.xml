@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tela Balao/Balao" itemID="4fc62aa7-0000005c" linkageExportForAS="true" linkageClassName="Balao" lastModified="1340979594" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Balao">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMInputText name="texto" selected="true" width="133.5" height="61.5" maxCharacters="35" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="33" ty="10"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Digite sua frase aqui!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="16" bitmapSize="320" face="Dimbo Regular*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="balão_para_frase.ai" color="#4FFF4F" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tela Balao/Balao_Shape" blendMode="layer" centerPoint3DX="86.35" centerPoint3DY="40.6">
+                  <transformationPoint>
+                    <Point x="86.35" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

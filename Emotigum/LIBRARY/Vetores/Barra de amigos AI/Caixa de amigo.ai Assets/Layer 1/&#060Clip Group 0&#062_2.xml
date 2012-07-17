@@ -1,0 +1,58 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/Barra de amigos AI/Caixa de amigo.ai Assets/Layer 1/&lt;Clip Group 0&gt;_2" itemID="4fcf936c-0000008b" lastModified="1339003756">
+  <timeline>
+    <DOMTimeline name="&lt;Clip Group 0&gt;_2">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2068 120|2083 3192!2083 3192|71 3221!71 3221|14 3130!14 3130|2006 10!2006 10|2068 120"/>
+                    <Edge cubics="!2006 10(;2006,10 2068,120 2068,120q2006 10 2068 120);"/>
+                    <Edge cubics="!2068 120(;2068,120 2083,3192 2083,3192q2068 120 2083 3192);"/>
+                    <Edge cubics="!2083 3192(;2083,3192 71,3221 71,3221q2083 3192 71 3221);"/>
+                    <Edge cubics="!71 3221(;71,3221 14,3130 14,3130q71 3221 14 3130);"/>
+                    <Edge cubics="!14 3130(;14,3130 2006,10 2006,10q14 3130 2006 10);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Vetores/Barra de amigos AI/Container Foto/Layer 1/&lt;Clip Group 0&gt;">
+                  <transformationPoint>
+                    <Point x="52.2" y="80.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

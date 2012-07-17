@@ -1,0 +1,1581 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Olhos" itemID="4fe37a6c-0000069f" linkageExportForAS="true" linkageBaseClass="AvatarPart" linkageClassName="Olhos" lastModified="1340308984">
+  <timeline>
+    <DOMTimeline name="Olhos">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="42" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis/olhoi" name="colorivel" centerPoint3DX="14.75" centerPoint3DY="8.45">
+                  <matrix>
+                    <Matrix tx="3.8" ty="2.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.95" y="5.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho1" centerPoint3DX="14.75" centerPoint3DY="8.45">
+                  <matrix>
+                    <Matrix tx="8.85" ty="7.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.9" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/olhoColorivel2" name="colorivel" centerPoint3DX="14.15" centerPoint3DY="8">
+                  <matrix>
+                    <Matrix tx="2.6" ty="2.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.55" y="5.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho2" name="colorivel" centerPoint3DX="7.65" centerPoint3DY="8">
+                  <matrix>
+                    <Matrix tx="6.7" ty="6.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.95" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel3" name="colorivel" centerPoint3DX="14.65" centerPoint3DY="8.1">
+                  <matrix>
+                    <Matrix tx="3.75" ty="2.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.9" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho3" name="colorivel" centerPoint3DX="16.4" centerPoint3DY="7.65">
+                  <matrix>
+                    <Matrix tx="9.15" ty="6.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.25" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel4" name="colorivel" centerPoint3DX="14.65" centerPoint3DY="7.1">
+                  <matrix>
+                    <Matrix ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.65" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho4" name="colorivel" centerPoint3DX="14.55" centerPoint3DY="10.3">
+                  <matrix>
+                    <Matrix tx="7.15" ty="8.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.4" y="1.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel5" name="colorivel" centerPoint3DX="14.65" centerPoint3DY="8">
+                  <matrix>
+                    <Matrix tx="3.75" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.9" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/Olho5" name="colorivel" centerPoint3DX="13.1" centerPoint3DY="6.55">
+                  <matrix>
+                    <Matrix tx="5.85" ty="5.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.25" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel6" name="colorivel" centerPoint3DX="15.1" centerPoint3DY="7.9">
+                  <matrix>
+                    <Matrix tx="3.75" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.35" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho6" name="colorivel" centerPoint3DX="8.8" centerPoint3DY="6.5">
+                  <matrix>
+                    <Matrix tx="7.9" ty="5.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.9" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel7" name="colorivel" centerPoint3DX="14.15" centerPoint3DY="7.05">
+                  <matrix>
+                    <Matrix tx="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho7" name="colorivel" centerPoint3DX="13.25" centerPoint3DY="6.25">
+                  <matrix>
+                    <Matrix tx="5.6" ty="4.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.65" y="2.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel8" name="colorivel" centerPoint3DX="14.7" centerPoint3DY="8.4">
+                  <matrix>
+                    <Matrix tx="1.55" ty="2.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.15" y="5.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel9" name="colorivel" centerPoint3DX="14.7" centerPoint3DY="8.35">
+                  <matrix>
+                    <Matrix tx="2.75" ty="2.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.95" y="5.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel10" name="colorivel" centerPoint3DX="14.65" centerPoint3DY="10.85">
+                  <matrix>
+                    <Matrix tx="2.35" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.3" y="2.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel11" name="colorivel" centerPoint3DX="14.85" centerPoint3DY="9.15">
+                  <matrix>
+                    <Matrix tx="3.95" ty="3.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.9" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho8" centerPoint3DX="14.85" centerPoint3DY="9.7">
+                  <matrix>
+                    <Matrix tx="14.85" ty="9.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho9" name="colorivel" centerPoint3DX="14.8" centerPoint3DY="10.95">
+                  <matrix>
+                    <Matrix tx="14.8" ty="10.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.95" ty="-72.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1349 1490[1312 1490 1286 1524!1286 1524[1260 1558 1260 1606!1260 1606[1260 1654 1286 1688!1286 1688[1311 1722 1348 1722!1348 1722[1385 1722 1412 1688!1412 1688[1438 1654 1438 1606!1438 1606[1438 1558 1412 1524!1412 1524[1386 1490 1349
+ 1490"/>
+                    <Edge cubics="!1349 1490(;1300,1490 1260,1542 1260,1606q1349 1490Q1312 1490q1286 1524Q1260 1558q1260 1606);"/>
+                    <Edge cubics="!1260 1606(;1260,1670 1299,1722 1348,1722q1260 1606Q1260 1654q1286 1688Q1311 1722q1348 1722);"/>
+                    <Edge cubics="!1348 1722(;1398,1722 1438,1670 1438,1606q1348 1722Q1385 1722q1412 1688Q1438 1654q1438 1606);"/>
+                    <Edge cubics="!1438 1606(;1438,1542 1398,1490 1349,1490q1438 1606Q1438 1558q1412 1524Q1386 1490q1349 1490);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.95" ty="-72.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1665 1524[1639 1490 1602 1490!1602 1490[1565 1490 1539 1524!1539 1524[1513 1558 1513 1606!1513 1606[1513 1654 1539 1688!1539 1688[1565 1721 1602 1721!1602 1721[1639 1721 1665 1687!1665 1687[1691 1653 1691 1605!1691 1605[1691 1557 1665
+ 1524"/>
+                    <Edge cubics="!1602 1490(;1553,1490 1513,1542 1513,1606q1602 1490Q1565 1490q1539 1524Q1513 1558q1513 1606);"/>
+                    <Edge cubics="!1513 1606(;1513,1670 1553,1721 1602,1721q1513 1606Q1513 1654q1539 1688Q1565 1721q1602 1721);"/>
+                    <Edge cubics="!1602 1721(;1651,1721 1691,1669 1691,1605q1602 1721Q1639 1721q1665 1687Q1691 1653q1691 1605);"/>
+                    <Edge cubics="!1691 1605(;1691,1541 1651,1490 1602,1490q1691 1605Q1691 1557q1665 1524Q1639 1490q1602 1490);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.95" ty="-72.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1336 1558[1336 1569 1331 1577!1331 1577[1326 1585 1318 1585!1318 1585[1311 1585 1305 1577!1305 1577[1300 1569 1300 1558!1300 1558[1300 1547 1305 1539!1305 1539[1311 1531 1318 1531!1318 1531[1326 1531 1331 1539!1331 1539[1336 1547 1336
+ 1558"/>
+                    <Edge cubics="!1336 1558(;1336,1573 1328,1585 1318,1585q1336 1558Q1336 1569q1331 1577Q1326 1585q1318 1585);"/>
+                    <Edge cubics="!1318 1585(;1308,1585 1300,1573 1300,1558q1318 1585Q1311 1585q1305 1577Q1300 1569q1300 1558);"/>
+                    <Edge cubics="!1300 1558(;1300,1543 1308,1531 1318,1531q1300 1558Q1300 1547q1305 1539Q1311 1531q1318 1531);"/>
+                    <Edge cubics="!1318 1531(;1328,1531 1336,1543 1336,1558q1318 1531Q1326 1531q1331 1539Q1336 1547q1336 1558);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.95" ty="-72.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1589 1558[1589 1569 1584 1576!1584 1576[1578 1584 1571 1584!1571 1584[1564 1584 1558 1576!1558 1576[1553 1569 1553 1558!1553 1558[1553 1547 1558 1539!1558 1539[1564 1531 1571 1531!1571 1531[1579 1531 1584 1539!1584 1539[1589 1547 1589
+ 1558"/>
+                    <Edge cubics="!1589 1558(;1589,1572 1581,1584 1571,1584q1589 1558Q1589 1569q1584 1576Q1578 1584q1571 1584);"/>
+                    <Edge cubics="!1571 1584(;1561,1584 1553,1572 1553,1558q1571 1584Q1564 1584q1558 1576Q1553 1569q1553 1558);"/>
+                    <Edge cubics="!1553 1558(;1553,1543 1561,1531 1571,1531q1553 1558Q1553 1547q1558 1539Q1564 1531q1571 1531);"/>
+                    <Edge cubics="!1571 1531(;1581,1531 1589,1543 1589,1558q1571 1531Q1579 1531q1584 1539Q1589 1547q1589 1558);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho10" name="colorivel" centerPoint3DX="15.3" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix tx="15.3" ty="9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel12" name="colorivel" centerPoint3DX="15.3" centerPoint3DY="8.85">
+                  <matrix>
+                    <Matrix tx="-0.8" ty="0.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.1" y="8.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel13" name="colorivel" centerPoint3DX="14.35" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix ty="-1.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.35" y="8.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho12" centerPoint3DX="14.85" centerPoint3DY="12.55">
+                  <matrix>
+                    <Matrix tx="14.85" ty="12.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.5" ty="-69.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1340 1718[1291 1718 1256 1685!1256 1685[1221 1652 1220 1605!1220 1605[1220 1557 1255 1525!1255 1525[1289 1491 1339 1491!1339 1491[1388 1492 1423 1525!1423 1525[1458 1559 1458 1605!1458 1605[1458 1651 1424 1685!1424 1685[1389 1718 1340
+ 1718"/>
+                    <Edge cubics="!1340 1718(;1274,1718 1221,1667 1220,1605q1340 1718Q1291 1718q1256 1685Q1221 1652q1220 1605);"/>
+                    <Edge cubics="!1220 1605(;1220,1575 1232,1546 1255,1525q1220 1605Q1220 1557q1255 1525);"/>
+                    <Edge cubics="!1255 1525(;1277,1503 1307,1491 1339,1491q1255 1525Q1289 1491q1339 1491);"/>
+                    <Edge cubics="!1339 1491(;1404,1492 1458,1543 1458,1605q1339 1491Q1388 1492q1423 1525Q1458 1559q1458 1605);"/>
+                    <Edge cubics="!1458 1605(;1458,1635 1446,1663 1424,1685q1458 1605Q1458 1651q1424 1685);"/>
+                    <Edge cubics="!1424 1685(;1402,1706 1372,1718 1340,1718q1424 1685Q1389 1718q1340 1718);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.5" ty="-69.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1691 1626|1666 1626!1666 1626|1667 1631!1667 1631[1667 1658 1647 1676!1647 1676[1629 1694 1603 1694!1603 1694|1603 1706!1603 1706|1602 1694!1602 1694[1576 1694 1556 1675!1556 1675[1537 1657 1537 1631!1537 1631|1537 1626!1537 1626|1512
+ 1626!1512 1626|1512 1631!1512 1631[1513 1667 1539 1693!1539 1693[1565 1718 1602 1718!1602 1718|1603 1718!1603 1718[1638 1718 1665 1693!1665 1693[1692 1666 1692 1631!1692 1631|1691 1626"/>
+                    <Edge cubics="!1691 1626(;1691,1626 1666,1626 1666,1626q1691 1626 1666 1626);"/>
+                    <Edge cubics="!1666 1626(;1667,1627 1667,1629 1667,1631q1666 1626 1667 1631);"/>
+                    <Edge cubics="!1667 1631(;1667,1648 1660,1664 1647,1676q1667 1631Q1667 1658q1647 1676);"/>
+                    <Edge cubics="!1647 1676(;1635,1688 1619,1694 1603,1694q1647 1676Q1629 1694q1603 1694);"/>
+                    <Edge cubics="!1603 1694(;1603,1694 1603,1706 1603,1706q1603 1694 1603 1706);"/>
+                    <Edge cubics="!1603 1706(;1603,1706 1602,1694 1602,1694q1603 1706 1602 1694);"/>
+                    <Edge cubics="!1602 1694(;1567,1694 1537,1665 1537,1631q1602 1694Q1576 1694q1556 1675Q1537 1657q1537 1631);"/>
+                    <Edge cubics="!1537 1631(;1537,1629 1537,1627 1537,1626q1537 1631 1537 1626);"/>
+                    <Edge cubics="!1537 1626(;1537,1626 1512,1626 1512,1626q1537 1626 1512 1626);"/>
+                    <Edge cubics="!1512 1626(;1512,1627 1512,1629 1512,1631q1512 1626 1512 1631);"/>
+                    <Edge cubics="!1512 1631(;1513,1679 1553,1718 1602,1718q1512 1631Q1513 1667q1539 1693Q1565 1718q1602 1718);"/>
+                    <Edge cubics="!1602 1718(;1602,1718 1603,1718 1603,1718q1602 1718 1603 1718);"/>
+                    <Edge cubics="!1603 1718(;1626,1718 1648,1709 1665,1693q1603 1718Q1638 1718q1665 1693);"/>
+                    <Edge cubics="!1665 1693(;1682,1676 1692,1654 1692,1631q1665 1693Q1692 1666q1692 1631);"/>
+                    <Edge cubics="!1692 1631(;1692,1629 1692,1627 1691,1626q1692 1631 1691 1626);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho13" name="colorivel" centerPoint3DX="8.45" centerPoint3DY="10.45">
+                  <matrix>
+                    <Matrix tx="8.45" ty="10.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho14" name="colorivel" centerPoint3DX="8.25" centerPoint3DY="12.65">
+                  <matrix>
+                    <Matrix tx="8.25" ty="12.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.9" ty="-72.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1347 1487[1320 1487 1297 1506!1297 1506[1258 1537 1258 1610!1258 1610[1258 1661 1285 1696!1285 1696[1312 1732 1350 1731!1350 1731[1387 1730 1413 1694!1413 1694[1439 1658 1439 1608!1439 1608[1438 1557 1411 1522!1411 1522[1385 1486 1347
+ 1487"/>
+                    <Edge cubics="!1347 1487(;1331,1487 1258,1496 1258,1610q1347 1487Q1320 1487q1297 1506Q1258 1537q1258 1610);"/>
+                    <Edge cubics="!1258 1610(;1258,1678 1300,1732 1350,1731q1258 1610Q1258 1661q1285 1696Q1312 1732q1350 1731);"/>
+                    <Edge cubics="!1350 1731(;1400,1730 1439,1675 1439,1608q1350 1731Q1387 1730q1413 1694Q1439 1658q1439 1608);"/>
+                    <Edge cubics="!1439 1608(;1438,1540 1397,1486 1347,1487q1439 1608Q1438 1557q1411 1522Q1385 1486q1347 1487);"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1284 1539[1268 1527 1261 1517!1261 1517[1252 1507 1245 1489!1245 1489[1235 1460 1248 1430!1248 1430[1240 1460 1254 1485!1254 1485[1261 1496 1272 1507!1272 1507[1289 1519 1294 1521!1294 1521|1284 1539"/>
+                        <Edge cubics="!1284 1539(;1275,1532 1267,1525 1261,1517q1284 1539Q1268 1527q1261 1517);"/>
+                        <Edge cubics="!1261 1517(;1254,1509 1249,1499 1245,1489q1261 1517Q1252 1507q1245 1489);"/>
+                        <Edge cubics="!1245 1489(;1238,1470 1240,1448 1248,1430q1245 1489Q1235 1460q1248 1430);"/>
+                        <Edge cubics="!1248 1430(;1243,1449 1245,1469 1254,1485q1248 1430Q1240 1460q1254 1485);"/>
+                        <Edge cubics="!1254 1485(;1259,1493 1265,1500 1272,1507q1254 1485Q1261 1496q1272 1507);"/>
+                        <Edge cubics="!1272 1507(;1279,1512 1286,1518 1294,1521q1272 1507Q1289 1519q1294 1521);"/>
+                        <Edge cubics="!1294 1521(;1294,1521 1284,1539 1284,1539q1294 1521 1284 1539);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1309 1551[1297 1542 1286 1529!1286 1529[1276 1516 1270 1501!1270 1501[1260 1472 1273 1442!1273 1442[1265 1473 1280 1497!1280 1497[1286 1508 1297 1518!1297 1518[1310 1529 1319 1533!1319 1533|1309 1551"/>
+                        <Edge cubics="!1309 1551(;1300,1544 1293,1537 1286,1529q1309 1551Q1297 1542q1286 1529);"/>
+                        <Edge cubics="!1286 1529(;1279,1520 1274,1511 1270,1501q1286 1529Q1276 1516q1270 1501);"/>
+                        <Edge cubics="!1270 1501(;1263,1482 1265,1460 1273,1442q1270 1501Q1260 1472q1273 1442);"/>
+                        <Edge cubics="!1273 1442(;1268,1461 1270,1481 1280,1497q1273 1442Q1265 1473q1280 1497);"/>
+                        <Edge cubics="!1280 1497(;1284,1505 1290,1512 1297,1518q1280 1497Q1286 1508q1297 1518);"/>
+                        <Edge cubics="!1297 1518(;1304,1524 1312,1530 1319,1533q1297 1518Q1310 1529q1319 1533);"/>
+                        <Edge cubics="!1319 1533(;1319,1533 1309,1551 1309,1551q1319 1533 1309 1551);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1332 1562[1319 1552 1309 1539!1309 1539[1299 1528 1293 1512!1293 1512[1283 1483 1296 1453!1296 1453[1288 1484 1303 1508!1303 1508[1309 1519 1320 1529!1320 1529[1333 1540 1342 1544!1342 1544|1332 1562"/>
+                        <Edge cubics="!1332 1562(;1323,1555 1316,1548 1309,1539q1332 1562Q1319 1552q1309 1539);"/>
+                        <Edge cubics="!1309 1539(;1302,1531 1297,1522 1293,1512q1309 1539Q1299 1528q1293 1512);"/>
+                        <Edge cubics="!1293 1512(;1286,1492 1288,1471 1296,1453q1293 1512Q1283 1483q1296 1453);"/>
+                        <Edge cubics="!1296 1453(;1291,1472 1293,1492 1303,1508q1296 1453Q1288 1484q1303 1508);"/>
+                        <Edge cubics="!1303 1508(;1307,1516 1313,1523 1320,1529q1303 1508Q1309 1519q1320 1529);"/>
+                        <Edge cubics="!1320 1529(;1327,1535 1335,1541 1342,1544q1320 1529Q1333 1540q1342 1544);"/>
+                        <Edge cubics="!1342 1544(;1342,1544 1332,1562 1332,1562q1342 1544 1332 1562);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1355 1582[1343 1573 1332 1560!1332 1560[1322 1547 1316 1532!1316 1532[1306 1503 1319 1473!1319 1473[1311 1504 1326 1528!1326 1528[1332 1539 1343 1549!1343 1549[1356 1560 1365 1564!1365 1564|1355 1582"/>
+                        <Edge cubics="!1355 1582(;1346,1575 1339,1568 1332,1560q1355 1582Q1343 1573q1332 1560);"/>
+                        <Edge cubics="!1332 1560(;1325,1551 1320,1542 1316,1532q1332 1560Q1322 1547q1316 1532);"/>
+                        <Edge cubics="!1316 1532(;1309,1512 1311,1491 1319,1473q1316 1532Q1306 1503q1319 1473);"/>
+                        <Edge cubics="!1319 1473(;1314,1492 1316,1512 1326,1528q1319 1473Q1311 1504q1326 1528);"/>
+                        <Edge cubics="!1326 1528(;1330,1536 1336,1543 1343,1549q1326 1528Q1332 1539q1343 1549);"/>
+                        <Edge cubics="!1343 1549(;1350,1555 1358,1561 1365,1564q1343 1549Q1356 1560q1365 1564);"/>
+                        <Edge cubics="!1365 1564(;1365,1564 1355,1582 1355,1582q1365 1564 1355 1582);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1294 1671[1283 1676 1272 1686!1272 1686[1262 1695 1254 1707!1254 1707[1240 1732 1248 1763!1248 1763[1235 1733 1245 1703!1245 1703[1251 1687 1261 1676!1261 1676[1271 1663 1284 1654!1284 1654|1294 1671"/>
+                        <Edge cubics="!1294 1671(;1286,1675 1279,1680 1272,1686q1294 1671Q1283 1676q1272 1686);"/>
+                        <Edge cubics="!1272 1686(;1265,1692 1259,1699 1254,1707q1272 1686Q1262 1695q1254 1707);"/>
+                        <Edge cubics="!1254 1707(;1245,1723 1243,1743 1248,1763q1254 1707Q1240 1732q1248 1763);"/>
+                        <Edge cubics="!1248 1763(;1240,1745 1238,1723 1245,1703q1248 1763Q1235 1733q1245 1703);"/>
+                        <Edge cubics="!1245 1703(;1249,1693 1254,1684 1261,1676q1245 1703Q1251 1687q1261 1676);"/>
+                        <Edge cubics="!1261 1676(;1267,1668 1275,1660 1284,1654q1261 1676Q1271 1663q1284 1654);"/>
+                        <Edge cubics="!1284 1654(;1284,1654 1294,1671 1294,1671q1284 1654 1294 1671);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1319 1659[1306 1667 1297 1674!1297 1674[1286 1684 1280 1695!1280 1695[1265 1720 1273 1751!1273 1751[1260 1721 1270 1691!1270 1691[1276 1675 1286 1664!1286 1664[1300 1648 1309 1642!1309 1642|1319 1659"/>
+                        <Edge cubics="!1319 1659(;1312,1663 1304,1668 1297,1674q1319 1659Q1306 1667q1297 1674);"/>
+                        <Edge cubics="!1297 1674(;1290,1680 1284,1687 1280,1695q1297 1674Q1286 1684q1280 1695);"/>
+                        <Edge cubics="!1280 1695(;1270,1711 1268,1732 1273,1751q1280 1695Q1265 1720q1273 1751);"/>
+                        <Edge cubics="!1273 1751(;1265,1733 1263,1711 1270,1691q1273 1751Q1260 1721q1270 1691);"/>
+                        <Edge cubics="!1270 1691(;1274,1681 1279,1672 1286,1664q1270 1691Q1276 1675q1286 1664);"/>
+                        <Edge cubics="!1286 1664(;1293,1656 1300,1648 1309,1642q1286 1664Q1300 1648q1309 1642);"/>
+                        <Edge cubics="!1309 1642(;1309,1642 1319,1659 1319,1659q1309 1642 1319 1659);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1342 1649[1333 1653 1320 1664!1320 1664[1309 1674 1303 1685!1303 1685[1288 1709 1296 1740!1296 1740[1283 1710 1293 1680!1293 1680[1301 1662 1309 1653!1309 1653[1320 1640 1332 1631!1332 1631|1342 1649"/>
+                        <Edge cubics="!1342 1649(;1335,1652 1327,1658 1320,1664q1342 1649Q1333 1653q1320 1664);"/>
+                        <Edge cubics="!1320 1664(;1313,1670 1307,1677 1303,1685q1320 1664Q1309 1674q1303 1685);"/>
+                        <Edge cubics="!1303 1685(;1293,1701 1291,1721 1296,1740q1303 1685Q1288 1709q1296 1740);"/>
+                        <Edge cubics="!1296 1740(;1288,1722 1286,1700 1293,1680q1296 1740Q1283 1710q1293 1680);"/>
+                        <Edge cubics="!1293 1680(;1297,1671 1302,1661 1309,1653q1293 1680Q1301 1662q1309 1653);"/>
+                        <Edge cubics="!1309 1653(;1316,1645 1323,1638 1332,1631q1309 1653Q1320 1640q1332 1631);"/>
+                        <Edge cubics="!1332 1631(;1332,1631 1342,1649 1342,1649q1332 1631 1342 1649);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1365 1629[1354 1634 1343 1643!1343 1643[1331 1655 1326 1665!1326 1665[1311 1688 1319 1720!1319 1720[1306 1690 1316 1660!1316 1660[1324 1642 1332 1633!1332 1633[1343 1620 1355 1611!1355 1611|1365 1629"/>
+                        <Edge cubics="!1365 1629(;1358,1632 1350,1637 1343,1643q1365 1629Q1354 1634q1343 1643);"/>
+                        <Edge cubics="!1343 1643(;1336,1650 1330,1657 1326,1665q1343 1643Q1331 1655q1326 1665);"/>
+                        <Edge cubics="!1326 1665(;1316,1680 1314,1701 1319,1720q1326 1665Q1311 1688q1319 1720);"/>
+                        <Edge cubics="!1319 1720(;1311,1702 1309,1680 1316,1660q1319 1720Q1306 1690q1316 1660);"/>
+                        <Edge cubics="!1316 1660(;1320,1651 1325,1641 1332,1633q1316 1660Q1324 1642q1332 1633);"/>
+                        <Edge cubics="!1332 1633(;1339,1625 1346,1618 1355,1611q1332 1633Q1343 1620q1355 1611);"/>
+                        <Edge cubics="!1355 1611(;1355,1611 1365,1629 1365,1629q1355 1611 1365 1629);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.9" ty="-72.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1401 1609[1401 1620 1395 1629!1395 1629[1390 1637 1382 1636!1382 1636[1374 1636 1368 1628!1368 1628[1363 1620 1363 1609!1363 1609[1363 1597 1368 1590!1368 1590[1374 1581 1382 1582!1382 1582[1390 1582 1395 1590!1395 1590[1401 1598 1401
+ 1609"/>
+                    <Edge cubics="!1401 1609(;1401,1624 1392,1637 1382,1636q1401 1609Q1401 1620q1395 1629Q1390 1637q1382 1636);"/>
+                    <Edge cubics="!1382 1636(;1371,1636 1363,1624 1363,1609q1382 1636Q1374 1636q1368 1628Q1363 1620q1363 1609);"/>
+                    <Edge cubics="!1363 1609(;1363,1594 1371,1581 1382,1582q1363 1609Q1363 1597q1368 1590Q1374 1581q1382 1582);"/>
+                    <Edge cubics="!1382 1582(;1392,1582 1401,1594 1401,1609q1382 1582Q1390 1582q1395 1590Q1401 1598q1401 1609);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.9" ty="-72.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1664 1696[1637 1732 1599 1731!1599 1731[1561 1730 1535 1694!1535 1694[1509 1658 1510 1608!1510 1608[1511 1557 1538 1522!1538 1522[1565 1486 1602 1487!1602 1487[1630 1487 1653 1506!1653 1506[1691 1537 1691 1610!1691 1610[1691 1661 1664
+ 1696"/>
+                    <Edge cubics="!1602 1487(;1618,1487 1691,1496 1691,1610q1602 1487Q1630 1487q1653 1506Q1691 1537q1691 1610);"/>
+                    <Edge cubics="!1691 1610(;1691,1678 1649,1732 1599,1731q1691 1610Q1691 1661q1664 1696Q1637 1732q1599 1731);"/>
+                    <Edge cubics="!1599 1731(;1549,1730 1509,1675 1510,1608q1599 1731Q1561 1730q1535 1694Q1509 1658q1510 1608);"/>
+                    <Edge cubics="!1510 1608(;1511,1540 1552,1486 1602,1487q1510 1608Q1511 1557q1538 1522Q1565 1486q1602 1487);"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1665 1539[1677 1530 1688 1517!1688 1517[1697 1507 1704 1489!1704 1489[1715 1460 1701 1430!1701 1430[1709 1461 1694 1485!1694 1485[1689 1495 1677 1507!1677 1507[1661 1518 1655 1521!1655 1521|1665 1539"/>
+                        <Edge cubics="!1665 1539(;1674,1532 1681,1525 1688,1517q1665 1539Q1677 1530q1688 1517);"/>
+                        <Edge cubics="!1688 1517(;1695,1509 1700,1499 1704,1489q1688 1517Q1697 1507q1704 1489);"/>
+                        <Edge cubics="!1704 1489(;1711,1470 1709,1448 1701,1430q1704 1489Q1715 1460q1701 1430);"/>
+                        <Edge cubics="!1701 1430(;1706,1449 1704,1469 1694,1485q1701 1430Q1709 1461q1694 1485);"/>
+                        <Edge cubics="!1694 1485(;1690,1493 1684,1500 1677,1507q1694 1485Q1689 1495q1677 1507);"/>
+                        <Edge cubics="!1677 1507(;1670,1512 1662,1518 1655,1521q1677 1507Q1661 1518q1655 1521);"/>
+                        <Edge cubics="!1655 1521(;1655,1521 1665,1539 1665,1539q1655 1521 1665 1539);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1639 1551[1651 1542 1663 1529!1663 1529[1675 1511 1678 1501!1678 1501[1690 1473 1676 1442!1676 1442[1684 1473 1669 1497!1669 1497[1663 1508 1652 1518!1652 1518[1639 1529 1630 1533!1630 1533|1639 1551"/>
+                        <Edge cubics="!1639 1551(;1649,1544 1656,1537 1663,1529q1639 1551Q1651 1542q1663 1529);"/>
+                        <Edge cubics="!1663 1529(;1669,1520 1675,1511 1678,1501q1663 1529Q1675 1511q1678 1501);"/>
+                        <Edge cubics="!1678 1501(;1686,1482 1684,1460 1676,1442q1678 1501Q1690 1473q1676 1442);"/>
+                        <Edge cubics="!1676 1442(;1681,1461 1679,1481 1669,1497q1676 1442Q1684 1473q1669 1497);"/>
+                        <Edge cubics="!1669 1497(;1665,1505 1659,1512 1652,1518q1669 1497Q1663 1508q1652 1518);"/>
+                        <Edge cubics="!1652 1518(;1645,1524 1637,1530 1630,1533q1652 1518Q1639 1529q1630 1533);"/>
+                        <Edge cubics="!1630 1533(;1630,1533 1639,1551 1639,1551q1630 1533 1639 1551);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1629 1529[1616 1540 1607 1544!1607 1544|1616 1562!1616 1562[1629 1553 1640 1539!1640 1539[1652 1524 1655 1512!1655 1512[1667 1483 1653 1453!1653 1453[1661 1484 1646 1508!1646 1508[1640 1519 1629 1529"/>
+                        <Edge cubics="!1616 1562(;1626,1555 1633,1548 1640,1539q1616 1562Q1629 1553q1640 1539);"/>
+                        <Edge cubics="!1640 1539(;1646,1531 1652,1522 1655,1512q1640 1539Q1652 1524q1655 1512);"/>
+                        <Edge cubics="!1655 1512(;1663,1492 1661,1471 1653,1453q1655 1512Q1667 1483q1653 1453);"/>
+                        <Edge cubics="!1653 1453(;1658,1472 1656,1492 1646,1508q1653 1453Q1661 1484q1646 1508);"/>
+                        <Edge cubics="!1646 1508(;1642,1516 1636,1523 1629,1529q1646 1508Q1640 1519q1629 1529);"/>
+                        <Edge cubics="!1629 1529(;1622,1535 1614,1541 1607,1544q1629 1529Q1616 1540q1607 1544);"/>
+                        <Edge cubics="!1607 1544(;1607,1544 1616,1562 1616,1562q1607 1544 1616 1562);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1623 1528[1617 1539 1606 1549!1606 1549[1593 1560 1584 1564!1584 1564|1594 1582!1594 1582[1606 1573 1617 1560!1617 1560[1629 1542 1632 1532!1632 1532[1644 1503 1630 1473!1630 1473[1638 1504 1623 1528"/>
+                        <Edge cubics="!1594 1582(;1603,1575 1610,1568 1617,1560q1594 1582Q1606 1573q1617 1560);"/>
+                        <Edge cubics="!1617 1560(;1623,1551 1629,1542 1632,1532q1617 1560Q1629 1542q1632 1532);"/>
+                        <Edge cubics="!1632 1532(;1640,1512 1638,1491 1630,1473q1632 1532Q1644 1503q1630 1473);"/>
+                        <Edge cubics="!1630 1473(;1635,1492 1633,1512 1623,1528q1630 1473Q1638 1504q1623 1528);"/>
+                        <Edge cubics="!1623 1528(;1619,1536 1613,1543 1606,1549q1623 1528Q1617 1539q1606 1549);"/>
+                        <Edge cubics="!1606 1549(;1599,1555 1591,1561 1584,1564q1606 1549Q1593 1560q1584 1564);"/>
+                        <Edge cubics="!1584 1564(;1584,1564 1594,1582 1594,1582q1584 1564 1594 1582);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1655 1671[1669 1679 1677 1686!1677 1686[1688 1696 1694 1707!1694 1707[1709 1731 1701 1763!1701 1763[1714 1733 1704 1703!1704 1703[1698 1687 1688 1676!1688 1676[1674 1660 1665 1654!1665 1654|1655 1671"/>
+                        <Edge cubics="!1655 1671(;1662,1675 1670,1680 1677,1686q1655 1671Q1669 1679q1677 1686);"/>
+                        <Edge cubics="!1677 1686(;1684,1692 1690,1699 1694,1707q1677 1686Q1688 1696q1694 1707);"/>
+                        <Edge cubics="!1694 1707(;1704,1723 1706,1743 1701,1763q1694 1707Q1709 1731q1701 1763);"/>
+                        <Edge cubics="!1701 1763(;1709,1745 1711,1723 1704,1703q1701 1763Q1714 1733q1704 1703);"/>
+                        <Edge cubics="!1704 1703(;1700,1693 1695,1684 1688,1676q1704 1703Q1698 1687q1688 1676);"/>
+                        <Edge cubics="!1688 1676(;1681,1668 1674,1660 1665,1654q1688 1676Q1674 1660q1665 1654);"/>
+                        <Edge cubics="!1665 1654(;1665,1654 1655,1671 1655,1671q1665 1654 1655 1671);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1630 1659[1644 1667 1652 1674!1652 1674[1663 1684 1669 1695!1669 1695[1684 1720 1676 1751!1676 1751[1690 1720 1678 1691!1678 1691[1675 1679 1663 1664!1663 1664[1649 1648 1639 1642!1639 1642|1630 1659"/>
+                        <Edge cubics="!1630 1659(;1637,1663 1645,1668 1652,1674q1630 1659Q1644 1667q1652 1674);"/>
+                        <Edge cubics="!1652 1674(;1659,1680 1665,1687 1669,1695q1652 1674Q1663 1684q1669 1695);"/>
+                        <Edge cubics="!1669 1695(;1679,1711 1681,1732 1676,1751q1669 1695Q1684 1720q1676 1751);"/>
+                        <Edge cubics="!1676 1751(;1684,1733 1686,1711 1678,1691q1676 1751Q1690 1720q1678 1691);"/>
+                        <Edge cubics="!1678 1691(;1675,1681 1669,1672 1663,1664q1678 1691Q1675 1679q1663 1664);"/>
+                        <Edge cubics="!1663 1664(;1656,1656 1649,1648 1639,1642q1663 1664Q1649 1648q1639 1642);"/>
+                        <Edge cubics="!1639 1642(;1639,1642 1630,1659 1630,1659q1639 1642 1630 1659);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1640 1653[1628 1640 1616 1631!1616 1631|1607 1649!1607 1649[1616 1653 1629 1664!1629 1664[1640 1674 1646 1685!1646 1685[1661 1709 1653 1740!1653 1740[1667 1709 1655 1680!1655 1680[1651 1667 1640 1653"/>
+                        <Edge cubics="!1607 1649(;1614,1652 1622,1658 1629,1664q1607 1649Q1616 1653q1629 1664);"/>
+                        <Edge cubics="!1629 1664(;1636,1670 1642,1677 1646,1685q1629 1664Q1640 1674q1646 1685);"/>
+                        <Edge cubics="!1646 1685(;1656,1701 1658,1721 1653,1740q1646 1685Q1661 1709q1653 1740);"/>
+                        <Edge cubics="!1653 1740(;1661,1722 1663,1700 1655,1680q1653 1740Q1667 1709q1655 1680);"/>
+                        <Edge cubics="!1655 1680(;1652,1671 1646,1661 1640,1653q1655 1680Q1651 1667q1640 1653);"/>
+                        <Edge cubics="!1640 1653(;1633,1645 1626,1638 1616,1631q1640 1653Q1628 1640q1616 1631);"/>
+                        <Edge cubics="!1616 1631(;1616,1631 1607,1649 1607,1649q1616 1631 1607 1649);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-58.9" ty="-72.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1632 1660[1628 1647 1617 1633!1617 1633[1606 1620 1594 1611!1594 1611|1584 1629!1584 1629[1595 1634 1606 1643!1606 1643[1618 1655 1623 1665!1623 1665[1638 1688 1630 1720!1630 1720[1644 1689 1632 1660"/>
+                        <Edge cubics="!1584 1629(;1591,1632 1599,1637 1606,1643q1584 1629Q1595 1634q1606 1643);"/>
+                        <Edge cubics="!1606 1643(;1613,1650 1619,1657 1623,1665q1606 1643Q1618 1655q1623 1665);"/>
+                        <Edge cubics="!1623 1665(;1633,1680 1635,1701 1630,1720q1623 1665Q1638 1688q1630 1720);"/>
+                        <Edge cubics="!1630 1720(;1638,1702 1640,1680 1632,1660q1630 1720Q1644 1689q1632 1660);"/>
+                        <Edge cubics="!1632 1660(;1629,1651 1623,1641 1617,1633q1632 1660Q1628 1647q1617 1633);"/>
+                        <Edge cubics="!1617 1633(;1610,1625 1603,1618 1594,1611q1617 1633Q1606 1620q1594 1611);"/>
+                        <Edge cubics="!1594 1611(;1594,1611 1584,1629 1584,1629q1594 1611 1584 1629);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.9" ty="-72.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1548 1609[1548 1620 1554 1629!1554 1629[1560 1637 1567 1636!1567 1636[1575 1636 1580 1628!1580 1628[1586 1620 1586 1609!1586 1609[1586 1597 1581 1590!1581 1590[1575 1581 1567 1582!1567 1582[1559 1582 1554 1590!1554 1590[1548 1598 1548
+ 1609"/>
+                    <Edge cubics="!1548 1609(;1548,1624 1557,1637 1567,1636q1548 1609Q1548 1620q1554 1629Q1560 1637q1567 1636);"/>
+                    <Edge cubics="!1567 1636(;1577,1636 1586,1624 1586,1609q1567 1636Q1575 1636q1580 1628Q1586 1620q1586 1609);"/>
+                    <Edge cubics="!1586 1609(;1586,1594 1578,1581 1567,1582q1586 1609Q1586 1597q1581 1590Q1575 1581q1567 1582);"/>
+                    <Edge cubics="!1567 1582(;1557,1582 1548,1594 1548,1609q1567 1582Q1559 1582q1554 1590Q1548 1598q1548 1609);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-59.3" ty="-80.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1254 1580|1254 1982!1254 1982[1258 1933 1265 1884!1265 1884[1277 1787 1287 1786!1287 1786[1306 1784 1317 1886!1317 1886[1323 1937 1324 1988!1324 1988[1326 1947 1330 1905!1330 1905[1339 1823 1351 1825!1351 1825[1364 1826 1374 1904!1374
+ 1904[1379 1943 1381 1982!1381 1982[1384 1934 1390 1885!1390 1885[1402 1788 1414 1786!1414 1786[1428 1784 1439 1883!1439 1883[1444 1932 1447 1982!1447 1982|1447 1609!1447 1609|1254 1580"/>
+                    <Edge cubics="!1254 1580(;1254,1580 1254,1982 1254,1982p1254 1580q1254 1982);"/>
+                    <Edge cubics="!1254 1982(;1254,1982 1271,1787 1287,1786q1254 1982Q1258 1933q1265 1884Q1277 1787q1287 1786);"/>
+                    <Edge cubics="!1287 1786(;1318,1783 1324,1988 1324,1988q1287 1786Q1306 1784q1317 1886Q1323 1937q1324 1988);"/>
+                    <Edge cubics="!1324 1988(;1324,1988 1331,1822 1351,1825q1324 1988Q1326 1947q1330 1905Q1339 1823q1351 1825);"/>
+                    <Edge cubics="!1351 1825(;1371,1827 1381,1982 1381,1982q1351 1825Q1364 1826q1374 1904Q1379 1943q1381 1982);"/>
+                    <Edge cubics="!1381 1982(;1381,1982 1394,1789 1414,1786q1381 1982Q1384 1934q1390 1885Q1402 1788q1414 1786);"/>
+                    <Edge cubics="!1414 1786(;1436,1782 1447,1982 1447,1982q1414 1786Q1428 1784q1439 1883Q1444 1932q1447 1982);"/>
+                    <Edge cubics="!1447 1982(;1447,1982 1447,1609 1447,1609q1447 1982 1447 1609);"/>
+                    <Edge cubics="!1447 1609(;1447,1609 1254,1580 1254,1580q1447 1609 1254 1580);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-59.3" ty="-80.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1694 1885[1699 1933 1702 1982!1702 1982|1702 1619!1702 1619|1502 1590!1502 1590|1502 1982!1502 1982[1506 1935 1513 1887!1513 1887[1525 1792 1536 1791!1536 1791[1556 1789 1567 1888!1567 1888[1573 1938 1574 1988!1574 1988[1576 1948 1580
+ 1908!1580 1908[1589 1828 1602 1829!1602 1829[1615 1831 1626 1907!1626 1907[1631 1945 1634 1983!1634 1983[1637 1936 1643 1888!1643 1888[1654 1793 1667 1791!1667 1791[1682 1789 1694 1885"/>
+                    <Edge cubics="!1502 1590(;1502,1590 1502,1982 1502,1982p1502 1590q1502 1982);"/>
+                    <Edge cubics="!1502 1982(;1502,1982 1519,1792 1536,1791q1502 1982Q1506 1935q1513 1887Q1525 1792q1536 1791);"/>
+                    <Edge cubics="!1536 1791(;1568,1788 1574,1988 1574,1988q1536 1791Q1556 1789q1567 1888Q1573 1938q1574 1988);"/>
+                    <Edge cubics="!1574 1988(;1574,1988 1581,1827 1602,1829q1574 1988Q1576 1948q1580 1908Q1589 1828q1602 1829);"/>
+                    <Edge cubics="!1602 1829(;1622,1832 1634,1983 1634,1983q1602 1829Q1615 1831q1626 1907Q1631 1945q1634 1983);"/>
+                    <Edge cubics="!1634 1983(;1634,1983 1646,1794 1667,1791q1634 1983Q1637 1936q1643 1888Q1654 1793q1667 1791);"/>
+                    <Edge cubics="!1667 1791(;1691,1787 1702,1982 1702,1982q1667 1791Q1682 1789q1694 1885Q1699 1933q1702 1982);"/>
+                    <Edge cubics="!1702 1982(;1702,1982 1702,1619 1702,1619q1702 1982 1702 1619);"/>
+                    <Edge cubics="!1702 1619(;1702,1619 1502,1590 1502,1590q1702 1619 1502 1590);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho15" name="colorivel" centerPoint3DX="14.35" centerPoint3DY="-0.2">
+                  <matrix>
+                    <Matrix tx="14.35" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-59.3" ty="-80.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1614 1645[1620 1653 1620 1664!1620 1664[1620 1675 1614 1683!1614 1683[1609 1691 1601 1691!1601 1691[1593 1691 1587 1683!1587 1683[1582 1675 1582 1664!1582 1664[1582 1653 1588 1645!1588 1645[1593 1637 1601 1637!1601 1637[1609 1637 1614
+ 1645"/>
+                    <Edge cubics="!1620 1664(;1620,1679 1611,1691 1601,1691q1620 1664Q1620 1675q1614 1683Q1609 1691q1601 1691);"/>
+                    <Edge cubics="!1601 1691(;1590,1691 1582,1679 1582,1664q1601 1691Q1593 1691q1587 1683Q1582 1675q1582 1664);"/>
+                    <Edge cubics="!1582 1664(;1582,1649 1591,1637 1601,1637q1582 1664Q1582 1653q1588 1645Q1593 1637q1601 1637);"/>
+                    <Edge cubics="!1601 1637(;1611,1637 1620,1649 1620,1664q1601 1637Q1609 1637q1614 1645Q1620 1653q1620 1664);"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-59.3" ty="-80.55"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1447 1607[1447 1583 1441 1560!1441 1560[1433 1536 1421 1520!1421 1520|1409 1505!1409 1505[1382 1478 1346 1478!1346 1478[1317 1478 1292 1498!1292 1498[1268 1517 1255 1549!1255 1549|1255 1550!1255 1550[1249 1567 1246 1584!1246 1584|1246
+ 1585!1246 1585|1244 1607!1244 1607[1244 1636 1254 1664!1254 1664[1263 1687 1278 1703!1278 1703|1283 1709!1283 1709[1310 1736 1345 1736!1345 1736[1383 1736 1412 1705!1412 1705[1440 1674 1446 1627!1446 1627|1447 1607!1427 1607[1427 1626
+ 1423 1641!1423 1641[1415 1674 1394 1695!1394 1695[1372 1716 1345 1716!1345 1716[1318 1716 1297 1695!1297 1695|1293 1690!1293 1690[1264 1658 1264 1607!1264 1607[1264 1594 1267 1582!1267 1582[1274 1546 1296 1522!1296 1522[1318 1498 1346
+ 1498!1346 1498[1374 1498 1395 1520!1395 1520[1405 1530 1410 1539!1410 1539[1421 1559 1426 1585!1426 1585|1427 1607"/>
+                        <Edge cubics="!1427 1607(;1427,1619 1426,1630 1423,1641q1427 1607Q1427 1626q1423 1641);"/>
+                        <Edge cubics="!1423 1641(;1412,1684 1382,1716 1345,1716q1423 1641Q1415 1674q1394 1695Q1372 1716q1345 1716);"/>
+                        <Edge cubics="!1345 1716(;1328,1716 1311,1709 1297,1695q1345 1716Q1318 1716q1297 1695);"/>
+                        <Edge cubics="!1297 1695(;1296,1693 1294,1692 1293,1690q1297 1695 1293 1690);"/>
+                        <Edge cubics="!1293 1690(;1275,1670 1264,1640 1264,1607q1293 1690Q1264 1658q1264 1607);"/>
+                        <Edge cubics="!1264 1607(;1264,1598 1265,1590 1267,1582q1264 1607Q1264 1594q1267 1582);"/>
+                        <Edge cubics="!1267 1582(;1276,1534 1308,1498 1346,1498q1267 1582Q1274 1546q1296 1522Q1318 1498q1346 1498);"/>
+                        <Edge cubics="!1346 1498(;1364,1498 1381,1505 1395,1520q1346 1498Q1374 1498q1395 1520);"/>
+                        <Edge cubics="!1395 1520(;1400,1525 1406,1532 1410,1539q1395 1520Q1405 1530q1410 1539);"/>
+                        <Edge cubics="!1410 1539(;1418,1553 1423,1568 1426,1585q1410 1539Q1421 1559q1426 1585);"/>
+                        <Edge cubics="!1441 1560(;1436,1545 1430,1532 1421,1520q1441 1560Q1433 1536q1421 1520);"/>
+                        <Edge cubics="!1421 1520(;1417,1514 1413,1510 1409,1505q1421 1520 1409 1505);"/>
+                        <Edge cubics="!1409 1505(;1391,1487 1369,1478 1346,1478q1409 1505Q1382 1478q1346 1478);"/>
+                        <Edge cubics="!1346 1478(;1306,1478 1272,1507 1255,1549q1346 1478Q1317 1478q1292 1498Q1268 1517q1255 1549);"/>
+                        <Edge cubics="!1255 1549(;1255,1550 1255,1550 1255,1550q1255 1549 1255 1550);"/>
+                        <Edge cubics="!1255 1550(;1251,1561 1248,1572 1246,1584q1255 1550Q1249 1567q1246 1584);"/>
+                        <Edge cubics="!1246 1584(;1246,1584 1246,1585 1246,1585q1246 1584 1246 1585);"/>
+                        <Edge cubics="!1246 1585(;1245,1592 1244,1600 1244,1607q1246 1585 1244 1607);"/>
+                        <Edge cubics="!1244 1607(;1244,1627 1248,1647 1254,1664q1244 1607Q1244 1636q1254 1664);"/>
+                        <Edge cubics="!1254 1664(;1260,1679 1268,1692 1278,1703q1254 1664Q1263 1687q1278 1703);"/>
+                        <Edge cubics="!1278 1703(;1280,1705 1281,1707 1283,1709q1278 1703 1283 1709);"/>
+                        <Edge cubics="!1283 1709(;1301,1727 1322,1736 1345,1736q1283 1709Q1310 1736q1345 1736);"/>
+                        <Edge cubics="!1345 1736(;1396,1736 1438,1689 1446,1627q1345 1736Q1383 1736q1412 1705Q1440 1674q1446 1627);"/>
+                        <Edge cubics="!1447 1607(;1447,1591 1445,1575 1441,1560q1447 1607Q1447 1583q1441 1560);"/>
+                        <Edge cubics="!1426 1585(;1426,1585 1427,1607 1427,1607q1426 1585 1427 1607);"/>
+                        <Edge cubics="!1446 1627(;1446,1627 1447,1607 1447,1607q1446 1627 1447 1607);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-46.5" ty="-80.55"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1427 1607[1427 1626 1423 1641!1423 1641[1415 1674 1394 1695!1394 1695[1372 1716 1345 1716!1345 1716[1318 1716 1297 1695!1297 1695|1293 1690!1293 1690[1264 1658 1264 1607!1264 1607[1264 1594 1267 1582!1267 1582[1274 1546 1296 1522!1296
+ 1522[1318 1498 1346 1498!1346 1498[1374 1498 1395 1520!1395 1520[1405 1530 1410 1539!1410 1539[1421 1559 1426 1585!1426 1585|1427 1607!1447 1607[1447 1583 1441 1560!1441 1560[1433 1536 1421 1520!1421 1520|1409 1505!1409 1505[1382 1478
+ 1346 1478!1346 1478[1317 1478 1292 1498!1292 1498[1268 1517 1255 1549!1255 1549|1255 1550!1255 1550[1249 1567 1246 1584!1246 1584|1246 1585!1246 1585|1244 1607!1244 1607[1244 1636 1254 1664!1254 1664[1263 1687 1278 1703!1278 1703|1283
+ 1709!1283 1709[1310 1736 1345 1736!1345 1736[1383 1736 1412 1705!1412 1705[1440 1674 1446 1627!1446 1627|1447 1607"/>
+                        <Edge cubics="!1427 1607(;1427,1619 1426,1630 1423,1641q1427 1607Q1427 1626q1423 1641);"/>
+                        <Edge cubics="!1423 1641(;1412,1684 1382,1716 1345,1716q1423 1641Q1415 1674q1394 1695Q1372 1716q1345 1716);"/>
+                        <Edge cubics="!1345 1716(;1328,1716 1311,1709 1297,1695q1345 1716Q1318 1716q1297 1695);"/>
+                        <Edge cubics="!1297 1695(;1296,1693 1294,1692 1293,1690q1297 1695 1293 1690);"/>
+                        <Edge cubics="!1293 1690(;1275,1670 1264,1640 1264,1607q1293 1690Q1264 1658q1264 1607);"/>
+                        <Edge cubics="!1264 1607(;1264,1598 1265,1590 1267,1582q1264 1607Q1264 1594q1267 1582);"/>
+                        <Edge cubics="!1267 1582(;1276,1534 1308,1498 1346,1498q1267 1582Q1274 1546q1296 1522Q1318 1498q1346 1498);"/>
+                        <Edge cubics="!1346 1498(;1364,1498 1381,1505 1395,1520q1346 1498Q1374 1498q1395 1520);"/>
+                        <Edge cubics="!1395 1520(;1400,1525 1406,1532 1410,1539q1395 1520Q1405 1530q1410 1539);"/>
+                        <Edge cubics="!1410 1539(;1418,1553 1423,1568 1426,1585q1410 1539Q1421 1559q1426 1585);"/>
+                        <Edge cubics="!1441 1560(;1436,1545 1430,1532 1421,1520q1441 1560Q1433 1536q1421 1520);"/>
+                        <Edge cubics="!1421 1520(;1417,1514 1413,1510 1409,1505q1421 1520 1409 1505);"/>
+                        <Edge cubics="!1409 1505(;1391,1487 1369,1478 1346,1478q1409 1505Q1382 1478q1346 1478);"/>
+                        <Edge cubics="!1346 1478(;1306,1478 1272,1507 1255,1549q1346 1478Q1317 1478q1292 1498Q1268 1517q1255 1549);"/>
+                        <Edge cubics="!1255 1549(;1255,1550 1255,1550 1255,1550q1255 1549 1255 1550);"/>
+                        <Edge cubics="!1255 1550(;1251,1561 1248,1572 1246,1584q1255 1550Q1249 1567q1246 1584);"/>
+                        <Edge cubics="!1246 1584(;1246,1584 1246,1585 1246,1585q1246 1584 1246 1585);"/>
+                        <Edge cubics="!1246 1585(;1245,1592 1244,1600 1244,1607q1246 1585 1244 1607);"/>
+                        <Edge cubics="!1244 1607(;1244,1627 1248,1647 1254,1664q1244 1607Q1244 1636q1254 1664);"/>
+                        <Edge cubics="!1254 1664(;1260,1679 1268,1692 1278,1703q1254 1664Q1263 1687q1278 1703);"/>
+                        <Edge cubics="!1278 1703(;1280,1705 1281,1707 1283,1709q1278 1703 1283 1709);"/>
+                        <Edge cubics="!1283 1709(;1301,1727 1322,1736 1345,1736q1283 1709Q1310 1736q1345 1736);"/>
+                        <Edge cubics="!1345 1736(;1396,1736 1438,1689 1446,1627q1345 1736Q1383 1736q1412 1705Q1440 1674q1446 1627);"/>
+                        <Edge cubics="!1447 1607(;1447,1591 1445,1575 1441,1560q1447 1607Q1447 1583q1441 1560);"/>
+                        <Edge cubics="!1426 1585(;1426,1585 1427,1607 1427,1607q1426 1585 1427 1607);"/>
+                        <Edge cubics="!1446 1627(;1446,1627 1447,1607 1447,1607q1446 1627 1447 1607);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/Colorivel13" name="colorivel" centerPoint3DX="14.3" centerPoint3DY="8.15">
+                  <matrix>
+                    <Matrix tx="-2.7" ty="2.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17" y="5.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho16" centerPoint3DX="14.3" centerPoint3DY="9.25">
+                  <matrix>
+                    <Matrix tx="14.3" ty="9.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho17" name="colorivel" centerPoint3DX="15" centerPoint3DY="8.6">
+                  <matrix>
+                    <Matrix tx="15" ty="8.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-59.05" ty="-71.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1349 1464[1315 1464 1285 1488!1285 1488[1261 1507 1247 1539!1247 1539[1233 1572 1233 1608!1233 1608[1233 1656 1255 1692!1255 1692[1271 1719 1292 1733!1292 1733[1319 1752 1349 1752!1349 1752[1399 1752 1433 1708!1433 1708[1450 1687 1459
+ 1657!1459 1657[1466 1631 1466 1608!1466 1608[1466 1548 1430 1505!1430 1505[1411 1481 1382 1470!1382 1470[1366 1464 1349 1464!1378 1515[1399 1526 1413 1551!1413 1551[1426 1577 1426 1608!1426 1608[1426 1639 1413 1665!1413 1665[1389 1709
+ 1349 1709!1349 1709[1321 1709 1300 1685!1300 1685[1273 1655 1273 1608!1273 1608[1273 1560 1302 1529!1302 1529[1322 1507 1349 1507!1349 1507[1364 1507 1378 1515"/>
+                    <Edge cubics="!1413 1665(;1399,1691 1376,1709 1349,1709q1413 1665Q1389 1709q1349 1709);"/>
+                    <Edge cubics="!1349 1709(;1331,1709 1313,1700 1300,1685q1349 1709Q1321 1709q1300 1685);"/>
+                    <Edge cubics="!1300 1685(;1283,1666 1273,1639 1273,1608q1300 1685Q1273 1655q1273 1608);"/>
+                    <Edge cubics="!1273 1608(;1273,1576 1285,1547 1302,1529q1273 1608Q1273 1560q1302 1529);"/>
+                    <Edge cubics="!1302 1529(;1315,1515 1332,1507 1349,1507q1302 1529Q1322 1507q1349 1507);"/>
+                    <Edge cubics="!1349 1507(;1359,1507 1369,1510 1378,1515q1349 1507Q1364 1507q1378 1515);"/>
+                    <Edge cubics="!1378 1515(;1406,1530 1426,1566 1426,1608q1378 1515Q1399 1526q1413 1551Q1426 1577q1426 1608);"/>
+                    <Edge cubics="!1426 1608(;1426,1629 1421,1649 1413,1665q1426 1608Q1426 1639q1413 1665);"/>
+                    <Edge cubics="!1430 1505(;1417,1489 1400,1477 1382,1470q1430 1505Q1411 1481q1382 1470);"/>
+                    <Edge cubics="!1382 1470(;1371,1466 1361,1464 1349,1464q1382 1470Q1366 1464q1349 1464);"/>
+                    <Edge cubics="!1349 1464(;1326,1464 1304,1473 1285,1488q1349 1464Q1315 1464q1285 1488);"/>
+                    <Edge cubics="!1285 1488(;1269,1501 1256,1519 1247,1539q1285 1488Q1261 1507q1247 1539);"/>
+                    <Edge cubics="!1247 1539(;1238,1560 1233,1583 1233,1608q1247 1539Q1233 1572q1233 1608);"/>
+                    <Edge cubics="!1233 1608(;1233,1640 1241,1669 1255,1692q1233 1608Q1233 1656q1255 1692);"/>
+                    <Edge cubics="!1255 1692(;1265,1709 1277,1723 1292,1733q1255 1692Q1271 1719q1292 1733);"/>
+                    <Edge cubics="!1292 1733(;1309,1745 1329,1752 1349,1752q1292 1733Q1319 1752q1349 1752);"/>
+                    <Edge cubics="!1349 1752(;1382,1752 1412,1735 1433,1708q1349 1752Q1399 1752q1433 1708);"/>
+                    <Edge cubics="!1433 1708(;1444,1694 1453,1676 1459,1657q1433 1708Q1450 1687q1459 1657);"/>
+                    <Edge cubics="!1459 1657(;1463,1642 1466,1625 1466,1608q1459 1657Q1466 1631q1466 1608);"/>
+                    <Edge cubics="!1466 1608(;1466,1568 1452,1531 1430,1505q1466 1608Q1466 1548q1430 1505);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-59.05" ty="-71.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1628 1466|1612 1464!1612 1464[1586 1464 1563 1478!1563 1478[1533 1495 1515 1530!1515 1530[1496 1566 1496 1608!1496 1608[1496 1631 1500 1648!1500 1648[1506 1673 1518 1692!1518 1692[1553 1752 1612 1752!1612 1752[1650 1752 1680 1725!1680
+ 1725[1710 1699 1722 1656!1722 1656[1729 1635 1729 1608!1729 1608[1729 1554 1700 1513!1700 1513[1671 1473 1628 1466!1676 1664[1653 1709 1612 1709!1612 1709[1584 1709 1562 1684!1562 1684[1545 1664 1540 1641!1540 1641[1536 1628 1536 1608
+!1536 1608[1536 1566 1558 1537!1558 1537[1581 1507 1612 1507!1612 1507[1644 1507 1666 1537!1666 1537[1689 1566 1689 1608!1689 1608|1689 1615!1689 1615[1688 1641 1676 1664"/>
+                    <Edge cubics="!1676 1664(;1662,1691 1639,1709 1612,1709q1676 1664Q1653 1709q1612 1709);"/>
+                    <Edge cubics="!1612 1709(;1593,1709 1576,1700 1562,1684q1612 1709Q1584 1709q1562 1684);"/>
+                    <Edge cubics="!1562 1684(;1552,1672 1544,1658 1540,1641q1562 1684Q1545 1664q1540 1641);"/>
+                    <Edge cubics="!1540 1641(;1537,1631 1536,1620 1536,1608q1540 1641Q1536 1628q1536 1608);"/>
+                    <Edge cubics="!1536 1608(;1536,1552 1570,1507 1612,1507q1536 1608Q1536 1566q1558 1537Q1581 1507q1612 1507);"/>
+                    <Edge cubics="!1612 1507(;1654,1507 1689,1552 1689,1608q1612 1507Q1644 1507q1666 1537Q1689 1566q1689 1608);"/>
+                    <Edge cubics="!1689 1608(;1689,1610 1689,1612 1689,1615q1689 1608 1689 1615);"/>
+                    <Edge cubics="!1689 1615(;1688,1633 1683,1650 1676,1664q1689 1615Q1688 1641q1676 1664);"/>
+                    <Edge cubics="!1628 1466(;1623,1465 1618,1464 1612,1464q1628 1466p1612 1464);"/>
+                    <Edge cubics="!1612 1464(;1595,1464 1578,1469 1563,1478q1612 1464Q1586 1464q1563 1478);"/>
+                    <Edge cubics="!1563 1478(;1523,1501 1496,1551 1496,1608q1563 1478Q1533 1495q1515 1530Q1496 1566q1496 1608);"/>
+                    <Edge cubics="!1496 1608(;1496,1622 1497,1635 1500,1648q1496 1608Q1496 1631q1500 1648);"/>
+                    <Edge cubics="!1500 1648(;1504,1664 1510,1679 1518,1692q1500 1648Q1506 1673q1518 1692);"/>
+                    <Edge cubics="!1518 1692(;1539,1728 1573,1752 1612,1752q1518 1692Q1553 1752q1612 1752);"/>
+                    <Edge cubics="!1612 1752(;1663,1752 1706,1712 1722,1656q1612 1752Q1650 1752q1680 1725Q1710 1699q1722 1656);"/>
+                    <Edge cubics="!1722 1656(;1727,1641 1729,1625 1729,1608q1722 1656Q1729 1635q1729 1608);"/>
+                    <Edge cubics="!1729 1608(;1729,1535 1685,1475 1628,1466q1729 1608Q1729 1554q1700 1513Q1671 1473q1628 1466);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-59.05" ty="-71.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1369 1634[1384 1634 1395 1620!1395 1620[1405 1607 1405 1588!1405 1588[1405 1569 1395 1555!1395 1555[1384 1542 1369 1542!1369 1542[1354 1542 1344 1555!1344 1555[1333 1569 1333 1588!1333 1588[1333 1607 1344 1620!1344 1620[1354 1634 1369
+ 1634"/>
+                    <Edge cubics="!1369 1634(;1389,1634 1405,1613 1405,1588q1369 1634Q1384 1634q1395 1620Q1405 1607q1405 1588);"/>
+                    <Edge cubics="!1405 1588(;1405,1562 1389,1542 1369,1542q1405 1588Q1405 1569q1395 1555Q1384 1542q1369 1542);"/>
+                    <Edge cubics="!1369 1542(;1349,1542 1333,1562 1333,1588q1369 1542Q1354 1542q1344 1555Q1333 1569q1333 1588);"/>
+                    <Edge cubics="!1333 1588(;1333,1613 1349,1634 1369,1634q1333 1588Q1333 1607q1344 1620Q1354 1634q1369 1634);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-59.05" ty="-71.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1640 1542[1625 1542 1615 1555!1615 1555[1604 1569 1604 1588!1604 1588[1604 1607 1615 1620!1615 1620[1625 1634 1640 1634!1640 1634[1655 1634 1666 1620!1666 1620[1676 1607 1676 1588!1676 1588[1676 1569 1666 1555!1666 1555[1655 1542 1640
+ 1542"/>
+                    <Edge cubics="!1640 1634(;1660,1634 1676,1613 1676,1588q1640 1634Q1655 1634q1666 1620Q1676 1607q1676 1588);"/>
+                    <Edge cubics="!1676 1588(;1676,1562 1660,1542 1640,1542q1676 1588Q1676 1569q1666 1555Q1655 1542q1640 1542);"/>
+                    <Edge cubics="!1640 1542(;1620,1542 1604,1562 1604,1588q1640 1542Q1625 1542q1615 1555Q1604 1569q1604 1588);"/>
+                    <Edge cubics="!1604 1588(;1604,1613 1620,1634 1640,1634q1604 1588Q1604 1607q1615 1620Q1625 1634q1640 1634);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho18" centerPoint3DX="12.5" centerPoint3DY="9.5">
+                  <matrix>
+                    <Matrix tx="12.5" ty="9.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/Colorivel14" name="colorivel" centerPoint3DX="14.35" centerPoint3DY="7.5">
+                  <matrix>
+                    <Matrix tx="-0.05" ty="-0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.4" y="8.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/Colorivel15" name="colorivel" centerPoint3DX="14.7" centerPoint3DY="11.35">
+                  <matrix>
+                    <Matrix tx="3.7" ty="6.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11" y="5.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho19" centerPoint3DX="12.15" centerPoint3DY="11.55">
+                  <matrix>
+                    <Matrix tx="12.15" ty="11.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/Colorivel16" name="colorivel" centerPoint3DX="14.7" centerPoint3DY="9.95">
+                  <matrix>
+                    <Matrix tx="3.85" ty="5.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="4.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho20" centerPoint3DX="17.05" centerPoint3DY="9.3">
+                  <matrix>
+                    <Matrix tx="17.05" ty="9.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/Symbol 1" name="colorivel" centerPoint3DX="14.75" centerPoint3DY="6.95">
+                  <matrix>
+                    <Matrix tx="-6.15" ty="-1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.9" y="8.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho21" centerPoint3DX="17.2" centerPoint3DY="9.05">
+                  <matrix>
+                    <Matrix tx="17.2" ty="9.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel16" name="colorivel" centerPoint3DX="14.4" centerPoint3DY="10.25">
+                  <matrix>
+                    <Matrix tx="3.45" ty="5.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.95" y="4.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho22" centerPoint3DX="14.2" centerPoint3DY="7.9">
+                  <matrix>
+                    <Matrix tx="14.2" ty="7.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel17" name="colorivel" centerPoint3DX="15.1" centerPoint3DY="9.25">
+                  <matrix>
+                    <Matrix tx="-0.2" ty="3.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.3" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho23" centerPoint3DX="16.95" centerPoint3DY="10.1">
+                  <matrix>
+                    <Matrix tx="16.95" ty="10.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel18" name="colorivel" centerPoint3DX="14.5" centerPoint3DY="4.8">
+                  <matrix>
+                    <Matrix tx="2.05" ty="-5.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.45" y="10.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho24" centerPoint3DX="12.25" centerPoint3DY="8.65">
+                  <matrix>
+                    <Matrix tx="12.25" ty="8.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel19" name="colorivel" centerPoint3DX="14.55" centerPoint3DY="7.2">
+                  <matrix>
+                    <Matrix tx="1.7" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.85" y="7.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho25" centerPoint3DX="14.95" centerPoint3DY="6.85">
+                  <matrix>
+                    <Matrix tx="14.95" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel20" name="colorivel" centerPoint3DX="14.55" centerPoint3DY="9.3">
+                  <matrix>
+                    <Matrix tx="-2.5" ty="6.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.05" y="2.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel21" name="colorivel" centerPoint3DX="14.65" centerPoint3DY="9.65">
+                  <matrix>
+                    <Matrix tx="3.75" ty="5.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.9" y="4.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho26" centerPoint3DX="14.65" centerPoint3DY="7.65">
+                  <matrix>
+                    <Matrix tx="14.65" ty="7.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel22" name="colorivel" centerPoint3DX="14.75" centerPoint3DY="9.3">
+                  <matrix>
+                    <Matrix tx="2.65" ty="4.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.1" y="5.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel23" name="colorivel" centerPoint3DX="15" centerPoint3DY="8.95">
+                  <matrix>
+                    <Matrix tx="4.25" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.75" y="5.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho27" centerPoint3DX="15.15" centerPoint3DY="10.2">
+                  <matrix>
+                    <Matrix tx="15.15" ty="10.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho28" centerPoint3DX="7.85" centerPoint3DY="6">
+                  <matrix>
+                    <Matrix tx="7.85" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel24" name="colorivel" centerPoint3DX="14.55" centerPoint3DY="8.75">
+                  <matrix>
+                    <Matrix tx="1.5" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.05" y="8.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho29" centerPoint3DX="14.65" centerPoint3DY="7.3">
+                  <matrix>
+                    <Matrix tx="14.65" ty="7.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel25" name="colorivel" centerPoint3DX="14.65" centerPoint3DY="5.55">
+                  <matrix>
+                    <Matrix tx="1.1" ty="-3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.55" y="9.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel26" name="colorivel" centerPoint3DX="14.7" centerPoint3DY="8.1">
+                  <matrix>
+                    <Matrix tx="3.75" ty="2.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.95" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho30" centerPoint3DX="13.05" centerPoint3DY="9.3">
+                  <matrix>
+                    <Matrix tx="13.05" ty="9.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel27" name="colorivel" centerPoint3DX="15" centerPoint3DY="8.15">
+                  <matrix>
+                    <Matrix tx="4" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11" y="5.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho31" centerPoint3DX="13.25" centerPoint3DY="8.9">
+                  <matrix>
+                    <Matrix tx="13.25" ty="8.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel28" name="colorivel" centerPoint3DX="14.5" centerPoint3DY="10.85">
+                  <matrix>
+                    <Matrix tx="2.2" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.3" y="2.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel29" name="colorivel" centerPoint3DX="14.95" centerPoint3DY="8.2">
+                  <matrix>
+                    <Matrix tx="2.25" ty="1.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.7" y="7.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho32" centerPoint3DX="16.7" centerPoint3DY="8">
+                  <matrix>
+                    <Matrix tx="16.7" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel30" name="colorivel" centerPoint3DX="14.95" centerPoint3DY="9.05">
+                  <matrix>
+                    <Matrix tx="-2.45" ty="2.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.4" y="6.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho33" centerPoint3DX="14.35" centerPoint3DY="6.4">
+                  <matrix>
+                    <Matrix tx="14.35" ty="6.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel31" name="colorivel" centerPoint3DX="14.95" centerPoint3DY="9.9">
+                  <matrix>
+                    <Matrix tx="1.8" ty="3.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.15" y="6.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel32" name="colorivel" centerPoint3DX="14.75" centerPoint3DY="9.85">
+                  <matrix>
+                    <Matrix tx="3.85" ty="5.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.9" y="4.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho34" centerPoint3DX="16.5" centerPoint3DY="7.85">
+                  <matrix>
+                    <Matrix tx="16.5" ty="7.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel33" name="colorivel" centerPoint3DX="14.7" centerPoint3DY="8.2">
+                  <matrix>
+                    <Matrix tx="1.55" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.15" y="4.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/ColoriveisOlho/OlhoColorivel34" name="colorivel" centerPoint3DX="14.55" centerPoint3DY="6.8">
+                  <matrix>
+                    <Matrix tx="1.5" ty="-0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.05" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis copy/olho/olho35" centerPoint3DX="7.85" centerPoint3DY="5.95">
+                  <matrix>
+                    <Matrix tx="7.85" ty="5.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

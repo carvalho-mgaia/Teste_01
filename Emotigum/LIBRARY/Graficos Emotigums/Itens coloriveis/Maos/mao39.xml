@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Maos/mao39" itemID="4fe38735-00000767" lastModified="1340311349">
+  <timeline>
+    <DOMTimeline name="mao39">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-59.9" ty="-114.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1272 2145|1258 2164!1258 2164|1308 2210!1308 2210|1330 2187!1330 2187|1371 2221!1371 2221|1211 2386!1211 2386|1104 2295!1104 2295|1104 2221!1104 2221|1157 2208!1157 2208|1241 2108!1241 2108|1272 2145"/>
+                    <Edge cubics="!1104 2221(;1104,2221 1157,2208 1157,2208q1104 2221 1157 2208);"/>
+                    <Edge cubics="!1157 2208(;1157,2208 1241,2108 1241,2108q1157 2208 1241 2108);"/>
+                    <Edge cubics="!1241 2108(;1241,2108 1272,2145 1272,2145q1241 2108 1272 2145);"/>
+                    <Edge cubics="!1272 2145(;1272,2145 1258,2164 1258,2164q1272 2145 1258 2164);"/>
+                    <Edge cubics="!1258 2164(;1258,2164 1308,2210 1308,2210q1258 2164 1308 2210);"/>
+                    <Edge cubics="!1308 2210(;1308,2210 1330,2187 1330,2187q1308 2210 1330 2187);"/>
+                    <Edge cubics="!1330 2187(;1330,2187 1371,2221 1371,2221q1330 2187 1371 2221);"/>
+                    <Edge cubics="!1371 2221(;1371,2221 1211,2386 1211,2386q1371 2221 1211 2386);"/>
+                    <Edge cubics="!1211 2386(;1211,2386 1104,2295 1104,2295q1211 2386 1104 2295);"/>
+                    <Edge cubics="!1104 2295(;1104,2295 1104,2221 1104,2221q1104 2295 1104 2221);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-59.9" ty="-114.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1205 2410|1150 2470!1150 2470|1025 2364!1025 2364|1082 2301!1082 2301|1205 2410"/>
+                    <Edge cubics="!1205 2410(;1205,2410 1150,2470 1150,2470q1205 2410 1150 2470);"/>
+                    <Edge cubics="!1150 2470(;1150,2470 1025,2364 1025,2364q1150 2470 1025 2364);"/>
+                    <Edge cubics="!1025 2364(;1025,2364 1082,2301 1082,2301q1025 2364 1082 2301);"/>
+                    <Edge cubics="!1082 2301(;1082,2301 1205,2410 1205,2410q1082 2301 1205 2410);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

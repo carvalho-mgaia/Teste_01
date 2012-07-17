@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Acessorios/Icones/Cabelo3" itemID="4fd7558d-0000015a" linkageExportForAS="true" linkageBaseClass="BoxAcessorios.DragableItem" linkageClassName="Cabelo3" lastModified="1342017616" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Cabelo3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Composto" name="box" centerPoint3DX="26" centerPoint3DY="11.25">
+                  <matrix>
+                    <Matrix a="0.164505004882813" d="0.198196411132813" tx="-13.15" ty="-19.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="238" y="155.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-50.15" ty="-30.25"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!2040 1139|1436 886!1436 886|906 1270!906 1270|906 434!906 434|2040 434!2040 434|2040 1139"/>
+                        <Edge cubics="!2040 1139(;2040,1139 1436,886 1436,886q2040 1139p1436 886);"/>
+                        <Edge cubics="!1436 886(;1436,886 906,1270 906,1270q1436 886p906 1270);"/>
+                        <Edge cubics="!906 1270(;906,1270 906,434 906,434q906 1270p906 434);"/>
+                        <Edge cubics="!906 434(;906,434 2040,434 2040,434q906 434p2040 434);"/>
+                        <Edge cubics="!2040 434(;2040,434 2040,1139 2040,1139q2040 434p2040 1139);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-50.15" ty="-30.25"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!2037 1089[2028 879 1793 807!1793 807[1546 732 1238 942!1238 942[1123 1020 1025 1121!1025 1121[939 1209 906 1270!906 1270[1016 1193 1163 1123!1163 1123[1458 984 1647 1023!1647 1023[1836 1061 1936 1176!1936 1176[1987 1234 1999 1284!1999
+ 1284[2042 1194 2037 1089"/>
+                        <Edge cubics="!906 1270(;906,1270 1344,961 1647,1023q906 1270Q1016 1193q1163 1123Q1458 984q1647 1023);"/>
+                        <Edge cubics="!1647 1023(;1949,1084 1999,1284 1999,1284q1647 1023Q1836 1061q1936 1176Q1987 1234q1999 1284);"/>
+                        <Edge cubics="!1999 1284(;1999,1284 2169,922 1793,807q1999 1284Q2042 1194q2037 1089Q2028 879q1793 807);"/>
+                        <Edge cubics="!1793 807(;1417,693 984,1126 906,1270q1793 807Q1546 732q1238 942Q1123 1020q1025 1121Q939 1209q906 1270);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

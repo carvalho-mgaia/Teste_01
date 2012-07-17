@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animações/Anim. Feixe de Luz/Animacao Feixe de Luz" itemID="4fdb85d1-00000303" lastModified="1339787004" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Animacao Feixe de Luz">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="39" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Feixe de Luz/Gfx Feixe de Luz" centerPoint3DY="160.9">
+                  <transformationPoint>
+                    <Point y="160.9"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="80" blurY="80" color="#FFFFFF" quality="3" strength="2.5"/>
+                    <BlurFilter blurX="0" blurY="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="40" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Feixe de Luz/Gfx Feixe de Luz" centerPoint3DY="160.9">
+                  <transformationPoint>
+                    <Point y="160.9"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="40" blurY="40" color="#FFFFFF" quality="3" strength="2"/>
+                    <BlurFilter blurX="50" blurY="50" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Feixe de Luz/Gfx Feixe de Luz" centerPoint3DY="160.9">
+                  <transformationPoint>
+                    <Point y="160.9"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="80" blurY="80" color="#FFFFFF" quality="3" strength="2.5"/>
+                    <BlurFilter blurX="0" blurY="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

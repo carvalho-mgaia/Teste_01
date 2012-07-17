@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/ColoriveisOlho/OlhoColorivel26" itemID="4fe37d88-00000728" lastModified="1340308872">
+  <timeline>
+    <DOMTimeline name="OlhoColorivel26">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-62.8" ty="-74.25"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1668 1689[1640 1725 1601 1725!1601 1725[1562 1725 1535 1689!1535 1689[1507 1653 1507 1603!1507 1603|1507 1595!1507 1595|1668 1518!1668 1518[1695 1553 1695 1603!1695 1603[1695 1653 1668 1689"/>
+                    <Edge cubics="!1668 1518(;1685,1540 1695,1570 1695,1603q1668 1518Q1695 1553q1695 1603);"/>
+                    <Edge cubics="!1695 1603(;1695,1670 1653,1725 1601,1725q1695 1603Q1695 1653q1668 1689Q1640 1725q1601 1725);"/>
+                    <Edge cubics="!1601 1725(;1549,1725 1507,1670 1507,1603q1601 1725Q1562 1725q1535 1689Q1507 1653q1507 1603);"/>
+                    <Edge cubics="!1507 1603(;1507,1601 1507,1598 1507,1595q1507 1603 1507 1595);"/>
+                    <Edge cubics="!1507 1595(;1507,1595 1668,1518 1668,1518q1507 1595 1668 1518);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-62.8" ty="-74.25"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#050404"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1348 1485[1310 1485 1283 1520!1283 1520[1256 1555 1256 1605!1256 1605[1256 1654 1283 1690!1283 1690[1310 1725 1348 1725!1348 1725[1386 1725 1413 1690!1413 1690[1440 1655 1440 1605!1440 1605[1440 1556 1413 1521!1413 1521[1386 1486 1348
+ 1485"/>
+                    <Edge cubics="!1348 1485(;1297,1485 1256,1539 1256,1605q1348 1485Q1310 1485q1283 1520Q1256 1555q1256 1605);"/>
+                    <Edge cubics="!1256 1605(;1256,1671 1298,1725 1348,1725q1256 1605Q1256 1654q1283 1690Q1310 1725q1348 1725);"/>
+                    <Edge cubics="!1348 1725(;1399,1725 1440,1671 1440,1605q1348 1725Q1386 1725q1413 1690Q1440 1655q1440 1605);"/>
+                    <Edge cubics="!1440 1605(;1440,1539 1398,1486 1348,1485q1440 1605Q1440 1556q1413 1521Q1386 1486q1348 1485);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

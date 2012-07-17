@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 700" itemID="50007bee-00000ce5" lastModified="1342209425">
+  <timeline>
+    <DOMTimeline name="Symbol 700">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

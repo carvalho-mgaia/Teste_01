@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/caixa de acessórios_cima.ai Assets/Shape 199 + Group 2 copy 3/Shape 199 + Group 2 copy 3_0" itemID="4fd8a2bd-00000198" lastModified="1339597501">
+  <timeline>
+    <DOMTimeline name="Shape 199 + Group 2 copy 3_0">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members/>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FF0000"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!2611 38|2281 64!2281 64|1608 16!1608 16|782 18!782 18|48 76!48 76|20 379!20 379|20 652!20 652|125 720!125 720|3068 739!3068 739|3130 672!3130 672|3140 72!3140 72|2611 38"/>
+                        <Edge cubics="!2611 38(;2611,38 2281,64 2281,64q2611 38 2281 64);"/>
+                        <Edge cubics="!2281 64(;2281,64 1608,16 1608,16q2281 64 1608 16);"/>
+                        <Edge cubics="!1608 16(;1608,16 782,18 782,18q1608 16 782 18);"/>
+                        <Edge cubics="!782 18(;782,18 48,76 48,76q782 18 48 76);"/>
+                        <Edge cubics="!48 76(;48,76 20,379 20,379q48 76 20 379);"/>
+                        <Edge cubics="!20 379(;20,379 20,652 20,652q20 379 20 652);"/>
+                        <Edge cubics="!20 652(;20,652 125,720 125,720q20 652 125 720);"/>
+                        <Edge cubics="!125 720(;125,720 3068,739 3068,739q125 720 3068 739);"/>
+                        <Edge cubics="!3068 739(;3068,739 3130,672 3130,672q3068 739 3130 672);"/>
+                        <Edge cubics="!3130 672(;3130,672 3140,72 3140,72q3130 672 3140 72);"/>
+                        <Edge cubics="!3140 72(;3140,72 2611,38 2611,38q3140 72 2611 38);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Vetores/caixa de acessórios_cima.ai Assets/Shape 199 + Group 2 copy 3/Shape 199 + Group 2 copy 3 Image">
+                  <matrix>
+                    <Matrix a="0.719985961914063" d="0.719985961914063"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members/>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

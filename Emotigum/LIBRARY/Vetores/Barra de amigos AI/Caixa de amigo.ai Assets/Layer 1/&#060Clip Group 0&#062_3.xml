@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/Barra de amigos AI/Caixa de amigo.ai Assets/Layer 1/&lt;Clip Group 0&gt;_3" itemID="4fcf936c-00000099" lastModified="1341001096" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="&lt;Clip Group 0&gt;_3">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" current="true" isSelected="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!115 130|1886 130!1886 130|1886 2786!1886 2786|115 2786!115 2786|115 130"/>
+                    <Edge cubics="!115 130(;115,130 1886,130 1886,130q115 130 1886 130);"/>
+                    <Edge cubics="!1886 130(;1886,130 1886,2786 1886,2786q1886 130 1886 2786);"/>
+                    <Edge cubics="!1886 2786(;1886,2786 115,2786 115,2786q1886 2786 115 2786);"/>
+                    <Edge cubics="!115 2786(;115,2786 115,130 115,130q115 2786 115 130);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="0" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="caixinha dos amigos.ai Assets/Group 1/Shape 216 + Group 1" blendMode="layer" centerPoint3DX="48.95" centerPoint3DY="71.85">
+                  <matrix>
+                    <Matrix tx="3.2" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.35" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

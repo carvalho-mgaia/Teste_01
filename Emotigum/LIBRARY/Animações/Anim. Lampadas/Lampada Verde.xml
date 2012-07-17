@@ -1,0 +1,92 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animações/Anim. Lampadas/Lampada Verde" itemID="4fe88129-0000040d" lastModified="1340637481">
+  <timeline>
+    <DOMTimeline name="Lampada Verde">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-44.2" ty="-10.7"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#2AC834"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!1067 128[1025 -1 880 15!880 15[823 21 777 50!777 50[731 80 724 116!724 116[714 165 690 238!690 238[677 296 699 341!699 341|719 360!719 360[746 382 777 396!777 396[878 439 990 382!990 382|1011 369!1011 369[1035 351 1052 326!1052 326[1106
+ 246 1067 128"/>
+                            <Edge cubics="!1067 128(;1006,-60 744,18 724,116q1067 128Q1025 -1q880 15Q823 21q777 50Q731 80q724 116);"/>
+                            <Edge cubics="!724 116(;703,214 663,268 699,341q724 116Q714 165q690 238Q677 296q699 341);"/>
+                            <Edge cubics="!699 341(;699,341 810,473 990,382q699 341Q699 341q719 360Q746 382q777 396Q878 439q990 382);"/>
+                            <Edge cubics="!990 382(;990,382 1129,317 1067,128q990 382Q990 382q1011 369Q1035 351q1052 326Q1106 246q1067 128);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-44.2" ty="-10.7"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#48DF35"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="
+!980 73[929 73 962 127!962 127[978 154 1005 181!1005 181|1030 248!1030 248[1055 300 1057 227!1057 227[1059 154 1020 106!1020 106|980 73"/>
+                            <Edge cubics="!980 73(;898,73 1005,181 1005,181q980 73Q929 73q962 127Q978 154q1005 181);"/>
+                            <Edge cubics="!1005 181(;1005,181 1054,344 1057,227q1005 181Q1005 181q1030 248Q1055 300q1057 227);"/>
+                            <Edge cubics="!1057 227(;1060,110 980,73 980,73q1057 227Q1059 154q1020 106Q980 73q980 73);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-44.2" ty="-10.7"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#48DF35"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="
+!904 85[864 70 815 70!815 70[776 70 813 101!813 101[849 131 898 131!898 131[940 131 926 108!926 108|904 85"/>
+                            <Edge cubics="!904 85(;904,85 864,70 815,70q904 85Q864 70q815 70);"/>
+                            <Edge cubics="!815 70(;766,70 830,131 898,131q815 70Q776 70q813 101Q849 131q898 131);"/>
+                            <Edge cubics="!898 131(;965,131 904,85 904,85q898 131Q940 131q926 108Q904 85q904 85);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

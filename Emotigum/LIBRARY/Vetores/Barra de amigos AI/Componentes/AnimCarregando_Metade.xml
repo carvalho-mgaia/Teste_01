@@ -1,0 +1,58 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/Barra de amigos AI/Componentes/AnimCarregando_Metade" itemID="4da36bc4-000003fe" lastModified="1302555962">
+  <timeline>
+    <DOMTimeline name="AnimCarregando_Metade">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0267333984375" d="0.01336669921875" ty="10.95"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0267333984375" d="-0.01336669921875" ty="-10.95"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" edges="!438 0[438 -121 380 -219!380 -219[351 -267 309 -309!309 -309[185 -434 12 -438!12 -438|-11 -438!-11 -438[-185 -434 -310 -309!-310 -309[-352 -267 -380 -219!-380 -219[-438 -121 -438 0"/>
+                    <Edge fillStyle0="1" edges="!-438 0[-438 121 -380 219!-380 219[-352 267 -310 309!-310 309[-185 434 -11 438!-11 438|12 438!12 438[185 434 309 309!309 309[351 267 380 219!380 219[438 121 438 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!438 0|-438 0"/>
+                    <Edge cubics="!380 -219(380,-219;361,-251 337,-281 309,-309q380 -219Q351 -267q309 -309);"/>
+                    <Edge cubics="!309 -309(;226,-392 127,-435 12,-438q309 -309Q185 -434q12 -438);"/>
+                    <Edge cubics="!438 0(;438,-81 419,-154 380,-219q438 0Q438 -121q380 -219);"/>
+                    <Edge cubics="!-11 -438(;-127,-435 -227,-392 -310,-309q-11 -438Q-185 -434q-310 -309);"/>
+                    <Edge cubics="!-310 -309(-310,-309;-338,-281 -361,-251 -380,-219q-310 -309Q-352 -267q-380 -219);"/>
+                    <Edge cubics="!-380 -219(;-419,-154 -438,-81 -438,0q-380 -219Q-438 -121q-438 0);"/>
+                    <Edge cubics="!12 -438(12,-438;12,-438 -11,-438 -11,-438q12 -438 -11 -438);"/>
+                    <Edge cubics="!-438 0(;-438,0 438,0 438,0q-438 0 438 0);"/>
+                    <Edge cubics="!309 309(;226,392 127,435 12,438q309 309Q185 434q12 438);"/>
+                    <Edge cubics="!438 0(438,0;438,81 419,154 380,219q438 0Q438 121q380 219);"/>
+                    <Edge cubics="!380 219(;361,251 337,281 309,309q380 219Q351 267q309 309);"/>
+                    <Edge cubics="!-11 438(-11,438;-127,435 -227,392 -310,309q-11 438Q-185 434q-310 309);"/>
+                    <Edge cubics="!-310 309(;-338,281 -361,251 -380,219q-310 309Q-352 267q-380 219);"/>
+                    <Edge cubics="!-380 219(;-419,154 -438,81 -438,0q-380 219Q-438 121q-438 0);"/>
+                    <Edge cubics="!12 438(;12,438 -11,438 -11,438q12 438 -11 438);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

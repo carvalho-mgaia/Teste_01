@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tela Balao/Balao_Shape" itemID="4fe23989-00000435" lastModified="1340225929">
+  <timeline>
+    <DOMTimeline name="Balao_Shape">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!3309 147[3162 0 2955 0!2955 0|1035 0!1035 0[827 0 681 147!681 147[535 293 535 500!535 500|535 640!535 640|0 1215!0 1215|535 940!535 940|535 1125!535 1125[535 1333 681 1479!681 1479[827 1625 1035 1625!1035 1625|2955 1625!2955 1625[3162
+ 1625 3309 1479!3309 1479[3455 1333 3455 1125!3455 1125|3455 500!3455 500[3455 293 3309 147"/>
+                            <Edge cubics="!2955 0(;2955,0 1035,0 1035,0q2955 0 1035 0);"/>
+                            <Edge cubics="!1035 0(;758,0 535,224 535,500q1035 0Q827 0q681 147Q535 293q535 500);"/>
+                            <Edge cubics="!535 500(;535,500 535,640 535,640q535 500 535 640);"/>
+                            <Edge cubics="!535 640(;535,640 0,1215 0,1215q535 640 0 1215);"/>
+                            <Edge cubics="!0 1215(;0,1215 535,940 535,940q0 1215 535 940);"/>
+                            <Edge cubics="!535 940(;535,940 535,1125 535,1125q535 940 535 1125);"/>
+                            <Edge cubics="!535 1125(;535,1402 758,1625 1035,1625q535 1125Q535 1333q681 1479Q827 1625q1035 1625);"/>
+                            <Edge cubics="!1035 1625(;1035,1625 2955,1625 2955,1625q1035 1625 2955 1625);"/>
+                            <Edge cubics="!2955 1625(;3231,1625 3455,1402 3455,1125q2955 1625Q3162 1625q3309 1479Q3455 1333q3455 1125);"/>
+                            <Edge cubics="!3455 1125(;3455,1125 3455,500 3455,500q3455 1125 3455 500);"/>
+                            <Edge cubics="!3455 500(;3455,224 3231,0 2955,0q3455 500Q3455 293q3309 147Q3162 0q2955 0);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Cabelos/cabelo61" itemID="4fe37070-000003f9" lastModified="1340305521">
+  <timeline>
+    <DOMTimeline name="cabelo61">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMSymbolInstance libraryItemName="Graficos Emotigums/Itens coloriveis/Cabelos/grid_base_emotigums_01.ai/Cabelo 61/&lt;Clip Group 0&gt;" selected="true">
+                      <matrix>
+                        <Matrix tx="-2.55"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="30.2" y="30.25"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

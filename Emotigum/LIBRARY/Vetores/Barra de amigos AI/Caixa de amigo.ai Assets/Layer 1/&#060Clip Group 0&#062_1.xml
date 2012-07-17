@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/Barra de amigos AI/Caixa de amigo.ai Assets/Layer 1/&lt;Clip Group 0&gt;_1" itemID="4fcf936c-00000092" lastModified="1340999325">
+  <timeline>
+    <DOMTimeline name="&lt;Clip Group 0&gt;_1">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 7|2011 7!2011 7|2011 3144!2011 3144|0 3144!0 3144|0 7"/>
+                    <Edge cubics="!0 7(;0,7 2011,7 2011,7q0 7 2011 7);"/>
+                    <Edge cubics="!2011 7(;2011,7 2011,3144 2011,3144q2011 7 2011 3144);"/>
+                    <Edge cubics="!2011 3144(;2011,3144 0,3144 0,3144q2011 3144 0 3144);"/>
+                    <Edge cubics="!0 3144(;0,3144 0,7 0,7q0 3144 0 7);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Vetores/Barra de amigos AI/Container Foto/Layer 1/&lt;Clip Group 0&gt;_0">
+                  <transformationPoint>
+                    <Point x="52.2" y="80.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

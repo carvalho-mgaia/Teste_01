@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/caixa de acessórios_cima.ai Assets/Shape 198 copy/Shape 198 copy" itemID="4fd8a2bd-00000190" lastModified="1339597501">
+  <timeline>
+    <DOMTimeline name="Shape 198 copy">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#D5D5D5"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!882 84|781 0!781 0|0 837!0 837|864 835!864 835|908 730!908 730|882 84"/>
+                            <Edge cubics="!882 84(;882,84 781,0 781,0q882 84 781 0);"/>
+                            <Edge cubics="!781 0(;781,0 0,837 0,837q781 0 0 837);"/>
+                            <Edge cubics="!0 837(;0,837 864,835 864,835q0 837 864 835);"/>
+                            <Edge cubics="!864 835(;864,835 908,730 908,730q864 835 908 730);"/>
+                            <Edge cubics="!908 730(;908,730 882,84 882,84q908 730 882 84);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

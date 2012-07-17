@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Bochechas/bochecha2" itemID="4fe48555-000005ec" lastModified="1340376405">
+  <timeline>
+    <DOMTimeline name="bochecha2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!339 -96S1[304 -96 279 -67!279 -67[255 -39 255 1!255 1[256 41 281 68!281 68[306 96 341 96!341 96[375 95 400 67!400 67[424 38 424 -1!424 -1[423 -41 398 -69!398 -69[374 -97 339 -96!-340 -96[-374 -96 -399 -67!-399 -67[-423 -39 -423 1!-423
+ 1[-422 41 -397 68!-397 68[-372 96 -337 96!-337 96[-303 95 -278 67!-278 67[-254 38 -254 -1!-254 -1[-255 -41 -280 -69!-280 -69[-305 -97 -340 -96"/>
+                        <Edge cubics="!339 -96(;292,-96 255,-52 255,1q339 -96Q304 -96q279 -67Q255 -39q255 1);"/>
+                        <Edge cubics="!255 1(;256,54 294,96 341,96q255 1Q256 41q281 68Q306 96q341 96);"/>
+                        <Edge cubics="!341 96(;387,95 424,51 424,-1q341 96Q375 95q400 67Q424 38q424 -1);"/>
+                        <Edge cubics="!424 -1(;423,-55 385,-97 339,-96q424 -1Q423 -41q398 -69Q374 -97q339 -96);"/>
+                        <Edge cubics="!-340 -96(;-386,-96 -423,-52 -423,1q-340 -96Q-374 -96q-399 -67Q-423 -39q-423 1);"/>
+                        <Edge cubics="!-423 1(;-422,54 -384,96 -337,96q-423 1Q-422 41q-397 68Q-372 96q-337 96);"/>
+                        <Edge cubics="!-337 96(;-291,95 -254,51 -254,-1q-337 96Q-303 95q-278 67Q-254 38q-254 -1);"/>
+                        <Edge cubics="!-254 -1(;-255,-55 -293,-97 -340,-96q-254 -1Q-255 -41q-280 -69Q-305 -97q-340 -96);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

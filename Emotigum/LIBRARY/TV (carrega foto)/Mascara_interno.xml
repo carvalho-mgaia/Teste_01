@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TV (carrega foto)/Mascara_interno" itemID="4fd8f8d0-0000033b" lastModified="1339619536">
+  <timeline>
+    <DOMTimeline name="Mascara_interno">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFED00"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1917 9S1[1844 -1 1681 0!1681 0[1356 3 911 62!911 62[556 109 190 151!190 151[3 176 0 209!0 209[34 447 81 705!81 705[176 1220 245 1320!245 1320[314 1420 1178 1317!1178 1317[1610 1265 2028 1193!2028 1193[2053 1087 2051 885!2051 885[2048
+ 483 1917 9"/>
+                    <Edge cubics="!1917 9(;1917,9 1623,-32 911,62q1917 9Q1844 -1q1681 0Q1356 3q911 62);"/>
+                    <Edge cubics="!911 62(;200,156 4,156 0,209q911 62Q556 109q190 151Q3 176q0 209);"/>
+                    <Edge cubics="!0 209(0,209;0,209 135,1160 245,1320q0 209Q34 447q81 705Q176 1220q245 1320)245,1320;"/>
+                    <Edge cubics="!245 1320(;355,1480 2028,1193 2028,1193q245 1320Q314 1420q1178 1317Q1610 1265q2028 1193);"/>
+                    <Edge cubics="!2028 1193(;2028,1193 2126,767 1917,9q2028 1193Q2053 1087q2051 885Q2048 483q1917 9)1917,9;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

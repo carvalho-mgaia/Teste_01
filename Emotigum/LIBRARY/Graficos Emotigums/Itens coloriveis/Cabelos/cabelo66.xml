@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Cabelos/cabelo66" itemID="4fe37093-00000410" lastModified="1340305555">
+  <timeline>
+    <DOMTimeline name="cabelo66">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-45.15" ty="-21.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!2040 434|903 434!903 434|906 2023!906 2023[906 2164 966 2222!966 2222[1018 2272 1095 2251!1095 2251[1168 2231 1216 2164!1216 2164[1266 2093 1248 2018!1248 2018[1227 1929 1171 1890!1171 1890|1120.5 1870!1120.5 1870[#481.FF #75C.68 1153
+ 1954!1153 1954[1151 2027 1101 2026!1101 2026[1007 2024 993 1819!993 1819[999 1615 999 1614!999 1614[1010 1430 1204 1309!1204 1309[1262 1273 1595 1133!1595 1133[2040 955 2040 744!2040 744|2040 434"/>
+                    <Edge cubics="!906 2023(;905,2427 1298,2228 1248,2018q906 2023Q906 2164q966 2222Q1018 2272q1095 2251Q1168 2231q1216 2164Q1266 2093q1248 2018);"/>
+                    <Edge cubics="!1101 2026(;950,2023 999,1615 999,1614q1101 2026Q1007 2024q993 1819Q999 1615q999 1614);"/>
+                    <Edge cubics="!999 1614(;1016,1331 1331,1244 1595,1133q999 1614Q1010 1430q1204 1309Q1262 1273q1595 1133);"/>
+                    <Edge cubics="!1595 1133(;1832,1038 2040,909 2040,744q1595 1133Q2040 955q2040 744);"/>
+                    <Edge cubics="!2040 744(;2040,744 2040,561 2040,434q2040 744 2040 434);"/>
+                    <Edge cubics="!2040 434(;2040,434 903,434 903,434q2040 434 903 434);"/>
+                    <Edge cubics="!1121 1870(;1143,1879 1154,1907 1153,1954q1121 1870Q1154 1884q1153 1954);"/>
+                    <Edge cubics="!1171 1890(;1171,1890 1121,1870 1121,1870q1171 1890 1121 1870);"/>
+                    <Edge cubics="!903 434(;903,434 906,2023 906,2023q903 434 906 2023);"/>
+                    <Edge cubics="!1153 1954(;1152,2003 1134,2027 1101,2026q1153 1954Q1151 2027q1101 2026);"/>
+                    <Edge cubics="!1248 2018(;1234,1959 1208,1916 1171,1890q1248 2018Q1227 1929q1171 1890);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

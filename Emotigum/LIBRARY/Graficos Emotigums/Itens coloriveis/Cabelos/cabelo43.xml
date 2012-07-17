@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Cabelos/cabelo43" itemID="4fe36ff3-000003b1" lastModified="1340305395">
+  <timeline>
+    <DOMTimeline name="cabelo43">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-45.25" ty="-21.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!2047 1195|2043 434!2043 434|906 434!906 434|905 1195!905 1195[905 1260 951 1305!951 1305[997 1351 1061 1351!1061 1351|1891 1351!1891 1351[1956 1351 2001 1305!2001 1305[2047 1260 2047 1195"/>
+                    <Edge cubics="!2043 434(;2043,434 906,434 906,434q2043 434p906 434);"/>
+                    <Edge cubics="!905 1195(;905,1281 975,1351 1061,1351q905 1195Q905 1260q951 1305Q997 1351q1061 1351);"/>
+                    <Edge cubics="!1061 1351(;1061,1351 1891,1351 1891,1351q1061 1351 1891 1351);"/>
+                    <Edge cubics="!1891 1351(;1977,1351 2047,1281 2047,1195q1891 1351Q1956 1351q2001 1305Q2047 1260q2047 1195);"/>
+                    <Edge cubics="!2047 1195(;2047,1195 2043,434 2043,434q2047 1195 2043 434);"/>
+                    <Edge cubics="!906 434(;906,434 905,1195 905,1195q906 434 905 1195);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,120 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animações/Anim. Lampadas/Anim. Lampada Vermelha" itemID="4fe880cb-000003fd" lastModified="1340637678" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="Anim. Lampada Vermelha">
+      <layers>
+        <DOMLayer name="lampada vermelha" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="24" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Vermelha" centerPoint3DX="-0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="-0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#E71B1B" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="22" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Vermelha" centerPoint3DX="-0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="-0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#E71B1B" quality="3" strength="1.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="22" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Vermelha" centerPoint3DX="-0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="-0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#E71B1B" quality="3" strength="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Vermelha" centerPoint3DX="-0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="-0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="8" blurY="8" color="#E71B1B" quality="3" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Vermelha" centerPoint3DX="-0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="-0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#E71B1B" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundo azul" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="80" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-11.55" ty="-11.4"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#0572BF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!376 119|205 181!205 181[158 210 123 251!123 251[54 333 119 393!119 393[198 465 310 436!310 436[423 406 444 304!444 304[461 217 420 159!420 159|376 119"/>
+                            <Edge cubics="!376 119(;376,119 205,181 205,181q376 119p205 181);"/>
+                            <Edge cubics="!205 181(;205,181 15,297 119,393q205 181Q158 210q123 251Q54 333q119 393);"/>
+                            <Edge cubics="!119 393(;223,488 416,442 444,304q119 393Q198 465q310 436Q423 406q444 304);"/>
+                            <Edge cubics="!444 304(;471,165 376,119 376,119q444 304Q461 217q420 159Q376 119q376 119);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

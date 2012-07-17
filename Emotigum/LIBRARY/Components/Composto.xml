@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Composto" itemID="4fc524ef-00000094" lastModified="1340828138" lastUniqueIdentifier="11">
+  <timeline>
+    <DOMTimeline name="Composto">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Container" name="BGContainer">
+                  <matrix>
+                    <Matrix tx="120.5" ty="74.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Mascara" name="mascara" centerPoint3DX="294.15" centerPoint3DY="120.85">
+                  <matrix>
+                    <Matrix a="11.7666473388672" d="4.83299255371094"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TelaCenario/Cenario" name="cena" centerPoint3DX="272.3" centerPoint3DY="120">
+                  <matrix>
+                    <Matrix a="0.764678955078125" d="0.764678955078125" tx="176.75" ty="56.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125" y="82.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

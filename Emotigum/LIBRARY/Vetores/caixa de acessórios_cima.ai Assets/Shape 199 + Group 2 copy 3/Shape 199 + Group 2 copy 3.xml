@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/caixa de acessórios_cima.ai Assets/Shape 199 + Group 2 copy 3/Shape 199 + Group 2 copy 3" itemID="4fd8a2bd-00000196" lastModified="1339597501">
+  <timeline>
+    <DOMTimeline name="Shape 199 + Group 2 copy 3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Vetores/caixa de acessórios_cima.ai Assets/Shape 199 + Group 2 copy 3/Shape 199 + Group 2 copy 3_0" selected="true" blendMode="layer">
+                  <transformationPoint>
+                    <Point x="78.85" y="19.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

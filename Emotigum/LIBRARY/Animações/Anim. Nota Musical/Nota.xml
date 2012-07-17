@@ -1,0 +1,96 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animações/Anim. Nota Musical/Nota" itemID="4fd75c95-0000027d" lastModified="1339514788">
+  <timeline>
+    <DOMTimeline name="Nota" currentFrame="24">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Nota Musical/nota musical" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.05" ty="-0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Nota Musical/nota musical" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.925674438476563" b="-0.3782958984375" c="0.3782958984375" d="0.925674438476563" tx="-0.05" ty="-1.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Nota Musical/nota musical" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.817245483398438" b="-0.5762939453125" c="0.5762939453125" d="0.817245483398438" tx="-1.2" ty="1.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Nota Musical/nota musical" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.764404296875" b="-0.642776489257813" c="0.642776489257813" d="0.764404296875" tx="-0.95" ty="0.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Nota Musical/nota musical" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.987030029296875" b="-0.144760131835938" c="0.144760131835938" d="0.987030029296875" tx="-0.55" ty="0.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Nota Musical/nota musical" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.912200927734375" b="-0.406478881835938" c="0.406478881835938" d="0.912200927734375" tx="-0.45" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Nota Musical/nota musical" symbolType="graphic" centerPoint3DX="-0.15" centerPoint3DY="-0.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.1" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

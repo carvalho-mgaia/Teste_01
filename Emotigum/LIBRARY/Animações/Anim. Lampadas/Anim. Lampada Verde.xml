@@ -1,0 +1,135 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animações/Anim. Lampadas/Anim. Lampada Verde" itemID="4fe880d4-00000401" lastModified="1340637814" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Anim. Lampada Verde" currentFrame="64">
+      <layers>
+        <DOMLayer name="lampada verde" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Verde" selected="true" centerPoint3DX="0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#2AC834" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Verde" centerPoint3DX="0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="8" blurY="8" color="#2AC834" quality="3" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Verde" centerPoint3DX="0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#2AC834" quality="3" strength="2.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Verde" centerPoint3DX="0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="8" blurY="8" color="#2AC834" quality="3" strength="1.1"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Verde" centerPoint3DX="0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#2AC834" quality="3" strength="2.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animações/Anim. Lampadas/Lampada Verde" selected="true" centerPoint3DX="0.95" centerPoint3DY="-0.75">
+                  <matrix>
+                    <Matrix tx="0.95" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#2AC834" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundo" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="80" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-43.25" ty="-11.4"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#0572BF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!892 181|720 119!720 119[696 131 676 159!676 159[635 217 652 304!652 304[673 406 786 436!786 436[898 465 977 393!977 393[1043 333 974 251!974 251|892 181"/>
+                            <Edge cubics="!892 181(;892,181 720,119 720,119q892 181p720 119);"/>
+                            <Edge cubics="!720 119(;720,119 625,165 652,304q720 119Q696 131q676 159Q635 217q652 304);"/>
+                            <Edge cubics="!652 304(;680,442 873,488 977,393q652 304Q673 406q786 436Q898 465q977 393);"/>
+                            <Edge cubics="!977 393(;1082,297 892,181 892,181q977 393Q1043 333q974 251Q892 181q892 181);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

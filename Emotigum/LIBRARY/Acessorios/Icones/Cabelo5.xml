@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Acessorios/Icones/Cabelo5" itemID="4fd757c7-0000019c" linkageExportForAS="true" linkageBaseClass="BoxAcessorios.DragableItem" linkageClassName="Cabelo5" lastModified="1342017654" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Cabelo5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Composto" name="box" selected="true" centerPoint3DX="26" centerPoint3DY="24.25">
+                  <matrix>
+                    <Matrix a="0.164505004882813" d="0.198196411132813" tx="-13.15" ty="-6.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="238" y="155.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-53.2" ty="-27.65"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!2043 434|906 434!906 434|906 1156!906 1156|2043 893!2043 893|2043 434"/>
+                        <Edge cubics="!906 1156(;906,1156 2043,893 2043,893q906 1156p2043 893);"/>
+                        <Edge cubics="!2043 893(;2043,893 2043,434 2043,434q2043 893p2043 434);"/>
+                        <Edge cubics="!2043 434(;2043,434 906,434 906,434q2043 434p906 434);"/>
+                        <Edge cubics="!906 434(;906,434 906,1156 906,1156q906 434p906 1156);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-53.2" ty="-27.65"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1893 1203[1712 1501 1560 1440!1560 1440[1263 1320 1037 1374!1037 1374[956 1398 936 1398!936 1398[908 1398 908 1344!908 1344[908 1104 906 1003!906 1003[1007 917 1200 861!1200 861[1585 747 2043 893!2043 893[1983 1054 1893 1203"/>
+                        <Edge cubics="!2043 893(;2043,893 1803,1538 1560,1440q2043 893Q1983 1054q1893 1203Q1712 1501q1560 1440);"/>
+                        <Edge cubics="!1560 1440(;1034,1228 909,1507 908,1344q1560 1440Q1263 1320q1037 1374Q956 1398q936 1398Q908 1398q908 1344);"/>
+                        <Edge cubics="!908 1344(;908,1104 906,1003 906,1003q908 1344Q908 1104q906 1003);"/>
+                        <Edge cubics="!906 1003(;906,1003 1310,660 2043,893q906 1003Q1007 917q1200 861Q1585 747q2043 893);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

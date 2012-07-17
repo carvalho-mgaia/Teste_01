@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Acessorios/Tooltip" itemID="4ffd7ea2-00000266" linkageExportForAS="true" linkageClassName="Tooltip" lastModified="1342013158">
+  <timeline>
+    <DOMTimeline name="Tooltip">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!20 340|-1400 340!-1400 340|-1400 0!-1400 0|20 0!20 0|20 340"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText width="56" height="12.2">
+                  <matrix>
+                    <Matrix tx="-62" ty="2.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Arrastar</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="11" bitmapSize="220" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

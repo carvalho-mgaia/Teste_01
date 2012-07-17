@@ -1,0 +1,374 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Acessorios/BoxAcessorios" itemID="4fd5f8ad-000000b5" linkageExportForAS="true" linkageClassName="BoxAcessorios.BoxAcessorio" lastModified="1342017531" lastUniqueIdentifier="52">
+  <timeline>
+    <DOMTimeline name="BoxAcessorios">
+      <layers>
+        <DOMLayer name="mask" color="#9933CC" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3159 3880S2|-220 3880!-220 3880|-220 -100!-220 -100|3159 -100!3159 -100|3159 3880"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Acessórios" color="#FF800A" parentLayerIndex="0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Oculos2" name="oculos2" centerPoint3DX="21" centerPoint3DY="66.45">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="7.9" ty="61.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.2" y="10.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Oculos3" name="oculos3" centerPoint3DX="18.9" centerPoint3DY="110.25">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="5.9" ty="104.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26" y="13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Oculos4" name="oculos4" centerPoint3DX="190.9" centerPoint3DY="25.95">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="177.55" ty="20.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.7" y="11.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Oculos1" name="oculos1" centerPoint3DX="21" centerPoint3DY="26">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="5.9" ty="17.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Extra1" name="extra1" centerPoint3DX="292.4" centerPoint3DY="24.95">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="280.75" ty="15.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.3" y="19.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo1" name="cabelo1" centerPoint3DX="76.8" centerPoint3DY="35.9">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="60.3" ty="20.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo2" name="cabelo2" centerPoint3DX="72.3" centerPoint3DY="66.6">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="59.3" ty="61.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26" y="11.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo3" name="cabelo3" centerPoint3DX="74.3" centerPoint3DY="110.6">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="61.3" ty="105"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26" y="11.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo4" name="cabelo4" centerPoint3DX="246.3" centerPoint3DY="25.35">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="233.3" ty="19.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26" y="11.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo5" name="cabelo5" centerPoint3DX="127.3" centerPoint3DY="24.45">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="114.3" ty="18.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26" y="12.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo6" name="cabelo6" centerPoint3DX="126.3" centerPoint3DY="68.45">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="113.3" ty="62.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26" y="11.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo7" name="cabelo7" centerPoint3DX="123.85" centerPoint3DY="111.3">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="110.85" ty="105.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26" y="11.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Oculos5" name="oculos5" centerPoint3DX="191.35" centerPoint3DY="68.8">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="171.95" ty="59.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="38.8" y="19.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Botoes" color="#9933CC" parentLayerIndex="0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Botoes/SetaDir" name="BtnDir" symbolType="button" centerPoint3DX="123" centerPoint3DY="165.4">
+                  <matrix>
+                    <Matrix tx="105.45" ty="151.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Botoes/SetaEsq" name="BtnEsq" symbolType="button" centerPoint3DX="20.15" centerPoint3DY="164.15">
+                  <matrix>
+                    <Matrix tx="1.95" ty="150.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="caixa de acessórios(1).ai" color="#4FFF4F" parentLayerIndex="0" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa0" centerPoint3DX="20.8" centerPoint3DY="26.3">
+                  <matrix>
+                    <Matrix tx="-3.55" ty="7.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa1" centerPoint3DX="73.35" centerPoint3DY="26.3">
+                  <matrix>
+                    <Matrix tx="49" ty="7.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa2" centerPoint3DX="125.9" centerPoint3DY="26.3">
+                  <matrix>
+                    <Matrix tx="101.55" ty="7.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa3" centerPoint3DX="20.8" centerPoint3DY="68.8">
+                  <matrix>
+                    <Matrix tx="-3.55" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa4" centerPoint3DX="73.35" centerPoint3DY="68.8">
+                  <matrix>
+                    <Matrix tx="49" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa5" centerPoint3DX="125.9" centerPoint3DY="68.8">
+                  <matrix>
+                    <Matrix tx="101.55" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa6" centerPoint3DX="20.8" centerPoint3DY="111.45">
+                  <matrix>
+                    <Matrix tx="-3.55" ty="92.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa7" centerPoint3DX="73.35" centerPoint3DY="111.45">
+                  <matrix>
+                    <Matrix tx="49" ty="92.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa8" centerPoint3DX="125.9" centerPoint3DY="111.45">
+                  <matrix>
+                    <Matrix tx="101.55" ty="92.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa9" centerPoint3DX="191.35" centerPoint3DY="26.3">
+                  <matrix>
+                    <Matrix tx="167" ty="7.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa10" centerPoint3DX="243.9" centerPoint3DY="26.3">
+                  <matrix>
+                    <Matrix tx="219.55" ty="7.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa11" centerPoint3DX="296.45" centerPoint3DY="26.3">
+                  <matrix>
+                    <Matrix tx="272.1" ty="7.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa12" centerPoint3DX="191.35" centerPoint3DY="68.8">
+                  <matrix>
+                    <Matrix tx="167" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa13" centerPoint3DX="243.9" centerPoint3DY="68.8">
+                  <matrix>
+                    <Matrix tx="219.55" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa14" centerPoint3DX="296.45" centerPoint3DY="68.8">
+                  <matrix>
+                    <Matrix tx="272.1" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa15" centerPoint3DX="191.35" centerPoint3DY="111.45">
+                  <matrix>
+                    <Matrix tx="167" ty="92.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa16" centerPoint3DX="243.9" centerPoint3DY="111.45">
+                  <matrix>
+                    <Matrix tx="219.55" ty="92.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/CaixaMenor" name="caixa17" centerPoint3DX="296.45" centerPoint3DY="111.45">
+                  <matrix>
+                    <Matrix tx="272.1" ty="92.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo8" name="cabelo8" centerPoint3DX="241.4" centerPoint3DY="67.05">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="223.8" ty="64.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.2" y="4.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo9" name="cabelo9" centerPoint3DX="296.45" centerPoint3DY="67.8">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="278.8" ty="65.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.3" y="4.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo10" name="cabelo10" centerPoint3DX="192.35" centerPoint3DY="112.45">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="174.7" ty="110.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.3" y="4.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Acessorios/Icones/Cabelo11" name="cabelo11" centerPoint3DX="246.35" centerPoint3DY="110">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="228.7" ty="103.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BG" color="#FF800A" parentLayerIndex="0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="Vetores/caixa de acessórios(1).ai Assets/Shape 198/Shape 198" blendMode="layer" centerPoint3DX="76.6" centerPoint3DY="97.4">
+                      <matrix>
+                        <Matrix tx="-7.85" ty="0.45"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="84.45" y="96.95"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Vetores/caixa de acessórios(1).ai Assets/Shape 197/Shape 197" blendMode="layer" centerPoint3DX="72.55" centerPoint3DY="95.2">
+                      <matrix>
+                        <Matrix tx="-11"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="83.55" y="95.2"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

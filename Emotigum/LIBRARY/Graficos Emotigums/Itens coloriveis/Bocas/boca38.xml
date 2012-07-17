@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Bocas/boca38" itemID="4fe390b9-00000c33" lastModified="1340313785">
+  <timeline>
+    <DOMTimeline name="boca38">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-76.35" ty="-99.35"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1430 2013|1430 1865!1430 1865|1624 1865!1624 1865|1624 2013!1624 2013[1624 2053 1596 2081!1596 2081[1567 2110 1527 2110!1527 2110[1487 2110 1458 2081!1458 2081[1430 2055 1430 2013"/>
+                    <Edge cubics="!1624 1865(;1624,1865 1624,2013 1624,2013q1624 1865 1624 2013);"/>
+                    <Edge cubics="!1624 2013(;1624,2066 1581,2110 1527,2110q1624 2013Q1624 2053q1596 2081Q1567 2110q1527 2110);"/>
+                    <Edge cubics="!1527 2110(;1500,2110 1476,2099 1458,2081q1527 2110Q1487 2110q1458 2081);"/>
+                    <Edge cubics="!1458 2081(;1440,2064 1430,2039 1430,2013q1458 2081Q1430 2055q1430 2013);"/>
+                    <Edge cubics="!1430 2013(;1430,2013 1430,1865 1430,1865q1430 2013 1430 1865);"/>
+                    <Edge cubics="!1430 1865(;1430,1865 1624,1865 1624,1865q1430 1865 1624 1865);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

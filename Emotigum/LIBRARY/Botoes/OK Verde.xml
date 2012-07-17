@@ -1,0 +1,120 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Botoes/OK Verde" itemID="4fe1d1d0-00000247" symbolType="button" lastModified="1342027388" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="OK Verde">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!859 388|759 648!759 648|730 387!730 387|628 408!628 408|690 965!690 965|788 952!788 952|763 730!763 730[855 870 904 960!904 960|1037 944!1037 944[910 770 848 669!848 669[931 498 977 381!977 381|859 388!1029 363|1088 781!1088 781|1180
+ 769!1180 769|1139 350!1139 350|1029 363!1142 820[1117 823 1101 843!1101 843[1085 863 1088 888!1088 888[1091 912 1111 929!1111 929[1131 944 1156 942!1156 942[1180 939 1197 919!1197 919[1214 898 1210 874!1210 874[1207 849 1187 833!1187
+ 833[1168 817 1142 820!393 540[464 533 486 710!486 710[506 887 428 897!428 897[355 906 337 748!337 748|335 727!335 727[320 550 393 540!215 719[251 1030 439 1008!439 1008[627 987 592 687!592 687[558 389 383 407!383 407[182 430 215 719"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ok!.ai" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Botoes/ok!.ai Assets/Shape 180" blendMode="layer" centerPoint3DX="34.6" centerPoint3DY="30">
+                  <matrix>
+                    <Matrix tx="0.15" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.45" y="28"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Botoes/ok!.ai Assets/Shape 201" blendMode="layer">
+                  <matrix>
+                    <Matrix tx="2.4" ty="20.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33" y="19.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Botoes/ok!.ai Assets/Shape 200" blendMode="layer" centerPoint3DX="34.65" centerPoint3DY="4.05">
+                  <transformationPoint>
+                    <Point x="34.65" y="4.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Botoes/ok!.ai Assets/Shape 180" blendMode="layer" centerPoint3DX="34.6" centerPoint3DY="30">
+                  <matrix>
+                    <Matrix tx="0.15" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.45" y="28"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.7" tintColor="#0A6E11"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Botoes/ok!.ai Assets/Shape 201" blendMode="layer">
+                  <matrix>
+                    <Matrix tx="2.4" ty="20.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33" y="19.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Botoes/ok!.ai Assets/Shape 200" blendMode="layer" centerPoint3DX="34.65" centerPoint3DY="4.05">
+                  <transformationPoint>
+                    <Point x="34.65" y="4.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Botoes/ok!.ai Assets/Shape 180" blendMode="layer" centerPoint3DX="34.6" centerPoint3DY="32">
+                  <matrix>
+                    <Matrix tx="0.15" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.45" y="28"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.7" tintColor="#0A6E11"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Botoes/ok!.ai Assets/Shape 201" blendMode="layer">
+                  <matrix>
+                    <Matrix tx="2.4" ty="22.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33" y="19.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Botoes/ok!.ai Assets/Shape 200" blendMode="layer" centerPoint3DX="34.65" centerPoint3DY="6.05">
+                  <matrix>
+                    <Matrix ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.65" y="4.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

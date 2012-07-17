@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Bocas/boca45" itemID="4fe3911e-00000c51" lastModified="1340313886">
+  <timeline>
+    <DOMTimeline name="boca45">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-73.85" ty="-105.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1483 2012[1596 2012 1672 2065!1672 2065[1736 2110 1767 2187!1767 2187[1751 2212 1728 2204!1728 2204[1575 2153 1496 2148!1496 2148[1373 2141 1215 2204!1215 2204[1201 2210 1188 2200!1188 2200[1220 2119 1282 2070!1282 2070[1356 2012 1460
+ 2012!1460 2012|1483 2012"/>
+                    <Edge cubics="!1767 2187(;1757,2202 1743,2209 1728,2204q1767 2187Q1751 2212q1728 2204);"/>
+                    <Edge cubics="!1728 2204(;1561,2148 1447,2111 1215,2204q1728 2204Q1575 2153q1496 2148Q1373 2141q1215 2204);"/>
+                    <Edge cubics="!1215 2204(;1205,2208 1196,2206 1188,2200q1215 2204Q1201 2210q1188 2200);"/>
+                    <Edge cubics="!1188 2200(;1226,2104 1310,2012 1460,2012q1188 2200Q1220 2119q1282 2070Q1356 2012q1460 2012);"/>
+                    <Edge cubics="!1460 2012(;1460,2012 1483,2012 1483,2012q1460 2012 1483 2012);"/>
+                    <Edge cubics="!1483 2012(;1645,2012 1730,2096 1767,2187q1483 2012Q1596 2012q1672 2065Q1736 2110q1767 2187);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

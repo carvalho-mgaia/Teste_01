@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/Cabelos/cabelo57" itemID="4fe37052-000003e9" lastModified="1340305490">
+  <timeline>
+    <DOMTimeline name="cabelo57">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-45.3" ty="-21.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1875 837[#7F5.C #36F.A 2043 1132.5!2043 1132.5|2043 434!2043 434|906 434!906 434|906 1318!906 1318|973 1325!973 1325[1057 1328 1142 1309!1142 1309[1412 1248 1581 992!1581 992[1642 899 1724 858!1724 858[1802 818 1875 837"/>
+                    <Edge cubics="!906 1318(;906,1318 1310,1402 1581,992q906 1318Q906 1318q973 1325Q1057 1328q1142 1309Q1412 1248q1581 992);"/>
+                    <Edge cubics="!2043 434(;2043,434 906,434 906,434q2043 434 906 434);"/>
+                    <Edge cubics="!906 434(;906,434 906,1318 906,1318q906 434 906 1318);"/>
+                    <Edge cubics="!1724 858(;1776,831 1826,824 1875,837q1724 858Q1802 818q1875 837);"/>
+                    <Edge cubics="!2043 1133(;2043,1133 2043,434 2043,434q2043 1133 2043 434);"/>
+                    <Edge cubics="!1875 837(;1984,866 2040,964 2043,1133q1875 837Q2038 880q2043 1133);"/>
+                    <Edge cubics="!1581 992(;1622,930 1669,885 1724,858q1581 992Q1642 899q1724 858);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

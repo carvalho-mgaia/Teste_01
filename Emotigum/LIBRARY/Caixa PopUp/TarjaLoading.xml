@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Caixa PopUp/TarjaLoading" itemID="4fec9b53-00000479" linkageExportForAS="true" linkageClassName="graficos.TarjaLoading" lastModified="1340906470" lastUniqueIdentifier="2" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="TarjaLoading">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Caixa PopUp/PopUpInterna" name="PopUpInterna" centerPoint3DX="380" centerPoint3DY="300">
+                  <matrix>
+                    <Matrix tx="380" ty="300"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="-0.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.298039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!15200 12000S2|0 12000!0 12000|0 0!0 0|15200 0!15200 0|15200 12000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

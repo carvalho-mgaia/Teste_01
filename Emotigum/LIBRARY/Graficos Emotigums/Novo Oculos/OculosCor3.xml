@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Novo Oculos/OculosCor3" itemID="4fe4b32e-00000617" lastModified="1340825696">
+  <timeline>
+    <DOMTimeline name="OculosCor3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMSymbolInstance libraryItemName="Graficos Emotigums/grid_base_emotigums.ai/Oculos 04/&lt;Clip Group 0&gt;" selected="true">
+                          <matrix>
+                            <Matrix tx="-5.05" ty="-4.25"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="4.9" y="3"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-74" ty="-80"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="2.15" joints="miter" miterLimit="10">
+                            <fill>
+                              <SolidColor color="#FE8F17"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!1442 1601[1442 1700 1372 1770!1372 1770[1301 1840 1202 1840!1202 1840[1103 1840 1033 1770!1033 1770[962 1700 962 1601!962 1601[962 1501 1033 1431!1033 1431[1103 1361 1202 1361!1202 1361[1301 1361 1372 1431!1372 1431[1442 1501 1442 1601"/>
+                        <Edge cubics="!1442 1601(;1442,1733 1334,1840 1202,1840q1442 1601Q1442 1700q1372 1770Q1301 1840q1202 1840);"/>
+                        <Edge cubics="!1202 1840(;1070,1840 962,1733 962,1601q1202 1840Q1103 1840q1033 1770Q962 1700q962 1601);"/>
+                        <Edge cubics="!962 1601(;962,1468 1070,1361 1202,1361q962 1601Q962 1501q1033 1431Q1103 1361q1202 1361);"/>
+                        <Edge cubics="!1202 1361(;1334,1361 1442,1468 1442,1601q1202 1361Q1301 1361q1372 1431Q1442 1501q1442 1601);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-74" ty="-80"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="2.15" joints="miter" miterLimit="10">
+                            <fill>
+                              <SolidColor color="#FE8F17"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!1999 1601[1999 1700 1929 1770!1929 1770[1859 1840 1759 1840!1759 1840[1660 1840 1590 1770!1590 1770[1520 1700 1520 1601!1520 1601[1520 1501 1590 1431!1590 1431[1660 1361 1759 1361!1759 1361[1859 1361 1929 1431!1929 1431[1999 1501 1999
+ 1601"/>
+                        <Edge cubics="!1999 1601(;1999,1733 1892,1840 1759,1840q1999 1601Q1999 1700q1929 1770Q1859 1840q1759 1840);"/>
+                        <Edge cubics="!1759 1840(;1627,1840 1520,1733 1520,1601q1759 1840Q1660 1840q1590 1770Q1520 1700q1520 1601);"/>
+                        <Edge cubics="!1520 1601(;1520,1468 1627,1361 1759,1361q1520 1601Q1520 1501q1590 1431Q1660 1361q1759 1361);"/>
+                        <Edge cubics="!1759 1361(;1892,1361 1999,1468 1999,1601q1759 1361Q1859 1361q1929 1431Q1999 1501q1999 1601);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!568 -245|568 245!568 245|-582 245!-582 245|-582 -245!-582 -245|568 -245"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

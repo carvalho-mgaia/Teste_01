@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Landing Page/Fundo2" itemID="4fe08530-0000020a" lastModified="1340115748">
+  <timeline>
+    <DOMTimeline name="Fundo2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0073FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1912 -319[1873 -317 -1769 -300!-1769 -300[-1827 -305 -1886 -305!-1886 -305[-2003 -305 -2009 -281!-2009 -281[-2018 -246 -2020 30!-2020 30[-2023 311 -2009 314!-2009 314[-1980 322 1 319!1 319[991 317 1975 314!1975 314|1995 298!1995 298
+[2015 273 2018 228!2018 228[2021 183 2020 -39!2020 -39[2019 -150 2018 -252!2018 -252[2014 -270 1999 -287!1999 -287[1969 -322 1912 -319"/>
+                    <Edge cubics="!2018 -252(;2018,-252 2003,-324 1912,-319q2018 -252Q2014 -270q1999 -287Q1969 -322q1912 -319)1912,-319;"/>
+                    <Edge cubics="!1912 -319(;1873,-317 -1769,-300 -1769,-300q1912 -319Q1873 -317q-1769 -300)-1769,-300;"/>
+                    <Edge cubics="!-1769 -300(;-1769,-300 -2000,-319 -2009,-281q-1769 -300Q-1827 -305q-1886 -305Q-2003 -305q-2009 -281);"/>
+                    <Edge cubics="!-2009 -281(;-2019,-242 -2029,310 -2009,314q-2009 -281Q-2018 -246q-2020 30Q-2023 311q-2009 314);"/>
+                    <Edge cubics="!-2009 314(;-1962,326 1975,314 1975,314q-2009 314Q-1980 322q1 319Q991 317q1975 314);"/>
+                    <Edge cubics="!1975 314(;1975,314 2013,300 2018,228q1975 314Q1975 314q1995 298Q2015 273q2018 228);"/>
+                    <Edge cubics="!2018 228(;2023,156 2018,-252 2018,-252q2018 228Q2021 183q2020 -39Q2019 -150q2018 -252);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

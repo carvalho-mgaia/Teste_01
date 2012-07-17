@@ -1,0 +1,212 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/playback flat/flat blue back" itemID="4283bfa7-00001c22" symbolType="button" lastModified="1115959335">
+  <timeline>
+    <DOMTimeline name="flat blue back">
+      <layers>
+        <DOMLayer name="text" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#484848"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-118 0|-18 -79.5!-18 -79.5|-18 80.5!-18 80.5|-118 0!-9 0|91 -79.5!91 -79.5|91 80.5!91 80.5|-9 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-118 0|-18 -79.5!-18 -79.5|-18 80.5!-18 80.5|-118 0!-9 0|91 -79.5!91 -79.5|91 80.5!91 80.5|-9 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="center circle outline" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#E7F2F6"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!184 -78.5[#C7.98 #FFFFD7.0D 200 0!200 0[#C7.F6 #28.82 184 78!184 78[#A8.CB #71.A6 141 141!141 141[#71.C2 #A8.E9 78 184!78 184[#28.7B #C7.8C 0 200!0 200[#FFFFD7.15 #C7.ED -78.5 184!-78.5 184[#FFFF8D.BD #A8.E9 -141.5 141!-141.5 141[#FFFF56.B3
+ #71.A6 -184.5 78!-184.5 78[-200.03125 #28.82 -200 0!-200 0[-200.03125 #FFFFD7.0D -184.5 -78.5!-184.5 -78.5[#FFFF56.B3 #FFFF8D.D9 -141.5 -141.5!-141.5 -141.5[#FFFF8D.BD #FFFF56.95 -78.5 -184.5!-78.5 -184.5[#FFFFD7.15 #FFFF38.02 0 -200
+!0 -200[#28.7B #FFFF38.02 78 -184.5!78 -184.5[#71.C2 #FFFF56.95 141 -141.5!141 -141.5[#A8.CB #FFFF8D.D9 184 -78.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="center circle" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E7F2F6"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!141.5 -141.5[#A9.4E -113.375 184 -77.5!184 -77.5[#C8.09 #FFFFD7.8F 200 0.5!200 0.5[#C8.09 #28.F7 184 78!184 78[#A9.4E #71.9F 141.5 141.5!141.5 141.5[#71.FA #A9.3F 78 184.5!78 184.5[#28.B #C8.37 0 200!0 200[#FFFFD7.4F #C8.37 -78 184.5
+!-78 184.5[#FFFF8E.45 #A9.3F -141 141.5!-141 141.5[-169.09375 #71.9F -184.5 78!-184.5 78[#FFFF37.ED #28.F7 -200 0.5!-200 0.5[#FFFF37.ED #FFFFD7.8F -184.5 -77.5!-184.5 -77.5[-169.09375 -113.375 -141 -141.5!-141 -141.5[#FFFF8E.45 #FFFF57.02
+ -78 -184!-78 -184[#FFFFD7.4F #FFFF38.09 0 -200!0 -200[#28.B #FFFF38.09 78 -184!78 -184[#71.FA #FFFF57.02 141.5 -141.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix a="0.86956787109375" d="0.86956787109375"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!211.5 -89S2[#E5.FD #FFFFD1.85 230 0.5!230 0.5[#E5.FD #2E.FA 211.5 89.5!211.5 89.5[#C2.8A #82.B4 162.5 163!162.5 163[#82.DD #C2.AE 89.5 212!89.5 212[#2E.B1 #E6.29 0 230!0 230[#FFFFD1.4E #E6.29 -89.5 212!-89.5 212[#FFFF7D.63 #C2.AE -162
+ 163!-162 163[#FFFF3D.B4 #82.B4 -212 89.5!-212 89.5[#FFFF1A.01 #2E.FA -230 0.5!-230 0.5[#FFFF1A.01 #FFFFD1.85 -212 -89!-212 -89[#FFFF3D.B4 #FFFF7D.CB -162 -162.5!-162 -162.5[#FFFF7D.63 #FFFF3D.D2 -89.5 -211.5!-89.5 -211.5[#FFFFD1.4E #FFFF1A.17
+ 0 -230!0 -230[#2E.B1 #FFFF1A.17 89.5 -211.5!89.5 -211.5[#82.DD #FFFF3D.D2 162.5 -162.5!162.5 -162.5[#C2.8A #FFFF7D.CB 211.5 -89"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#2D8BB2"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!141.5 -141.5[#A9.4E -113.375 184 -77.5!184 -77.5[#C8.09 #FFFFD7.8F 200 0.5!200 0.5[#C8.09 #28.F7 184 78!184 78[#A9.4E #71.9F 141.5 141.5!141.5 141.5[#71.FA #A9.3F 78 184.5!78 184.5[#28.B #C8.37 0 200!0 200[#FFFFD7.4F #C8.37 -78 184.5
+!-78 184.5[#FFFF8E.45 #A9.3F -141 141.5!-141 141.5[-169.09375 #71.9F -184.5 78!-184.5 78[#FFFF37.ED #28.F7 -200 0.5!-200 0.5[#FFFF37.ED #FFFFD7.8F -184.5 -77.5!-184.5 -77.5[-169.09375 -113.375 -141 -141.5!-141 -141.5[#FFFF8E.45 #FFFF57.02
+ -78 -184!-78 -184[#FFFFD7.4F #FFFF38.09 0 -200!0 -200[#28.B #FFFF38.09 78 -184!78 -184[#71.FA #FFFF57.02 141.5 -141.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="outer circle" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#B2D8E8"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!230.5 -97.5[#F9.BD -50.875 250 0!250 0[#FA.34 #32.62 230.5 97!230.5 97[#D3.6 #8D.F 176.5 176.5!176.5 176.5[#8E.13 #D3.85 97 230.5!97 230.5[#32.5A #F9.AF 0 250!0 250[#FFFFCD.2A #FA.27 -97.5 230.5!-97.5 230.5[#FFFF71.6C #D3.85 -177 176.5
+!-177 176.5[-211.875 #8D.F -231 97!-231 97[#FFFF05.C7 #32.62 -250 0!-250 0[#FFFF05.C7 -50.875 -231 -97.5!-231 -97.5[-211.875 #FFFF71.8F -177 -177!-177 -177[#FFFF71.6C #FFFF2B.FA -97.5 -231!-97.5 -231[#FFFFCD.2A #FFFF05.D4 0 -250!0 -250
+[#32.5A #FFFF05.D4 97 -231!97 -231[#8E.13 #FFFF2B.FA 176.5 -177!176.5 -177[#D3.6 #FFFF71.8F 230.5 -97.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix a="0.961532592773438" d="0.961532592773438"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!101 -240S4[#93.C9 -220.34375 183.5 -184!183.5 -184[#DB.B #FFFF6B.DA 239.5 -101.5!239.5 -101.5[#103.9F #FFFFCB.0A 260 0!260 0[#104.1A #34.76 239.5 101!239.5 101[#DB.B #93.A5 183.5 183.5!183.5 183.5[#93.C9 #DB.D7 101 239.5!101 239.5[#34.6D
+ #103.9 0 260!0 260[#FFFFCB.15 #104.0D -101.5 239.5!-101.5 239.5[#FFFF6B.B6 #DB.D7 -184 183.5!-184 183.5[-220.1875 #93.A5 -240 101!-240 101[#FFFEFB.E3 #34.76 -260 0!-260 0[#FFFEFB.E3 #FFFFCB.0A -240 -101.5!-240 -101.5[-220.1875 #FFFF6B.DA
+ -184 -184!-184 -184[#FFFF6B.B6 -220.34375 -101.5 -240!-101.5 -240[#FFFFCB.15 #FFFEFB.F1 0 -260!0 -260[#34.6D #FFFEFB.F1 101 -240"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#2D8BB2"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!230 -97.5[#F9.7E #FFFFCD.1F 250 0!250 0[#F9.F4 #32.62 230 97!230 97[#D3.1F #8D.F 176.5 176.5!176.5 176.5[#8E.12 #D3.45 97 230!97 230[#32.58 #F9.6F 0 250!0 250[#FFFFCD.2A #F9.E8 -97.5 230!-97.5 230[#FFFF71.6D #D3.45 -177 176.5!-177 176.5
+[#FFFF2C.61 #8D.F -230.5 97!-230.5 97[#FFFF06.05 #32.62 -250 0!-250 0[#FFFF06.05 #FFFFCD.1F -230.5 -97.5!-230.5 -97.5[#FFFF2C.61 #FFFF71.8F -177 -177!-177 -177[#FFFF71.6D #FFFF2C.3A -97.5 -230.5!-97.5 -230.5[#FFFFCD.2A #FFFF06.13 0 -250
+!0 -250[#32.58 #FFFF06.13 97 -230.5!97 -230.5[#8E.12 #FFFF2C.3A 176.5 -177!176.5 -177[#D3.1F #FFFF71.8F 230 -97.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E7F2F6"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!97 -230.5[#8D.C9 #FFFF2C.72 176 -177!176 -177[#D2.F1 #FFFF72.27 229.5 -97!229.5 -97[#F9.CA -50.921875 250 0!250 0[#F9.CA #32.A6 229.5 97!229.5 97[#D2.F1 #8D.97 176 176.5!176 176.5[#8D.C9 #D3.0D 97 230!97 230[#32.9D #F9.F5 0 250!0 250
+[#FFFFCD.22 #F9.F5 -97.5 230!-97.5 230[#FFFF71.77 #D3.0D -177 176.5!-177 176.5[#FFFF2C.12 #8D.97 -231 97!-231 97[#FFFF05.B9 #32.A6 -250 0!-250 0[#FFFF05.B9 -50.921875 -231 -97!-231 -97[#FFFF2C.12 #FFFF72.27 -177 -177!-177 -177[#FFFF71.77
+ #FFFF2C.72 -97.5 -230.5!-97.5 -230.5[#FFFFCD.22 #FFFF05.CB 0 -250!0 -250[#32.9D #FFFF05.CB 97 -230.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

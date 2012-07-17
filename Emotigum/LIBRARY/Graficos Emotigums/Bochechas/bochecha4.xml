@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Bochechas/bochecha4" itemID="4fe485b1-000005fa" lastModified="1340376497">
+  <timeline>
+    <DOMTimeline name="bochecha4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-73.7" ty="-82.85"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1217 1658[1217 1685 1200 1704!1200 1704[1183 1722 1158 1722!1158 1722[1133 1722 1116 1704!1116 1704[1099 1685 1099 1658!1099 1658[1099 1631 1116 1612!1116 1612[1133 1593 1158 1593!1158 1593[1183 1593 1200 1612!1200 1612[1217 1631 1217
+ 1658"/>
+                        <Edge cubics="!1217 1658(;1217,1694 1191,1722 1158,1722q1217 1658Q1217 1685q1200 1704Q1183 1722q1158 1722);"/>
+                        <Edge cubics="!1158 1722(;1125,1722 1099,1694 1099,1658q1158 1722Q1133 1722q1116 1704Q1099 1685q1099 1658);"/>
+                        <Edge cubics="!1099 1658(;1099,1622 1125,1593 1158,1593q1099 1658Q1099 1631q1116 1612Q1133 1593q1158 1593);"/>
+                        <Edge cubics="!1158 1593(;1191,1593 1217,1622 1217,1658q1158 1593Q1183 1593q1200 1612Q1217 1631q1217 1658);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-73.7" ty="-82.85"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1850 1658[1850 1685 1833 1704!1833 1704[1816 1722 1791 1722!1791 1722[1766 1722 1749 1704!1749 1704[1732 1685 1732 1658!1732 1658[1732 1631 1749 1612!1749 1612[1766 1593 1791 1593!1791 1593[1816 1593 1833 1612!1833 1612[1850 1631 1850
+ 1658"/>
+                        <Edge cubics="!1850 1658(;1850,1694 1824,1722 1791,1722q1850 1658Q1850 1685q1833 1704Q1816 1722q1791 1722);"/>
+                        <Edge cubics="!1791 1722(;1758,1722 1732,1694 1732,1658q1791 1722Q1766 1722q1749 1704Q1732 1685q1732 1658);"/>
+                        <Edge cubics="!1732 1658(;1732,1622 1758,1593 1791,1593q1732 1658Q1732 1631q1749 1612Q1766 1593q1791 1593);"/>
+                        <Edge cubics="!1791 1593(;1824,1593 1850,1622 1850,1658q1791 1593Q1816 1593q1833 1612Q1850 1631q1850 1658);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

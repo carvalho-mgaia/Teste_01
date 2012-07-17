@@ -1,0 +1,172 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Vetores/Barra de amigos AI/ContainerFoto" itemID="4fcf93ad-000000a3" linkageExportForAS="true" linkageClassName="graficos.Avatar" lastModified="1341001188" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="ContainerFoto">
+      <layers>
+        <DOMLayer name="caixinha dos amigos.ai" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="87.95" y="14.1"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix a="0.899993896484375" d="0.899993896484375" tx="-3.55" ty="-4.55"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FF2EE4"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!2120 205|2055 75!2055 75|1933 320!1933 320|1954 702!1954 702|2134 756!2134 756|2120 205"/>
+                            <Edge cubics="!2120 205(;2120,205 2055,75 2055,75p2120 205q2055 75);"/>
+                            <Edge cubics="!2055 75(;2055,75 1933,320 1933,320p2055 75q1933 320);"/>
+                            <Edge cubics="!1933 320(;1933,320 1954,702 1954,702p1933 320q1954 702)1954,702;"/>
+                            <Edge cubics="!1954 702(;1954,702 2134,756 2134,756p1954 702q2134 756);"/>
+                            <Edge cubics="!2134 756(;2134,756 2120,205 2120,205p2134 756q2120 205);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="45.7" y="71.25"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMBitmapInstance selected="true" libraryItemName="caixinha dos amigos.ai Assets/Group 1/Shape 214 Image">
+                      <matrix>
+                        <Matrix a="0.647979736328125" d="0.647979736328125" tx="-3.55" ty="-4.55"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="46.35" y="136.6"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix a="0.899993896484375" d="0.899993896484375" tx="-3.55" ty="-4.55"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FF2EE4"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!945 2929|680 2939!680 2939|604 2920!604 2920|491 2948!491 2948|132 2962!132 2962|108 3000!108 3000|94 3109!94 3109|78 3176!78 3176[62 3246 56 3258!56 3258[46 3277 127 3331!127 3331|680 3355!680 3355|1261 3341!1261 3341|2074 3345!2074
+ 3345|2164 3274!2164 3274|2141 2972!2141 2972|2080 2932!2080 2932|1351 2939!1351 2939|945 2929"/>
+                            <Edge cubics="!2141 2972(;2141,2972 2080,2932 2080,2932q2141 2972 2080 2932);"/>
+                            <Edge cubics="!2080 2932(;2080,2932 1351,2939 1351,2939q2080 2932 1351 2939);"/>
+                            <Edge cubics="!1351 2939(;1351,2939 945,2929 945,2929q1351 2939 945 2929);"/>
+                            <Edge cubics="!945 2929(;945,2929 680,2939 680,2939q945 2929 680 2939);"/>
+                            <Edge cubics="!680 2939(;680,2939 604,2920 604,2920q680 2939 604 2920);"/>
+                            <Edge cubics="!604 2920(;604,2920 491,2948 491,2948q604 2920 491 2948);"/>
+                            <Edge cubics="!491 2948(;491,2948 132,2962 132,2962q491 2948 132 2962);"/>
+                            <Edge cubics="!132 2962(;132,2962 108,3000 108,3000q132 2962 108 3000);"/>
+                            <Edge cubics="!108 3000(;108,3000 94,3109 94,3109q108 3000 94 3109);"/>
+                            <Edge cubics="!94 3109(;94,3109 65,3239 56,3258q94 3109Q94 3109q78 3176Q62 3246q56 3258);"/>
+                            <Edge cubics="!56 3258(;46,3277 127,3331 127,3331q56 3258Q46 3277q127 3331);"/>
+                            <Edge cubics="!127 3331(;127,3331 680,3355 680,3355q127 3331 680 3355);"/>
+                            <Edge cubics="!680 3355(;680,3355 1261,3341 1261,3341q680 3355 1261 3341);"/>
+                            <Edge cubics="!1261 3341(;1261,3341 2074,3345 2074,3345q1261 3341 2074 3345);"/>
+                            <Edge cubics="!2074 3345(;2074,3345 2164,3274 2164,3274q2074 3345 2164 3274);"/>
+                            <Edge cubics="!2164 3274(;2164,3274 2141,2972 2141,2972q2164 3274 2141 2972);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="44.7" y="134.7"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix a="0.899993896484375" d="0.899993896484375" tx="-3.55" ty="-4.55"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#CFF1FF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="
+!888 2887|623 2896!623 2896|548 2877!548 2877|434 2906!434 2906|75 2920!75 2920|51 2958!51 2958|37 3066!37 3066|50 3116!50 3116[62 3168 56 3180!56 3180[46 3199 70 3289!70 3289|623 3312!623 3312|1205 3298!1205 3298|2018 3303!2018 3303
+|2107 3232!2107 3232|2084 2929!2084 2929|1857 2896!1857 2896|1294 2896!1294 2896|888 2887"/>
+                            <Edge cubics="!2084 2929(;2084,2929 1857,2896 1857,2896q2084 2929 1857 2896);"/>
+                            <Edge cubics="!1857 2896(;1857,2896 1294,2896 1294,2896q1857 2896 1294 2896);"/>
+                            <Edge cubics="!1294 2896(;1294,2896 888,2887 888,2887q1294 2896 888 2887);"/>
+                            <Edge cubics="!888 2887(;888,2887 623,2896 623,2896q888 2887 623 2896);"/>
+                            <Edge cubics="!623 2896(;623,2896 548,2877 548,2877q623 2896 548 2877);"/>
+                            <Edge cubics="!548 2877(;548,2877 434,2906 434,2906q548 2877 434 2906);"/>
+                            <Edge cubics="!434 2906(;434,2906 75,2920 75,2920q434 2906 75 2920);"/>
+                            <Edge cubics="!75 2920(;75,2920 51,2958 51,2958q75 2920 51 2958);"/>
+                            <Edge cubics="!51 2958(;51,2958 37,3066 37,3066q51 2958 37 3066);"/>
+                            <Edge cubics="!37 3066(;37,3066 65,3161 56,3180q37 3066Q37 3066q50 3116Q62 3168q56 3180);"/>
+                            <Edge cubics="!56 3180(;46,3199 70,3289 70,3289q56 3180Q46 3199q70 3289);"/>
+                            <Edge cubics="!70 3289(;70,3289 623,3312 623,3312q70 3289 623 3312);"/>
+                            <Edge cubics="!623 3312(;623,3312 1205,3298 1205,3298q623 3312 1205 3298);"/>
+                            <Edge cubics="!1205 3298(;1205,3298 2018,3303 2018,3303q1205 3298 2018 3303);"/>
+                            <Edge cubics="!2018 3303(;2018,3303 2107,3232 2107,3232q2018 3303 2107 3232);"/>
+                            <Edge cubics="!2107 3232(;2107,3232 2084,2929 2084,2929q2107 3232 2084 2929);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="Vetores/Barra de amigos AI/Caixa de amigo.ai Assets/Layer 1/&lt;Clip Group 0&gt;_3" name="PainelBranco" centerPoint3DX="45.05" centerPoint3DY="65.6">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52.15" y="80.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="txtNome" width="98" height="21.45" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="0.95" ty="125.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.8" y="8.35"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Guilherme</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="14" bitmapSize="280" face="DimboRegular" fillColor="#FF3300"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Vetores/Barra de amigos AI/AnimCarregando" name="AnimCarregador" centerPoint3DX="44.25" centerPoint3DY="66.75">
+                  <matrix>
+                    <Matrix a="0.764984130859375" d="0.764984130859375" tx="44.25" ty="66.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

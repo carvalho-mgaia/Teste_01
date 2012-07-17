@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/colorivel" itemID="4fc7b18c-000000cb" lastModified="1338487180">
+  <timeline>
+    <DOMTimeline name="colorivel">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-1.2" ty="-2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#69B1D4"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1107 154|1107 2011!1107 2011[1107 2048 1087 2078!1087 2078[1067 2107 1036 2118!1036 2118|95 2118!95 2118[63 2107 44 2078!44 2078[24 2048 24 2011!24 2011|24 154!24 154[24 107 54 73!54 73[85 40 128 40!128 40|1002 40!1002 40[1046 40 1076
+ 73!1076 73[1107 107 1107 154"/>
+                    <Edge cubics="!1107 154(;1107,154 1107,2011 1107,2011q1107 154 1107 2011);"/>
+                    <Edge cubics="!1107 2011(1107,2011;1107,2061 1077,2103 1036,2118q1107 2011Q1107 2048q1087 2078Q1067 2107q1036 2118);"/>
+                    <Edge cubics="!1036 2118(;1036,2118 95,2118 95,2118q1036 2118 95 2118)95,2118;"/>
+                    <Edge cubics="!95 2118(;53,2103 24,2061 24,2011q95 2118Q63 2107q44 2078Q24 2048q24 2011)24,2011;"/>
+                    <Edge cubics="!24 2011(;24,2011 24,154 24,154q24 2011 24 154);"/>
+                    <Edge cubics="!24 154(;24,91 70,40 128,40q24 154Q24 107q54 73Q85 40q128 40)128,40;"/>
+                    <Edge cubics="!128 40(;128,40 1002,40 1002,40q128 40 1002 40)1002,40;"/>
+                    <Edge cubics="!1002 40(1002,40;1060,40 1107,91 1107,154q1002 40Q1046 40q1076 73Q1107 107q1107 154);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,162 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Bochecha" itemID="4fc63c08-00000220" linkageExportForAS="true" linkageBaseClass="AvatarPart" linkageClassName="Bochecha" lastModified="1340376500" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Bochecha" currentFrame="4">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-52.55" ty="-77.05"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1219 1660[1219 1687 1201 1706!1201 1706[1184 1725 1159 1725!1159 1725[1135 1725 1118 1706!1118 1706[1100 1687 1101 1660!1101 1660[1101 1633 1118 1614!1118 1614[1135 1595 1160 1595!1160 1595[1184 1595 1202 1614!1202 1614[1219 1633 1219
+ 1660"/>
+                    <Edge cubics="!1219 1660(;1219,1696 1192,1725 1159,1725q1219 1660Q1219 1687q1201 1706Q1184 1725q1159 1725);"/>
+                    <Edge cubics="!1159 1725(;1127,1725 1100,1696 1101,1660q1159 1725Q1135 1725q1118 1706Q1100 1687q1101 1660);"/>
+                    <Edge cubics="!1101 1660(;1101,1624 1127,1595 1160,1595q1101 1660Q1101 1633q1118 1614Q1135 1595q1160 1595);"/>
+                    <Edge cubics="!1160 1595(;1192,1595 1219,1624 1219,1660q1160 1595Q1184 1595q1202 1614Q1219 1633q1219 1660);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!798 119[797 146 780 165!780 165[763 184 738 184!738 184[714 184 697 165!697 165[679 146 679 119!679 119[680 92 697 73!697 73[714 54 739 54!739 54[763 54 781 73!781 73[798 92 798 119"/>
+                    <Edge cubics="!798 119(;797,155 771,184 738,184q798 119Q797 146q780 165Q763 184q738 184);"/>
+                    <Edge cubics="!738 184(;706,184 679,155 679,119q738 184Q714 184q697 165Q679 146q679 119);"/>
+                    <Edge cubics="!679 119(;680,83 706,54 739,54q679 119Q680 92q697 73Q714 54q739 54);"/>
+                    <Edge cubics="!739 54(;771,54 798,83 798,119q739 54Q763 54q781 73Q798 92q798 119);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Bochechas/bochecha1" name="colorivel" centerPoint3DX="21.15" centerPoint3DY="5.95">
+                  <matrix>
+                    <Matrix tx="21.15" ty="5.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Bochechas/bochecha2" name="colorivel" centerPoint3DX="21.15" centerPoint3DY="4.8">
+                  <matrix>
+                    <Matrix tx="21.15" ty="4.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Bochechas/bochecha3" name="colorivel" selected="true" centerPoint3DX="21.15" centerPoint3DY="7.6">
+                  <matrix>
+                    <Matrix tx="21.15" ty="7.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#69B1D4"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!807 135[807 164 789 184!789 184[770 205 744 205!744 205[719 205 700 184!700 184[682 164 682 135!682 135[682 106 700 86!700 86[719 65 744 65!744 65[770 65 789 86!789 86[807 106 807 135!147 178[128 199 102 199!102 199[77 199 58 178!58
+ 178[40 158 40 129!40 129[40 100 58 80!58 80[77 59 102 59!102 59[128 59 147 80!147 80[165 100 165 129!165 129[165 158 147 178"/>
+                    <Edge cubics="!807 135(;807,173 779,205 744,205q807 135Q807 164q789 184Q770 205q744 205);"/>
+                    <Edge cubics="!744 205(;710,205 682,173 682,135q744 205Q719 205q700 184Q682 164q682 135);"/>
+                    <Edge cubics="!682 135(;682,97 710,65 744,65q682 135Q682 106q700 86Q719 65q744 65);"/>
+                    <Edge cubics="!744 65(;779,65 807,97 807,135q744 65Q770 65q789 86Q807 106q807 135);"/>
+                    <Edge cubics="!165 129(;165,167 137,199 102,199q165 129Q165 158q147 178Q128 199q102 199);"/>
+                    <Edge cubics="!102 199(;68,199 40,167 40,129q102 199Q77 199q58 178Q40 158q40 129);"/>
+                    <Edge cubics="!40 129(;40,91 68,59 102,59q40 129Q40 100q58 80Q77 59q102 59);"/>
+                    <Edge cubics="!102 59(;137,59 165,91 165,129q102 59Q128 59q147 80Q165 100q165 129);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Bochechas/bocheca3" name="colorivel" centerPoint3DX="21.15" centerPoint3DY="6.6">
+                  <matrix>
+                    <Matrix tx="21.15" ty="6.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graficos Emotigums/Bochechas/bochecha4" name="colorivel" selected="true" centerPoint3DX="21.15" centerPoint3DY="5.8">
+                  <matrix>
+                    <Matrix tx="21.15" ty="5.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Caixa Desenho/container" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.3857421875" d="0.442642211914063" tx="1.6" ty="2.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Caixa Desenho/container" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.3857421875" d="0.442642211914063" tx="30.95" ty="2.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/Itens coloriveis/acessorios/Ac1" itemID="4fe1e9c3-0000048a" lastModified="1340205507">
+  <timeline>
+    <DOMTimeline name="Ac1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FE8F17"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!42 -72[42 -84 32 -92!32 -92[21 -100 8 -98!8 -98[-6 -97 -14 -87!-14 -87|-101 3!-101 3[-110 12 -109 24!-109 24[-108 36 -98 43!-98 43[-88 51 -75 50!-75 50[-61 49 -52 39!-52 39|34 -51!34 -51[43 -60 42 -72!54 -38|-33 52!-33 52[-42 62 -41
+ 74!-41 74[-40 85 -30 93!-30 93[-20 101 -7 99!-7 99[7 98 16 89!16 89|102 -1!102 -1[111 -11 110 -23!110 -23[110 -34 100 -42!100 -42[90 -49 76 -48!76 -48[63 -47 54 -38"/>
+                        <Edge cubics="!-98 43(;-85,53 -64,52 -52,39q-98 43Q-88 51q-75 50Q-61 49q-52 39);"/>
+                        <Edge cubics="!-52 39(;-52,39 34,-51 34,-51q-52 39 34 -51);"/>
+                        <Edge cubics="!34 -51(;46,-63 45,-81 32,-92q34 -51Q43 -60q42 -72Q42 -84q32 -92);"/>
+                        <Edge cubics="!32 -92(;18,-102 -3,-100 -14,-87q32 -92Q21 -100q8 -98Q-6 -97q-14 -87);"/>
+                        <Edge cubics="!-14 -87(;-14,-87 -101,3 -101,3q-14 -87 -101 3);"/>
+                        <Edge cubics="!-101 3(;-113,15 -112,33 -98,43q-101 3Q-110 12q-109 24Q-108 36q-98 43);"/>
+                        <Edge cubics="!-30 93(;-17,103 4,101 16,89q-30 93Q-20 101q-7 99Q7 98q16 89);"/>
+                        <Edge cubics="!16 89(;16,89 102,-1 102,-1q16 89 102 -1);"/>
+                        <Edge cubics="!102 -1(;114,-14 113,-32 100,-42q102 -1Q111 -11q110 -23Q110 -34q100 -42);"/>
+                        <Edge cubics="!100 -42(;86,-52 66,-50 54,-38q100 -42Q90 -49q76 -48Q63 -47q54 -38);"/>
+                        <Edge cubics="!54 -38(;54,-38 -33,52 -33,52q54 -38 -33 52);"/>
+                        <Edge cubics="!-33 52(;-45,65 -43,83 -30,93q-33 52Q-42 62q-41 74Q-40 85q-30 93);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

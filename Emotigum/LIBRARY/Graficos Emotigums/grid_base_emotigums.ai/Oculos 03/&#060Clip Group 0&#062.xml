@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graficos Emotigums/grid_base_emotigums.ai/Oculos 03/&lt;Clip Group 0&gt;" itemID="4fc63556-000001d8" lastModified="1338389846">
+  <timeline>
+    <DOMTimeline name="&lt;Clip Group 0&gt;">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!146 106|52 106!52 106|52 0!52 0|146 0!146 0|146 106"/>
+                    <Edge cubics="!146 106(;146,106 52,106 52,106q146 106 52 106);"/>
+                    <Edge cubics="!52 106(;52,106 52,0 52,0q52 106 52 0);"/>
+                    <Edge cubics="!52 0(;52,0 146,0 146,0q52 0 146 0);"/>
+                    <Edge cubics="!146 0(;146,0 146,106 146,106q146 0 146 106);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FE8F17"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!192 118|163 118!163 118[163 90 143 70!143 70[124 50 96 50!96 50[68 50 49 70!49 70[29 90 29 118!29 118|0 118!0 118[0 78 28 50!28 50[56 22 96 22!96 22[136 22 164 50!164 50[192 78 192 118"/>
+                    <Edge cubics="!192 118(;192,118 163,118 163,118q192 118p163 118);"/>
+                    <Edge cubics="!163 118(;163,81 133,50 96,50q163 118Q163 90q143 70Q124 50q96 50);"/>
+                    <Edge cubics="!96 50(;59,50 29,81 29,118q96 50Q68 50q49 70Q29 90q29 118);"/>
+                    <Edge cubics="!29 118(;29,118 0,118 0,118q29 118 0 118);"/>
+                    <Edge cubics="!0 118(;0,65 43,22 96,22q0 118Q0 78q28 50Q56 22q96 22);"/>
+                    <Edge cubics="!96 22(;149,22 192,65 192,118q96 22Q136 22q164 50Q192 78q192 118);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

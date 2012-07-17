@@ -1,0 +1,82 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TelaCenario/Cenario" itemID="4fc39768-000002c9" linkageExportForAS="true" linkageBaseClass="AvatarPart" linkageClassName="Cenario" lastModified="1340911220" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Cenario" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TelaCenario/fundo1" name="fundo" centerPoint3DX="124.95" centerPoint3DY="82.5">
+                  <matrix>
+                    <Matrix tx="-300" ty="-75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="424.95" y="157.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TelaCenario/fundo2" name="fundo" centerPoint3DX="124.95" centerPoint3DY="82.5">
+                  <matrix>
+                    <Matrix tx="-300" ty="-75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="424.95" y="157.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TelaCenario/fundo3" name="fundo" centerPoint3DX="124.95" centerPoint3DY="82.5">
+                  <matrix>
+                    <Matrix tx="-300" ty="-75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="424.95" y="157.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TelaCenario/fundo4" name="fundo" centerPoint3DX="125" centerPoint3DY="82.5">
+                  <matrix>
+                    <Matrix tx="-300" ty="-75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="425" y="157.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TelaCenario/fundo5" name="fundo" centerPoint3DX="125" centerPoint3DY="82.5">
+                  <matrix>
+                    <Matrix tx="-300" ty="-75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="425" y="157.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Landing Page/AnimacaoTV" itemID="50007349-000004e9" lastModified="1342207155">
+  <timeline>
+    <DOMTimeline name="AnimacaoTV" currentFrame="269">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Landing Page/menina cabelo azul.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="90" duration="90" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Landing Page/menina laço rosa.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="180" duration="89" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Landing Page/menino óculos.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="269" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Landing Page/menino óculos.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

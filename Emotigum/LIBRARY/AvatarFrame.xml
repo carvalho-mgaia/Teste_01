@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AvatarFrame" itemID="4fe8a981-00000249" lastModified="1340649203" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="AvatarFrame">
+      <layers>
+        <DOMLayer name="Codigo" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[ExemploContainer.mask = mascara;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Frame" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="6">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3600 3600|0 3600!0 3600|0 0!0 0|3600 0!3600 0|3600 3600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mascara" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Caixa Desenho/container" name="mascara" symbolType="button">
+                  <matrix>
+                    <Matrix a="7.07614135742188" d="7.07614135742188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#990000"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Container Avatar" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Container" name="ExemploContainer" selected="true">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

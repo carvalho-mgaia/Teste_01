@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Easter Egg/TULIAO" itemID="50007da1-00000d0b" lastModified="1342209588">
+  <timeline>
+    <DOMTimeline name="TULIAO" currentFrame="11">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Easter Egg/1.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Easter Egg/2.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Easter Egg/3.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Easter Egg/4.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Caixa Padrao App/Shape 212 + Group 1" itemID="4fe23520-0000038c" lastModified="1340224800">
+  <timeline>
+    <DOMTimeline name="Shape 212 + Group 1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Caixa Padrao App/Shape 212 + Group 1_0" blendMode="layer" centerPoint3DX="347.6" centerPoint3DY="207.15">
+                  <transformationPoint>
+                    <Point x="347.5" y="207"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

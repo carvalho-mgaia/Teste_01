@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TelaFinal/caixa2.ai Assets_0/Shape 209/Shape 209" itemID="4feca08c-0000055a" lastModified="1340907660">
+  <timeline>
+    <DOMTimeline name="Shape 209">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!2520 20|2360 0!2360 0|800 10!800 10[340 20 280 10!280 10[243 4 138 36!138 36[85 53 40 70!40 70|0 210!0 210|40 330!40 330|40 460!40 460|70 570!70 570|1190 570!1190 570|2130 540!2130 540|2400 560!2400 560|2540 440!2540 440|2520 20"/>
+                            <Edge cubics="!2520 20(;2520,20 2360,0 2360,0q2520 20 2360 0);"/>
+                            <Edge cubics="!2360 0(;2360,0 800,10 800,10q2360 0 800 10);"/>
+                            <Edge cubics="!800 10(800,10;800,10 340,20 280,10q800 10Q340 20q280 10)280,10;"/>
+                            <Edge cubics="!280 10(;220,0 40,70 40,70q280 10Q243 4q138 36Q85 53q40 70);"/>
+                            <Edge cubics="!40 70(;40,70 0,210 0,210q40 70 0 210);"/>
+                            <Edge cubics="!0 210(;0,210 40,330 40,330q0 210 40 330);"/>
+                            <Edge cubics="!40 330(;40,330 40,460 40,460q40 330 40 460);"/>
+                            <Edge cubics="!40 460(;40,460 70,570 70,570q40 460 70 570);"/>
+                            <Edge cubics="!70 570(;70,570 1190,570 1190,570q70 570 1190 570);"/>
+                            <Edge cubics="!1190 570(;1190,570 2130,540 2130,540q1190 570 2130 540);"/>
+                            <Edge cubics="!2130 540(;2130,540 2400,560 2400,560q2130 540 2400 560);"/>
+                            <Edge cubics="!2400 560(;2400,560 2540,440 2540,440q2400 560 2540 440);"/>
+                            <Edge cubics="!2540 440(;2540,440 2520,20 2520,20q2540 440 2520 20);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
