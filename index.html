@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Paypal - Nossos Sonhos, com Paypal pode!</title>
+		<style type="text/css">
+			body
+			{
+				margin:0px;
+				padding:0px;
+				background-color:#FFFFFF;
+				text-align:center;
+			}
+			
+			#all
+			{
+				width:100%;
+			}
+			
+			#center
+			{
+				width:814px;
+				height:851px;
+				margin-left:auto;
+				margin-right:auto;
+				text-align:left;
+			}
+			
+			#containerSwf
+			{
+				position:absolute;
+				padding-top:188px;
+				padding-left:29px;
+				z-index:2;
+			}
+			
+			#fb-like
+			{
+				position:absolute;
+				padding-left:654px;
+				z-index:3;
+			}
+		</style>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+		<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+	</head>
+	<body leftmargin="0" topmargin="0" horizontalscroll>
+		<script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1&appId=383032915067187";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<div id="fb-root"></div>
+		<div id="all">
+			<div id="center">
+				<div id="fb-like">
+					<fb:like href="https://www.facebook.com/PayPalBrasil" send="true" layout="button_count" width="50" show_faces="false">
+					</fb:like>
+				</div>
+				</div>
+				<div id="containerSwf">
+					<div id="flashContent">
+						<h1>Flash Player 11 ou superior requerido.</h1>
+						<p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript">
+			//Dynamic publishing with swfObject 
+			
+			//A 'name' attribute with the same value as the 'id' is REQUIRED for Chrome/Mozilla browsers
+			var params = {wmode: "transparent"};
+			swfobject.embedSWF("Preloaderswf", "flashContent", "760", "600", "11", null, null, params, {name:"flashContent"});
+		</script>
+	</body>
+</html>
